@@ -1,0 +1,37 @@
+<CExplosionInfoManager>
+  <aExplosionTagData>
+    <Item>
+      <name>EXP_TAG_APFSDS_CANNON</name>
+      <damageAtCentre value="9999.000000" />
+      <damageAtEdge value="30.000000" />
+      <networkPlayerModifier value="1.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="2.000000" />
+      <initSpeed value="100.000000" />
+      <decayFactor value="-1.000000" />
+      <forceFactor value="500.000000" />
+      <fRagdollForceModifier value="2000.00" />
+      <fSelfForceModifier value="1.000000" />
+      <directedWidth value="0.000000" />
+      <directedLifeTime value="0.000000" />
+      <camShakeName>GRENADE_EXPLOSION_SHAKE</camShakeName>
+      <camShake value="0.250000" />
+      <camShakeRollOffScaling value="1.000000" />
+      <shockingEventVisualRangeOverride value="-1.000000" />
+      <shockingEventAudioRangeOverride value="-1.000000" />
+      <minorExplosion value="false" />
+      <vfxTagHashName>EXP_VFXTAG_PIPEBOMB</vfxTagHashName>
+      <fragDamage value="60000.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="true" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="false" />
+	  <bUseDistanceDamageCalc value="true" />
+    </Item>
+  </aExplosionTagData>
+</CExplosionInfoManager>

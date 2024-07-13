@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>GTAKOTH Loading Screen</title>
+	<style type="text/css">
+		@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+		* {
+			font-family: 'Poppins', sans-serif;
+		}
+
+		.video-wrapper {
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+		.video {
+			z-index: 1;
+			padding: 0;
+			margin: 0;
+			width: 125%;
+			height: 125%;
+		}
+		.loading-screen {
+			display: flex;
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			font-family: sans-serif;
+			z-index: 2;
+		}
+		.loading-screen .logo img {
+			width: 18rem;
+		}
+
+		.loading-screen .logo h1 {
+			padding: 0;
+			margin: 0;
+			color: white;
+			text-shadow: 2px 2px 2px black;
+		}
+		.loading-screen .logo h2 {
+			padding: 0;
+			margin: 0;
+			color: white;
+			text-shadow: 2px 2px 2px black;
+		}
+	</style>
+</head>
+<body>
+	<div class="video-wrapper">
+		<div id="vid" class="video"></div>
+	</div>
+	<div class="loading-screen">
+		<div class="logo">
+			<img src="https://cdn.cosmicv.net/cosmic.svg">
+		</div>
+	</div>
+	<script>
+      var tag = document.createElement('script');
+
+      tag.src = "https://www.youtube.com/iframe_api";
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+      var player;
+      function onYouTubeIframeAPIReady() {
+        player = new YT.Player('vid', {
+          height: '1280',
+          width: '720',
+          videoId: 'YEhhfl3PrwQ',
+          events: {
+            'onReady': onPlayerReady
+          }
+        });
+      }
+
+      function onPlayerReady(event) {
+      	event.target.setVolume(5);
+        event.target.playVideo();
+      }
+    </script>
+</body>
+</html>

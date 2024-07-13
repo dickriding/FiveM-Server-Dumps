@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<!-- ### launcher ### -->
+		
+		<Item>
+			<modelName>W_LR_dark_aim120</modelName>
+			<txdName>W_LR_dark_aim120</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

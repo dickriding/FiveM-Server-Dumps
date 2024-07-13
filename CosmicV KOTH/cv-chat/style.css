@@ -1,0 +1,517 @@
+src: url('../BarlowCondensed.ttf');
+* {
+	font-family: 'Barlow Condensed', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+
+.name-prefix {
+  font-size: 15px;
+    display: inline-flex;
+    background: rgba(0, 0, 0, 0.3);
+    padding: 0px;
+    margin-right: 2px;
+}
+
+.blueBorder {
+  border-left: 4px solid #0094FF;
+}
+
+.redBorder {
+  border-left: 4px solid #FF3535;
+}
+
+.greenBorder {
+  border-left: 4px solid #007F0E;
+}
+
+
+.rank {
+    background: rgba(0, 0, 0, 0.3);
+    padding: 2px 5px;
+    border-radius: 0px;
+}
+
+.id {
+  background: rgba(0, 0, 0, 0.3);
+  padding: 3px 5px;
+  border-radius: 0px;
+  font-size: 13px;
+}
+
+
+.chat-window {
+	position: absolute;
+	top: 3.5%;
+	left: 0.8%;
+	width: 38%;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	height: 22%;
+	max-width: 600px;
+	background-color: #181818;
+	-webkit-animation-duration: 2s;
+}
+
+.chat-input {
+    top: 26.0% !important;
+    max-width: 600px;
+}
+
+.chat-input > div.input {
+    background-color: #181818de !important;
+}
+
+.chat-input > div.input > textarea {
+    background-color: rgba(0, 0, 0, 0.2) !important;
+    font-size: 1.45vh !important;
+}
+
+.chat-messages {
+    font-size: 17px !important;
+    height: 96% !important;
+}
+
+.chat-hide-state {
+    text-transform: uppercase;
+    font-size: 1.3vh;
+    padding: 6px;
+    font-weight: 600;
+}
+
+.msg {
+  padding-top: 0%;
+  font-size: 1.7vh;
+}
+
+.prefix {
+  padding: 0px 10px;
+  font-size: 1.3vh;
+  font-weight: 400;
+}
+
+.suggestions {
+    background-color: rgba(0, 0, 0, 0.2) !important;
+    font-size: 1.4vh !important;
+}
+
+textarea {
+    background-color: transparent !important;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.multiline {
+  background-color: rgba(0, 0, 0, 0.0);
+    margin-left: 0% !important;
+    text-indent: unset !important;
+}
+
+.param {
+  color: white;
+}
+
+.disabled {
+  color: grey;
+}
+
+.rainbow {
+  background: linear-gradient(238deg, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3);
+  background-size: 1200% 1200%;
+  -webkit-animation: rainbow 30s ease infinite;
+  animation: rainbow 30s ease infinite;
+}
+
+.weed {
+	animation: snow 60s linear infinite;
+  background-size: 275% 275%;
+	background-image: url('https://cdn.cosmicv.net/koth/cosmic_shop/tag_weed.png');
+}
+
+.weed2 {
+	animation: snow 60s linear infinite;
+  background-size: 275% 275%;
+	background-image: url('https://cdn.cosmicv.net/koth/cosmic_shop/tag_weed.png');
+}
+
+.flames {
+  background-size: 100% 100%;
+	background-image: url('https://cdn.cosmicv.net/koth/cosmic_shop/tag_flames.gif');
+}
+
+.nyan {
+  background-size: 125% 125%;
+  background-position: center;
+	background-image: url('https://cdn.cosmicv.net/koth/cosmic_shop/tag_nyan.gif');
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+.candy {
+  --color1: rgba(61,167,127,0.8);
+  --color2: rgba(255,76,108,0.8);
+  background: repeating-linear-gradient(
+    -45deg,
+    var(--color1),
+    var(--color1) 7px,
+    var(--color2) 7px,
+    var(--color2) 14px
+  );
+  -webkit-animation: 60s linear 0s infinite move;
+  animation: 60s linear 0s infinite move;
+}
+
+@-webkit-keyframes rainbow {
+  0% { background-position: 0% 50% }
+  50% { background-position: 100% 50% }
+  100% { background-position: 0% 50% }
+}
+@keyframes rainbow {
+  0% { background-position: 0% 50% }
+  50% { background-position: 100% 50% }
+  100% { background-position: 0% 50% }
+}
+
+@keyframes move {
+  from {
+    background-position: 0px;
+  }
+  to {
+    background-position: 1000px;
+  }
+}
+
+.snowflake {
+	animation: snow 20s linear infinite;
+  background-size: 1000% 1000%;
+	background-image: url('https://cdn.cosmicv.net/koth/chat-tags/snow-3.png');
+}
+
+.stars {
+	animation: snow 20s linear infinite;
+  background-size: 300% 300%;
+	background-image: url('https://cdn.cosmicv.net/koth/chat-tags/stars.png');
+}
+
+.candycane {
+  --color1: rgba(255, 255, 255, 0.8);
+  --color2: rgba(236, 36, 73, 0.8);
+  background: repeating-linear-gradient(
+    -45deg,
+    var(--color1),
+    var(--color1) 7px,
+    var(--color2) 7px,
+    var(--color2) 14px
+  );
+  -webkit-animation: 60s linear 0s infinite move;
+  animation: 60s linear 0s infinite move;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+@keyframes snow {
+  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
+  100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
+}
+
+
+
+.flag-ar {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/ar.png");
+}
+
+.flag-cz {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/cz.png");
+}
+
+.flag-da {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/da.png");
+}
+
+.flag-dk {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/dk.png");
+}
+
+.flag-gb {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/gb.png");
+}
+
+.flag-us {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/us.png");
+}
+
+.flag-es {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/es.png");
+}
+
+.flag-et {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/et.png");
+}
+
+.flag-fi {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/fi.png");
+}
+
+.flag-fr {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/fr.png");
+}
+
+.flag-il {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/il.png");
+}
+
+.flag-hi {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/hi.png");
+}
+
+.flag-id {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/id.png");
+}
+
+.flag-it {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/it.png");
+}
+
+.flag-lt {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/lt.png");
+}
+
+.flag-nl {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/nl.png");
+}
+
+.flag-pl {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/pl.png");
+}
+
+.flag-pt {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/pt.png");
+}
+
+.flag-ro {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/ro.png");
+}
+
+.flag-ru {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/ru.png");
+}
+
+.flag-sv {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/sv.png");
+}
+
+.flag-tr {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/tr.png");
+}
+
+.flag-ua {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/ua.png");
+}
+
+.flag-tw {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/tw.png");
+}
+
+.flag-wls {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/gb-wls.png");
+}
+
+.flag-in {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/in.png");
+}
+
+.flag-se {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/se.png");
+}
+
+.flag-mx {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/mx.png");
+}
+
+.flag-my {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/my.png");
+}
+
+.flag-do {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://flagcdn.com/w80/do.png");
+}
+
+.ire {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://cdn.cosmicv.net/koth/cosmic_shop/tag_ire.png");
+}
+
+.rbw {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://cdn.cosmicv.net/koth/cosmic_shop/tag_rbw.png");
+}
+
+.prg {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://cdn.cosmicv.net/koth/cosmic_shop/tag_prg.png");
+}
+
+.bis {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://cdn.cosmicv.net/koth/cosmic_shop/tag_bis.png");
+}
+
+.tgr {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://cdn.cosmicv.net/koth/cosmic_shop/tag_tgr.png");
+}
+
+.ins {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://cdn.cosmicv.net/koth/cosmic_shop/tag_ins.png");
+}
+
+.pan {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://cdn.cosmicv.net/koth/cosmic_shop/tag_pan.png");
+}
+
+.sct {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://cdn.cosmicv.net/koth/cosmic_shop/tag_sct.png");
+}
+
+.peru {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://cdn.cosmicv.net/koth/cosmic_shop/tag_peru.png");
+}
+
+.brazil {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://cdn.cosmicv.net/koth/cosmic_shop/tag_brazil.png");
+}
+
+.estonia {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://cdn.cosmicv.net/koth/cosmic_shop/tag_estonia.png");
+}
+
+.belgium {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://cdn.cosmicv.net/koth/cosmic_shop/tag_belgium.png");
+}
+
+.saudi {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://cdn.cosmicv.net/koth/cosmic_shop/tag_saudi.png");
+}
+
+.viet {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://cdn.cosmicv.net/koth/cosmic_shop/tag_viet.png");
+}
+
+.norway {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://cdn.cosmicv.net/koth/cosmic_shop/tag_norway.png");
+}
+
+.iran {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://cdn.cosmicv.net/koth/cosmic_shop/tag_iran.png");
+}
+
+.australia {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://cdn.cosmicv.net/koth/cosmic_shop/tag_australia.png");
+}
+
+.england {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://cdn.cosmicv.net/koth/cosmic_shop/tag_england.png");
+}
+
+.philippines {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://cdn.cosmicv.net/koth/cosmic_shop/tag_philippines.png");
+}
+
+.rasta {
+  background-size: 100% 100%;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  background-image: url("https://cdn.cosmicv.net/koth/cosmic_shop/tag_rasta.png");
+}

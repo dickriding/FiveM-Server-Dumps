@@ -1,0 +1,15 @@
+CALLINGCARDS = {
+    ['christmas1'] = { fileName = "christmas5.png" },
+    ['christmas2'] = { fileName = "christmas4.png" },
+    ['christmas3'] = { fileName = "christmas3.png" },
+    ['christmas4'] = { fileName = "christmas2.png" },
+    ['christmas5'] = { fileName = "christmas1.png" },
+    ['christmas6'] = { fileName = "christmas6.gif" },
+    ['neco'] = { fileName = "Neco.gif" },
+    ['antony'] = { fileName = "antony.gif" },
+    ['divine'] = { fileName = "Divine.gif" },
+    ['buu'] = { fileName = "Buu.gif" },
+    ['fuzza'] = { fileName = "Fuzza.gif" },
+    ['cosmicchampss1'] = { fileName = "cosmicchampss1.gif" },
+    ['cosmicchampss2'] = { fileName = "cosmicchampss2.gif" },
+}

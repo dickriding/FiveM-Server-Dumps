@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    
+<CVehicleModelInfoVarGlobal>
+  <Kits>
+	<Item>
+      <kitName>798_wyvern_modkit</kitName>
+      <id value="798" />
+      <kitType>MKT_SPECIAL</kitType>
+      <visibleMods>
+        <Item>
+          <modelName>wyvern_elevators</modelName>
+          <modShopLabel>WT_WINGSWEEP</modShopLabel>
+          <linkedModels>
+		    		<Item>wyvern_canards</Item>
+					<Item>wyvern_wing_r</Item>
+					<Item>wyvern_wing_l</Item>
+          </linkedModels>
+          <turnOffBones>
+		    		<Item>mod_a</Item>
+					<Item>mod_b</Item>
+					<Item>mod_c</Item>
+					<Item>mod_d</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>mod_m</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+		  <weaponSlot />
+		 </Item>
+		<Item>
+          <modelName>wyvern_copro</modelName>
+          <modShopLabel>COPRO</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>mod_g</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+		  <weaponSlot />
+		 </Item>
+		<Item>
+          <modelName>wyvern_eml</modelName>
+          <modShopLabel>wyvern_EML</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		    		<Item>mod_e</Item>
+					<Item>mod_f</Item>
+					<Item>mod_k</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+		  <weaponSlot value="2" />
+		 </Item>
+      </visibleMods>
+	  <linkMods>
+		<Item>
+          <modelName>wyvern_canards</modelName>
+          <bone>mod_p</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>wyvern_wing_l</modelName>
+          <bone>mod_n</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>wyvern_wing_r</modelName>
+          <bone>mod_o</bone>
+          <turnOffExtra value="false" />
+        </Item>
+	  </linkMods>
+      <slotNames>      
+        <Item>
+          <slot>VMT_CHASSIS</slot>
+          <name>WT_WINGSWEEP</name>
+        </Item>
+		<Item>
+          <slot>VMT_SPOILER</slot>
+          <name>COPRO</name>
+        </Item>
+		<Item>
+          <slot>VMT_ROOF</slot>
+          <name>wyvern_EML</name>
+        </Item>
+      </slotNames>
+      <statMods>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="75" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="65" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="40" />
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="80" />
+          <audioApply value="1.000000" />
+          <weight value="30" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="40" />
+          <type>VMT_ARMOUR</type>
+        </Item>  
+      </statMods>
+      <slotNames>      
+        <Item>
+          <slot>VMT_CHASSIS</slot>
+          <name>WT_WINGSWEEP</name>
+        </Item>
+		<Item>
+          <slot>VMT_SPOILER</slot>
+          <name>COPRO</name>
+        </Item>
+		<Item>
+          <slot>VMT_ROOF</slot>
+          <name>wyvern_EML</name>
+        </Item>
+      </slotNames>
+      <liveryNames />
+    </Item>
+  </Kits> 
+    <Lights />
+</CVehicleModelInfoVarGlobal>
