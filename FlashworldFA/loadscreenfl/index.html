@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, target-densitydpi=device-dpi"
+      name="viewport"
+    />
+    <title>FlashLand FA</title>
+    <style>
+      html,
+      body {
+        height: 100%;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        cursor: none;
+      }
+
+      #cursor {
+        position: fixed;
+        width: 20px;
+        z-index: 100;
+        pointer-events: none;
+      }
+
+      video {
+        position: fixed;
+        right: 0;
+        bottom: 0;
+        min-width: 100%;
+        min-height: 100%;
+        width: auto;
+        height: auto;
+        z-index: -100;
+        background-color: black !important;
+        object-fit: "cover";
+      }
+
+      .title {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+
+      h1,
+      h2,
+      h3 {
+        color: white;
+        text-align: center;
+        text-transform: uppercase;
+        font-style: normal;
+        padding: 0;
+      }
+
+      h1 {
+        font-family: "Oswald", sans-serif;
+        font-size: 120px;
+        font-weight: 400;
+        letter-spacing: 0.15em;
+        margin: 10px auto 16px auto;
+      }
+
+      .slide {
+        position: relative;
+        padding-bottom: 10px;
+      }
+
+      h3 {
+        margin: 0;
+        font-family: "Dosis", sans-serif;
+        font-weight: 400;
+        font-size: 14px;
+        letter-spacing: 0.25em;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        transition: opacity 1s ease-in;
+      }
+
+      #player-control-container {
+        position: absolute;
+        top: 40px;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: white;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      #player-control {
+        display: flex;
+        align-items: center;
+      }
+
+      img {
+        width: 26px;
+        height: 26px;
+        margin-right: 8px;
+      }
+
+      input[type="range"] {
+        -webkit-appearance: none;
+        cursor: none;
+        width: 160px;
+        height: 2px;
+        background: rgba(255, 255, 255, 0.8);
+      }
+
+      input[type="range"]::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        height: 10px;
+        width: 10px;
+        border-radius: 10px;
+        border: 1px solid rgb(215, 215, 215);
+        background-color: rgb(255, 255, 255);
+      }
+
+      h2 {
+        font-family: "Dosis", sans-serif;
+        font-weight: 400;
+        font-size: 14px;
+        letter-spacing: 0.25em;
+        margin: 4px;
+      }
+    </style>
+    <script>
+      var currentText = 0;
+      var video;
+      var volumeIcon;
+      var volume = localStorage.getItem("loadscreenvolume") || "0.5";
+
+      function setVolume(value) {
+        volume = value;
+        video.volume = volume;
+
+        setVolumeIcon();
+
+        localStorage.setItem("loadscreenvolume", value);
+      }
+
+      function setVolumeIcon() {
+        let img = "img/volume-mute.png";
+        if (volume >= 0.5) {
+          img = "img/volume-loud.png";
+        } else if (volume > 0) {
+          img = "img/volume-low.png";
+        }
+        volumeIcon.src = img;
+      }
+
+      document.addEventListener("DOMContentLoaded", function (event) {
+        video = document.getElementById("video");
+        video.volume = volume;
+
+        const slider = document.getElementById("volume-slider");
+        slider.value = volume;
+        slider.addEventListener("change", (e) => setVolume(e.target.value));
+
+        volumeIcon = document.getElementById("volume-icon");
+        volumeIcon.addEventListener("click", () => {
+          setVolume(volume == "0" ? "0.5" : "0");
+          slider.value = volume;
+        });
+        setVolumeIcon();
+
+        const changeText = () => {
+          document.getElementById("text" + currentText).style.opacity = "0";
+          currentText = currentText == 2 ? 0 : currentText + 1;
+          document.getElementById("text" + currentText).style.opacity = "1";
+          setTimeout(changeText, 8000);
+        };
+        setTimeout(changeText, 8000);
+
+        var cursor = document.getElementById("cursor");
+        window.addEventListener("mousemove", function (e) {
+          cursor.style.left = e.clientX + "px";
+          cursor.style.top = e.clientY + "px";
+        });
+      });
+    </script>
+    <link
+      href="http://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900%7CDosis:200,300,400,500,600,700,800%7COswald:300,400,700%7CMontserrat:400,700"
+      rel="stylesheet"
+      type="text/css"
+    />
+  </head>
+  <body>
+    <div id="player-control-container">
+      <h2>Musique: Tiakola - Meuda</h2>
+      <div id="player-control">
+        <img id="volume-icon" src="img/volume-loud.png" />
+        <input
+          id="volume-slider"
+          type="range"
+          min="0"
+          max="1"
+          step=".05"
+          value="0"
+          onchange="onchange"
+        />
+      </div>
+      <!-- onchange="V.onChangeVolume(this.value)" -->
+      <!-- onmousemove="V.onChangeVolumeMouseSlider(this.value)" -->
+    </div>
+    <video
+      id="video"
+      src="https://gm.adversityv2.com/loadscreenflmeuda.mp4"
+      autoplay
+      loop
+    ></video>
+    <div class="title">
+      <div class="slide">
+        <h3 id="text0">Bienvenue sur Flashworld</h3>
+        <h3 id="text1" style="opacity: 0">
+          N'hésitez pas à poucave votre entourage !
+        </h3>
+        <h3 id="text2" style="opacity: 0">
+          /report ou ticket en cas de problème !
+        </h3>
+      </div>
+      <h1>Flashworld</h1>
+      <h3>· discord.gg/flashworld ·</h3>
+    </div>
+
+    <svg
+      id="cursor"
+      x="0px"
+      y="0px"
+      viewBox="0 0 512 512"
+      style="enable-background: new 0 0 512 512"
+      xml:space="preserve"
+    >
+      <polygon
+        style="fill: #b6b6b6"
+        points="284.197,328.561 346.079,469.645 297.825,490.812 249.521,512 187.628,370.917 82.26,471.745 82.49,0 429.74,319.313"
+      />
+      <polygon
+        style="fill: #717171"
+        points="284.197,328.561 346.079,469.645 297.825,490.812 82.49,0 429.74,319.313"
+      />
+    </svg>
+  </body>
+</html>

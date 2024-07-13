@@ -1,0 +1,71 @@
+.target-wrapper {
+  display: none;
+}
+
+.target-eye {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateY(-50%) translateX(-50%);
+  font-size: 2vh;
+}
+
+.target-label-wrapper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: 2vh;
+  margin-top: -1.35vh;
+}
+
+.target-label {
+  list-style: none;
+  font-size: 1.3vh;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  user-select: none;
+  white-space: nowrap;
+  padding-left: 0.2vh;
+}
+
+.target-icon {
+  color: #5296b9;
+}
+
+.target-item {
+  background: linear-gradient(
+    90deg,
+    rgba(23, 25, 29, 0.7) 0%,
+    rgba(23, 25, 29, 0.6) 66%,
+    rgba(23, 25, 29, 0) 100%
+  );
+  border: 0px;
+  border-left: 0.2vh solid #5296b9;
+  border-radius: 0.2vh;
+  margin-bottom: 0.2vh;
+  width: 25vh;
+  padding-left: 0.6vh;
+  height: 2.16vh;
+}
+
+.target-item:hover {
+  background: linear-gradient(
+    90deg,
+    rgba(60, 66, 77, 0.7) 0%,
+    rgba(60, 66, 77, 0.6) 66%,
+    rgba(60, 66, 77, 0) 100%
+  );
+  border-left: 0.2vh solid #5296b9;
+}
+
+.flashback .target-icon {
+  color: #b19bd9;
+}
+
+.flashback .target-item {
+  border-left: 0.2vh solid #b19bd9;
+}
+
+.flashback .target-item:hover {
+  border-left: 0.2vh solid #b19bd9;
+}

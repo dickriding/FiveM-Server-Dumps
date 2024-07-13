@@ -1,0 +1,17 @@
+{
+	"create-account": "Create an account",
+	"name": "Name",
+	"username": "Username",
+	"password": "Password",
+	"confirm-password": "Confirm password",
+	"submit": "Submit",
+	"login": "Log in",
+	"logout": "Log out",
+	"already-account": "Already registered",
+	"no-account": "You d'on't have an account",
+	"new-tweet": "New tweet",
+	"add-photo": "Add photo",
+	"remove-photo": "Remove photo",
+	"whatsup": "What's up ?",
+	"update-avatar": "Update photo"
+}

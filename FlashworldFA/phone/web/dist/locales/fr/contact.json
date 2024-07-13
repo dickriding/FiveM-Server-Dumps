@@ -1,0 +1,20 @@
+{
+	"contacts": "Contacts",
+	"groups": "Groupes",
+	"video": "Video",
+	"mail": "Mail",
+	"payer": "Payer",
+	"send-a-message": "Envoyer un message",
+	"share-contact": "Partager le contact",
+	"add-emergency-contact": "Ajouter aux contacts d'urgence",
+	"share-position": "Partager ma position",
+	"delete-contact": "Supprimer le contact",
+	"block-contact": "Bloquer le contact",
+	"unblock-contact": "Débloquer contact",
+	"lastname": "Nom",
+	"firstname": "Prénom",
+	"change-pic": "Changer de photo",
+	"add-pic": "Ajouter une photo",
+	"delete-pic": "Supprimer la photo",
+	"new-contact": "Nouveau contact"
+}

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+    <variationData>
+        <!-- LSSD Pack Extended - Main Subpack data starts here -->
+        <Item>
+            <modelName>sheriffscoutold</modelName>
+            <colors>
+                <Item>
+                    <indices content="char_array">
+                        111
+                        2
+                        0
+                        147
+                        0
+                        0
+                    </indices>
+                    <liveries/>
+                </Item>
+            </colors>
+            <kits>
+                <Item>0_default_modkit</Item>
+            </kits>
+            <windowsWithExposedEdges/>
+            <plateProbabilities>
+                <Probabilities>
+                    <Item>
+                        <Name>Police guv plate</Name>
+                        <Value value="100"/>
+                    </Item>
+                </Probabilities>
+            </plateProbabilities>
+            <lightSettings value="72"/>
+            <sirenSettings value="619"/>
+        </Item>
+        <Item>
+            <modelName>sheriffslick</modelName>
+            <colors>
+                <Item>
+                    <indices content="char_array">
+                        111
+                        2
+                        0
+                        114
+                        144
+                        144
+                    </indices>
+                    <liveries/>
+                </Item>
+                <Item>
+                    <indices content="char_array">
+                        111
+                        2
+                        0
+                        2
+                        7
+                        7
+                    </indices>
+                    <liveries/>
+                </Item>
+                <Item>
+                    <indices content="char_array">
+                        111
+                        2
+                        0
+                        114
+                        8
+                        8
+                    </indices>
+                    <liveries/>
+                </Item>
+            </colors>
+            <kits>
+                <Item>0_default_modkit</Item>
+            </kits>
+            <windowsWithExposedEdges/>
+            <plateProbabilities>
+                <Probabilities>
+                    <Item>
+                        <Name>Police guv plate</Name>
+                        <Value value="100"/>
+                    </Item>
+                </Probabilities>
+            </plateProbabilities>
+            <lightSettings value="1"/>
+            <sirenSettings value="613"/>
+        </Item>
+        <Item>
+            <modelName>sheriffheavy</modelName>
+            <colors>
+                <Item>
+                    <indices content="char_array">
+                        111
+                        11
+                        0
+                        2
+                        5
+                        5
+                    </indices>
+                    <liveries>
+                        <Item value="true"/>
+                        <Item value="true"/>
+                        <Item value="true"/>
+                        <Item value="true"/>
+                        <Item value="true"/>
+                        <Item value="true"/>
+                        <Item value="true"/>
+                        <Item value="true"/>
+                        <Item value="true"/>
+                        <Item value="true"/>
+                    </liveries>
+                </Item>
+                <Item>
+                    <indices content="char_array">
+                        110
+                        2
+                        2
+                        4
+                        5
+                        5
+                    </indices>
+                    <liveries>
+                        <Item value="false"/>
+                        <Item value="false"/>
+                        <Item value="false"/>
+                        <Item value="false"/>
+                        <Item value="false"/>
+                        <Item value="false"/>
+                        <Item value="false"/>
+                        <Item value="false"/>
+                        <Item value="true"/>
+                        <Item value="true"/>
+                    </liveries>
+                </Item>
+                <Item>
+                    <indices content="char_array">
+                        75
+                        2
+                        2
+                        4
+                        5
+                        5
+                    </indices>
+                    <liveries>
+                        <Item value="false"/>
+                        <Item value="false"/>
+                        <Item value="false"/>
+                        <Item value="false"/>
+                        <Item value="false"/>
+                        <Item value="false"/>
+                        <Item value="false"/>
+                        <Item value="false"/>
+                        <Item value="true"/>
+                        <Item value="true"/>
+                    </liveries>
+                </Item>
+                <Item>
+                    <indices content="char_array">
+                        8
+                        2
+                        2
+                        4
+                        5
+                        5
+                    </indices>
+                    <liveries>
+                        <Item value="false"/>
+                        <Item value="false"/>
+                        <Item value="false"/>
+                        <Item value="false"/>
+                        <Item value="false"/>
+                        <Item value="false"/>
+                        <Item value="false"/>
+                        <Item value="false"/>
+                        <Item value="true"/>
+                        <Item value="true"/>
+                    </liveries>
+                </Item>
+            </colors>
+            <kits>
+                <Item>596_s_heavy_modkit</Item>
+            </kits>
+            <windowsWithExposedEdges/>
+            <plateProbabilities>
+                <Probabilities>
+                    <Item>
+                        <Name>police guv plate</Name>
+                        <Value value="100"/>
+                    </Item>
+                </Probabilities>
+            </plateProbabilities>
+            <lightSettings value="44"/>
+            <sirenSettings value="610"/>
+        </Item>
+        <Item>
+            <modelName>sheriffcont</modelName>
+            <colors>
+                <Item>
+                    <indices content="char_array">
+                        111
+                        2
+                        0
+                        147
+                    </indices>
+                    <liveries/>
+                </Item>
+                <Item>
+                    <indices content="char_array">
+                        111
+                        2
+                        0
+                        112
+                    </indices>
+                    <liveries/>
+                </Item>
+            </colors>
+            <kits>
+                <Item>0_suv_modkit</Item>
+            </kits>
+            <windowsWithExposedEdges/>
+            <plateProbabilities>
+                <Probabilities>
+                    <Item>
+                        <Name>Police guv plate</Name>
+                        <Value value="100"/>
+                    </Item>
+                </Probabilities>
+            </plateProbabilities>
+            <lightSettings value="0"/>
+            <sirenSettings value="614"/>
+        </Item>
+        <Item>
+            <modelName>sheriffintc</modelName>
+            <colors>
+                <Item>
+                    <indices content="char_array">
+                        111
+                        2
+                        0
+                        147
+                        2
+                        2
+                    </indices>
+                    <liveries/>
+                </Item>
+            </colors>
+            <kits>
+                <Item>9_police3_modkit</Item>
+            </kits>
+            <windowsWithExposedEdges/>
+            <plateProbabilities>
+                <Probabilities>
+                    <Item>
+                        <Name>Police guv plate</Name>
+                        <Value value="100"/>
+                    </Item>
+                </Probabilities>
+            </plateProbabilities>
+            <lightSettings value="72"/>
+            <sirenSettings value="3619"/>
+        </Item>
+    </variationData>
+</CVehicleModelInfoVariation>

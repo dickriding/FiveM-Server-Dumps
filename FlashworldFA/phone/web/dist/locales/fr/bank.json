@@ -1,0 +1,17 @@
+{
+	"available-balance": "Solde disponible",
+	"my-bank": "Ma banque",
+	"my-accounts": "Mes comptes",
+	"other-accounts": "Autres comptes",
+	"account": "Compte",
+	"primary-account": "Compte principal",
+	"amount": "Montant",
+	"transfer": "Virement",
+	"receiver": "Destinataire",
+	"transfer-warning": "Vérifiez bien les informations saisies, tout virement est définitif",
+	"new-transfer": "Nouveau virement",
+	"account-number": "Numéro de compte",
+	"error-account-number": "Ce compte n'existe pas",
+	"error-invalid-amount": "Le montant saisie est invalide",
+	"error-insufficient": "Votre solde n'est pas suffisant (${{amount}})"
+}

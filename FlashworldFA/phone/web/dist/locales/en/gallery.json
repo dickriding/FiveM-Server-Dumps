@@ -1,0 +1,9 @@
+{
+	"upload": "Upload",
+	"file": "File",
+	"new-pic": "New picture",
+	"select-from-gallery": "Select from my gallery",
+	"pic": "{{count}} pic",
+	"pic_plural": "{{count}} pics",
+	"copy-url": "Copy url"
+}

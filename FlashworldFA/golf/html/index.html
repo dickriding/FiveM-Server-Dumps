@@ -1,0 +1,242 @@
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+        integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr"
+        crossorigin="anonymous">
+
+    <script src="DEP/vue.js"></script>
+    <script src="DEP/jquery.js"></script>
+
+    <script>
+        Vue.config.productionTip = false;
+        Vue.config.devtools = false;
+    </script>
+</head>
+
+<body>
+    <style>
+        @font-face {
+            font-family: "majestic";
+            src: url("ProximaNova.woff") format('woff');
+        }
+
+        .eltunes-enter-active,
+        .eltunes-leave-active {
+            transition: all 0.7s ease;
+        }
+
+        .eltunes-enter,
+        .eltunes-leave-to,
+        .eltunes-leave-active {
+            opacity: 0;
+        }
+
+        body {
+            font-family: majestic;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            overflow: hidden;
+        }
+
+        :root {
+            --background: linear-gradient(0deg, rgba(10, 10, 10, 0.80) 0%, rgba(10, 10, 10, 0.75) 100%);
+            --entryBack: linear-gradient(0deg, rgba(35, 35, 35, 0.55) 0%, rgba(65, 65, 65, 0.45) 100%);
+            --entryBackHover: linear-gradient(0deg, rgba(65, 65, 65, 0.55) 0%, rgba(90, 90, 90, 0.45) 100%);
+            --blueColorFaded: rgba(0, 119, 255, 0.75);
+            --blueColorHard: rgba(0, 119, 255, 0.95);
+            --blue: rgb(40, 90, 226);
+            --bluefade: rgba(40, 90, 226, 0.55);
+            --lightgreen: rgb(0, 255, 106);
+            --unselected: rgb(220, 220, 220);
+        }
+
+        ::-webkit-scrollbar {
+            width: .5vw;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: rgba(14, 14, 14, 0.9);
+        }
+
+        ::-webkit-scrollbar-track {
+            background: rgba(0, 0, 0, 0.4);
+        }
+
+        .kozeprehuz {
+            position: absolute;
+            height: 100vh;
+            width: 100vw;
+            top: 50%;
+            left: 50%;
+            transform: translateX(-50%) translateY(-50%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+
+        .golfParent {
+            position: relative;
+            width: 40vw;
+            height: 30vw;
+            background: var(--background);
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            overflow: hidden;
+        }
+
+        .first {
+            position: relative;
+            width: 100%;
+            height: 25%;
+            background: rgb(36, 36, 36);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.75);
+        }
+
+        .first .img {
+            width: 6vw;
+            height: 6vw;
+            background-image: url(./img/golf.png);
+            background-position: center;
+            background-size: contain;
+            background-repeat: no-repeat;
+            position: absolute;
+            left: 5%;
+        }
+
+        .first .header {
+            position: absolute;
+            text-align: center;
+            font-size: 3.5vw;
+            font-family: majestic;
+            color: var(--unselected);
+            font-variant: small-caps;
+            right: 10%;
+        }
+
+        .second {
+            position: relative;
+            width: 100%;
+            height: 75%;
+            background: rgb(65, 65, 65);
+        }
+
+        .secondchild {
+            overflow: auto;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            max-height: 100%;
+            width: 100%;
+        }
+
+        .entry {
+            position: relative;
+            width: 95%;
+            height: 3.2vw;
+            background: var(--entryBack);
+            margin-top: .5vw;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.35);
+        }
+
+        .entry .name {
+            position: absolute;
+            font-size: 1vw;
+            color: white;
+            font-family: majestic;
+            left: 15%;
+            width: 60%;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .entry .distance {
+            position: absolute;
+            font-size: 1vw;
+            color: var(--unselected);
+            right: 0;
+            height: 100%;
+            width: 20%;
+            background: rgb(50, 50, 50);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .entry .top {
+            position: absolute;
+            font-size: 1vw;
+            color: var(--unselected);
+            font-family: majestic;
+            left: 0;
+            height: 100%;
+            width: 10%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: rgb(36, 36, 36);
+        }
+
+        .entry .date {
+            position: absolute;
+            left: 11%;
+            bottom: 0;
+            font-size: .5vw;
+            color: var(--unselected);
+        }
+    </style>
+
+    <div id="avGolf">
+        <template>
+            <transition name="eltunes">
+                <div class="kozeprehuz" v-if="opened">
+                    <div class="golfParent">
+                        <div class="first">
+                            <div class="img"></div>
+                            <div class="header">Golf Toplista</div>
+                        </div>
+                        <div class="second">
+                            <div class="secondchild">
+                                <div class="entry" v-for="(a,index) in boardData">
+                                    <div class="top">
+                                        <i v-if="index == 0" style="font-size: 1.25vw; color: gold"
+                                            class="fas fa-trophy"></i>
+                                        <i v-if="index == 1"
+                                            style="font-size: 1.25vw; color: rgb(192, 192, 192)"
+                                            class="fas fa-trophy"></i>
+                                        <i v-if="index == 2"
+                                            style="font-size: 1.25vw; color: rgb(205, 127, 50)"
+                                            class="fas fa-trophy"></i>
+
+                                        <div style="font-size: 1.25vw;"
+                                            v-if="index != 0 && index != 1 && index != 2">{{index + 1}}</div>
+                                    </div>
+                                    <div class="name">{{a.name}}</div>
+                                    <div class="distance">{{a.distance}} méter</div>
+                                    <div class="date">{{a.date}}</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </transition>
+        </template>
+    </div>
+    <script src="./js/golf.js"></script>
+</body>
+
+</html>

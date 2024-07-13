@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+	<Item>
+      <modelName>vapidems</modelName>
+      <colors>
+		  <Item>
+          <indices content="char_array">
+            134
+            0
+            0
+            0
+			0
+			0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate 3</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="72" />
+      <sirenSettings value="5072" />
+	</Item>
+	</variationData>
+</CVehicleModelInfoVariation>

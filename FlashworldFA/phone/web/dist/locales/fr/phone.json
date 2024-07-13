@@ -1,0 +1,21 @@
+{
+	"services": "Services",
+	"keyboard": "Clavier",
+	"recents": "Récents",
+	"all": "Tous",
+	"missed": "Manqués",
+	"clear": "Nettoyer",
+	"done": "Terminer",
+	"voicemail": "Voicemail",
+	"incoming-call": "Appel entrant",
+	"incoming-facetime": "Appel FaceTime",
+	"incoming-job": "Appel d'entreprise",
+	"remind-me": "Rappelez moi",
+	"deny": "Refuser",
+	"accept": "Accepter",
+	"in-call": "Appel en cours",
+	"mute": "Mute",
+	"add-number": "ajouter ce numéro",
+	"add-contact": "Ajouter le contact",
+	"go-to-contact": "Voir le contact"
+}

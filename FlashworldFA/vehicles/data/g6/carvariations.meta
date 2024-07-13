@@ -1,0 +1,1695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Gruppe Sechs Pack by Drewdy1-->
+<CVehicleModelInfoVariation>
+  <variationData>
+	<Item>
+      <modelName>g6alamo</modelName>
+      <colors>
+		  <Item>
+          <indices content="char_array">
+            1
+            0
+            134
+            0
+			0
+			0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="23" />
+      <sirenSettings value="7279" />
+	</Item>
+	<Item>
+      <modelName>g6alamo2</modelName>
+      <colors>
+		  <Item>
+          <indices content="char_array">
+            1
+            0
+            134
+            0
+			0
+			0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="7279" />
+	</Item>
+  	<Item>
+      <modelName>g6alamo3</modelName>
+      <colors>
+		<Item>
+          <indices content="char_array">
+            4
+            4
+            134
+            0
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            111
+            111
+            0
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="23"/>
+      <sirenSettings value="7278"/>
+    </Item>
+	<Item>
+      <modelName>g6alamo4</modelName>
+      <colors>
+		<Item>
+          <indices content="char_array">
+            1
+            0
+            0
+            156
+            7
+            156
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="7281" />
+    </Item>
+	<Item>
+      <modelName>g6baller</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            2
+            7 
+	    8
+	    156
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            0
+            2
+            7 
+	    8
+	    156
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>        
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="57" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>g6dilettante</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            <Item value="134" />
+            <Item value="134" />
+            <Item value="111" />
+            <Item value="156" />
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>hash_collision_1385897927</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>standard white</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="10" />
+    </Item>
+	<Item>
+      <modelName>g6bison</modelName>
+      <colors>
+		<Item>
+          <indices content="char_array">
+            4
+            4
+            134
+            0
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            111
+            111
+            0
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="7279"/>
+    </Item>
+	<Item>
+      <modelName>g6bison2</modelName>
+      <colors>
+		<Item>
+          <indices content="char_array">
+            4
+            4
+            134
+            0
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            111
+            111
+            0
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="7278"/>
+    </Item>
+	<Item>
+      <modelName>g6bike</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits/>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="7282"/>
+    </Item>
+    <Item>
+      <modelName>g6bike2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits/>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="7282"/>
+    </Item>
+	<Item>
+         <modelName>g6boxville</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  47
+                  47
+                  132
+                  23
+                  47
+                  5
+               </indices>
+               <liveries>
+                  <Item value="true" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+               </liveries>
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  26
+                  12
+                  132
+                  7
+                  26
+                  6
+               </indices>
+               <liveries>
+                  <Item value="false" />
+                  <Item value="true" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+               </liveries>
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  132
+                  132
+                  132
+                  24
+                  132
+                  6
+               </indices>
+               <liveries>
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="true" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+               </liveries>
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  132
+                  12
+                  132
+                  3
+                  132
+                  7
+               </indices>
+               <liveries>
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="true" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+               </liveries>
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  87
+                  87
+                  132
+                  18
+                  87
+                  26
+               </indices>
+               <liveries>
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="true" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+               </liveries>
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  132
+                  12
+                  132
+                  18
+                  132
+                  26
+               </indices>
+               <liveries>
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="true" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+               </liveries>
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  46
+                  119
+                  132
+                  18
+                  46
+                  12
+               </indices>
+               <liveries>
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="true" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+               </liveries>
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  126
+                  22
+                  132
+                  23
+                  126
+                  12
+               </indices>
+               <liveries>
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="true" />
+                  <Item value="false" />
+                  <Item value="false" />
+               </liveries>
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  132
+                  12
+                  132
+                  2
+                  132
+                  5
+               </indices>
+               <liveries>
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="true" />
+                  <Item value="false" />
+               </liveries>
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  121
+                  119
+                  132
+                  6
+                  121
+                  7
+               </indices>
+               <liveries>
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="false" />
+                  <Item value="true" />
+               </liveries>
+            </Item>
+         </colors>
+         <kits />
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>standard white</Name>
+                  <Value value="50" />
+               </Item>
+               <Item>
+                  <Name>white plate 2</Name>
+                  <Value value="30" />
+               </Item>
+               <Item>
+                  <Name>blue plate</Name>
+                  <Value value="20" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="9" />
+      </Item>
+	<Item>
+      <modelName>g6boxville2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            <Item value="111" />
+            <Item value="73" />
+            <Item value="111" />
+            <Item value="73" />
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            <Item value="98" />
+            <Item value="98" />
+            <Item value="98" />
+            <Item value="156" />
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>standard white</Name>
+            <Value value="70" />
+          </Item>
+          <Item>
+            <Name>white plate 2</Name>
+            <Value value="30" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>g6buffalo2</modelName>
+      <colors>
+		  <Item>
+          <indices content="char_array">
+            1
+            0
+            134
+            0
+			0
+			0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="7278" />
+	</Item>
+	<Item>
+      <modelName>g6buffalo3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            4
+            4
+            134
+            0
+			93
+			134
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+			93
+			134
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            111
+            111
+            0
+			93
+			134
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="119" />
+      <sirenSettings value="7278" />
+    </Item>
+	<Item>
+      <modelName>g6buffalo4</modelName>
+      <colors>
+		  <Item>
+          <indices content="char_array">
+            1
+            0
+            0
+            156
+            7
+            156
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="7279" />
+	</Item>
+	<Item>
+      <modelName>g6buffalo5</modelName>
+      <colors>
+		  <Item>
+          <indices content="char_array">
+            1
+            0
+            134
+            0
+			93
+			134
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="119" />
+      <sirenSettings value="7279" />
+	</Item>
+	<Item>
+      <modelName>g6buffalo6</modelName>
+      <colors>
+		  <Item>
+          <indices content="char_array">
+            134
+            134
+            0
+            0
+			93
+			134
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="119" />
+      <sirenSettings value="7281" />
+	</Item>
+	<Item>
+      <modelName>g6fugitive</modelName>
+      <colors>
+		  <Item>
+          <indices content="char_array">
+            1
+            0
+            134
+            0
+			0
+			0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="7279" />
+	</Item>
+	<Item>
+      <modelName>g6fugitive2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            4
+            4
+            134
+            0
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            111
+            111
+            0
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+           <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="7278" />
+    </Item>
+	<Item>
+      <modelName>g6gresley</modelName>
+      <colors>
+		  <Item>
+          <indices content="char_array">
+            1
+            0
+            134
+            0
+			0
+			0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="7279" />
+	</Item>
+	<Item>
+      <modelName>g6gresley2</modelName>
+      <colors>
+		  <Item>
+          <indices content="char_array">
+            1
+            0
+            134
+            0
+			0
+			0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="7278" />
+	</Item>
+	<Item>
+      <modelName>g6pony</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            <Item value="4" />
+            <Item value="0" />
+            <Item value="111" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            <Item value="3" />
+            <Item value="0" />
+            <Item value="5" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            <Item value="26" />
+            <Item value="0" />
+            <Item value="5" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            <Item value="111" />
+            <Item value="0" />
+            <Item value="0" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            <Item value="29" />
+            <Item value="0" />
+            <Item value="28" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            <Item value="1" />
+            <Item value="0" />
+            <Item value="4" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            <Item value="5" />
+            <Item value="0" />
+            <Item value="111" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            <Item value="6" />
+            <Item value="0" />
+            <Item value="111" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>standard white</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>white plate 2</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>g6maverick</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            121
+            121
+            0
+            156
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits/>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities />
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>g6primo</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            0
+            156
+            8
+            8
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            0
+            156
+            11
+            11
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>standard white</Name>
+            <Value value="70" />
+          </Item>
+          <Item>
+            <Name>white plate 2</Name>
+            <Value value="30" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>g6roamer</modelName>
+      <colors>
+		  <Item>
+          <indices content="char_array">
+            1
+            0
+            134
+            0
+			0
+			0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="7279" />
+	</Item>
+	<Item>
+      <modelName>g6roamer2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            4
+            4
+            134
+            0
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            111
+            111
+            0
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>36_landstalker_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="7278"/>
+    </Item>
+	<Item>
+      <modelName>g6scout</modelName>
+      <colors>
+		  <Item>
+          <indices content="char_array">
+            1
+            0
+            134
+            0
+			0
+			0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="72" />
+      <sirenSettings value="7279" />
+	</Item>
+	<Item>
+      <modelName>g6scout2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            4
+            4
+            134
+            0
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            111
+            111
+            0
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="72"/>
+      <sirenSettings value="7278"/>
+    </Item>
+	<Item>
+      <modelName>g6scout3</modelName>
+      <colors>
+		  <Item>
+          <indices content="char_array">
+            1
+            0
+            134
+            0
+			0
+			0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="72" />
+      <sirenSettings value="7279" />
+	</Item>
+	<Item>
+      <modelName>g6scout5</modelName>
+      <colors>
+		  <Item>
+          <indices content="char_array">
+            1
+            0
+            0
+            156
+            7
+            156
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="72" />
+      <sirenSettings value="7281" />
+	</Item>
+	<Item>
+      <modelName>g6stanier</modelName>
+      <colors>
+		  <Item>
+          <indices content="char_array">
+            1
+            0
+            134
+            0
+			0
+			0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="7279" />
+	</Item>
+	<Item>
+      <modelName>g6stanier2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            4
+            4
+            134
+            0
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            111
+            111
+            0
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+           <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="7278" />
+    </Item>
+	<Item>
+      <modelName>g6stanier3</modelName>
+      <colors>
+        <Item>
+          <indices>
+            <Item value="134" />
+            <Item value="134" />
+            <Item value="0" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="7280" />
+    </Item>
+	<Item>
+      <modelName>g6stanier4</modelName>
+      <colors>
+		  <Item>
+          <indices content="char_array">
+            1
+            0
+            156
+            0
+			0
+			0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="7281" />
+	</Item>
+	<Item>
+      <modelName>g6stockade2</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            12
+            12
+            0
+            156
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits/>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>g6steed</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            18
+            18
+            0
+            156
+          </indices>
+         <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            122
+            122
+            0
+            156
+          </indices>
+         <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            108
+            108
+            0
+            156
+          </indices>
+         <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            75
+            75
+            0
+            156
+          </indices>
+         <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            56
+            56
+            0
+            156
+          </indices>
+         <liveries/>
+        </Item>
+      </colors>
+      <kits/>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>g6torrence</modelName>
+      <colors>
+		  <Item>
+          <indices content="char_array">
+            1
+            0
+            134
+            0
+			0
+			0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="72" />
+      <sirenSettings value="7279" />
+	</Item>
+	<Item>
+      <modelName>g6torrence2</modelName>
+      <colors>
+		  <Item>
+          <indices content="char_array">
+            134
+            134
+            0
+            0
+			93
+			134
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="72" />
+      <sirenSettings value="7281" />
+	</Item>
+	<Item>
+      <modelName>g6towtruck</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="10"/>
+          </Item>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="60"/>
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="30"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="52"/>
+      <sirenSettings value="9"/>
+    </Item>
+	<Item>
+      <modelName>g6yosemite</modelName>
+      <colors>
+        <Item>
+          <indices>
+            <Item value="134" />
+            <Item value="134" />
+            <Item value="0" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits/>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="7280" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

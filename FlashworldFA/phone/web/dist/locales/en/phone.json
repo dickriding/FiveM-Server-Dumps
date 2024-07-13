@@ -1,0 +1,21 @@
+{
+	"services": "Services",
+	"keyboard": "Keyboard",
+	"recents": "Recents",
+	"all": "All",
+	"missed": "Missed",
+	"clear": "Clear",
+	"done": "Done",
+	"voicemail": "Voicemail",
+	"incoming-call": "Incoming call",
+	"incoming-facetime": "FaceTime",
+	"incoming-job": "Job Call",
+	"remind-me": "Remind me",
+	"deny": "Deny",
+	"accept": "Accept",
+	"in-call": "Calling",
+	"mute": "Mute",
+	"add-number": "add number",
+	"add-contact": "Add contact",
+	"go-to-contact": "Contact details"
+}

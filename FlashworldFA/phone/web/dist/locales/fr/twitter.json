@@ -1,0 +1,17 @@
+{
+	"create-account": "Créer un compte",
+	"name": "Nom",
+	"username": "Pseudo",
+	"password": "Mot de passe",
+	"confirm-password": "Confirmer mot de passe",
+	"submit": "Valider",
+	"login": "Se connecter",
+	"logout": "Se connecter",
+	"already-account": "Vous avez déjà un compte",
+	"no-account": "Vous n'avez pas de compte",
+	"new-tweet": "Nouveau tweet",
+	"add-photo": "Ajouter une photo",
+	"remove-photo": "Retirer la photo",
+	"whatsup": "Quoi de neuf ?",
+	"update-avatar": "Changer de photo"
+}

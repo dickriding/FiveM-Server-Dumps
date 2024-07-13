@@ -1,0 +1,17 @@
+{
+	"available-balance": "Available balance",
+	"my-bank": "My bank",
+	"my-accounts": "My accounts",
+	"other-accounts": "Other accounts",
+	"account": "Account",
+	"primary-account": "Main account",
+	"amount": "Amount",
+	"transfer": "Transfer",
+	"receiver": "Receiver",
+	"transfer-warning": "Check the information entered carefully, all transfers are final",
+	"new-transfer": "New transfer",
+	"account-number": "Account number",
+	"error-account-number": "Invalid account number",
+	"error-invalid-amount": "Invalid amount",
+	"error-insufficient": "You don't have enough money (${{amount}})"
+}

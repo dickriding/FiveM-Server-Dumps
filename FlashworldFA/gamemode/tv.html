@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width,initial-scale=1" />
+		<title>TV</title>
+		<style>
+			body,
+			html {
+				height: 100vh;
+				width: 100vw;
+				margin: 0;
+				padding: 0;
+				background-color: #000;
+			}
+			video {
+				position: fixed;
+				margin: 0;
+				padding: 0;
+				right: 0;
+				bottom: 0;
+				height: 100vh;
+				width: 100vw;
+			}
+		</style>
+	</head>
+	<body>
+		<script>
+			const video = document.createElement("video");
+			video.autoplay = false;
+			video.volume = 0.3;
+			document.getElementsByTagName("body")[0].appendChild(video);
+
+			window.addEventListener("message", event => {
+				if (!event.data || !event.data.type) return;
+				if (event.data.type == "play") {
+					video.src = event.data.url;
+					video.currentTime = event.data.time || 0;
+					video.play();
+				} else if (event.data.type == "sync") {
+					video.currentTime = event.data.time;
+					if (video.paused) video.play();
+				} else if (event.data.type == "pause") {
+					video.pause();
+				} else if (event.data.type == "resume") {
+					video.play();
+				} else if (event.data.type == "volume" && event.data.volume && event.data.volume >= 0 && event.data.volume <= 10) {
+					video.volume = event.data.volume / 10;
+				}
+			});
+
+			fetch(`https://gamemode/tvready`, {
+				method: "POST",
+			})
+				.then(response => response.json())
+				.then(data => {
+					if (data.url) {
+						video.src = data.url;
+						video.volume = data.volume / 10;
+						video.play();
+						video.currentTime = Math.floor(data.started && data.started > 0 ? data.started / 1000 : 0);
+					}
+				});
+		</script>
+	</body>
+</html>
