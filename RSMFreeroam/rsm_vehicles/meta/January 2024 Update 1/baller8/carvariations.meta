@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- maded by TunedKit -->
+<!-- Discord : https://discord.gg/MnCSZ2985X -->
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>baller8</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            12
+            0
+            0
+            0
+            112
+            0
+          </indices>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="2220234"/>
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

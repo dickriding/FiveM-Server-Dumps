@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VehiclesPermissions>
+  <!-- Enable or disable a class of vehicles -->
+  <Classes>
+    <class name="Compacts"       id="0"  allowed="true" />
+    <class name="Sedans"         id="1"  allowed="true" />
+    <class name="SUVs"           id="2"  allowed="true" />
+    <class name="Coupes"         id="3"  allowed="true" />
+    <class name="Muscle"         id="4"  allowed="true" />
+    <class name="SportsClassics" id="5"  allowed="true" />
+    <class name="Sports"         id="6"  allowed="true" />
+    <class name="Super"          id="7"  allowed="true" />
+    <class name="Motorcycles"    id="8"  allowed="true" />
+    <class name="OffRoad"        id="9"  allowed="true" />
+    <class name="Industrial"     id="10" allowed="true" />
+    <class name="Utility"        id="11" allowed="true" />
+    <class name="Vans"           id="12" allowed="true" />
+    <class name="Cycles"         id="13" allowed="true" />
+    <class name="Boats"          id="14" allowed="true" />
+    <class name="Helicopters"    id="15" allowed="true" allowedPVP="false" />
+    <class name="Planes"         id="16" allowed="true" allowedPVP="false" />
+    <class name="Service"        id="17" allowed="true" />
+    <class name="Emergency"      id="18" allowed="true" allowedPVP="false" />
+    <class name="Military"       id="19" allowed="true" allowedPVP="false" />
+    <class name="Commercial"     id="20" allowed="true" />
+    <class name="Trains"         id="21" allowed="true" />
+  </Classes>
+  <!-- Enable or disable a specific model (overrides classes) -->
+  <Models>
+    <model name="nightshark" allowed="true" allowedPVP="false" />
+    <model name="baller5" allowed="true" allowedPVP="false" />
+    <model name="baller6" allowed="true" allowedPVP="false" />
+    <model name="insurgent" allowed="true" allowedPVP="false" />
+    <model name="insurgent2" allowed="true" allowedPVP="false" />
+    <model name="insurgent3" allowed="true" allowedPVP="false" />
+    <model name="oppressor" allowed="true" allowedPVP="false" />
+    <model name="oppressor2" allowed="true" allowedPVP="false" />
+    <model name="paragon2" allowed="true" allowedPVP="false" />
+    <model name="xls2" allowed="true" allowedPVP="false" />
+    <model name="schafter5" allowed="true" allowedPVP="false" />
+    <model name="schafter6" allowed="true" allowedPVP="false" />
+  </Models>
+</VehiclesPermissions>

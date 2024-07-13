@@ -1,0 +1,52 @@
+
+<html>
+<head>
+    <title>Drift Leaderboards</title>
+
+    <link href="https://cdn.rsm.gg/packages/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.rsm.gg/fontawesome-pro-5.14.0-web/css/all.min.css">
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <div id="app">
+        <ul v-if="open">
+            <li class="list-title" id="leaderboard-title">
+                <i class="fas fa-list-ol me-2"></i> {{ title }}
+                <span class="title-position" style="line-height: 24px;">
+                    <span id="indicator-road-only" class="text-warning badge badge-primary flag" style="background: transparent !important" v-if="true || flags.ROAD_ONLY"><i class="fad fa-road"></i></span>
+                </span>
+                <div class="list-title-line"></div>
+            </li>
+            <li id="no-scores" v-if="!scores || scores.length == 0">
+                <i class="fad fa-question-circle me-1"></i> No players were found with scores.
+            </li>
+            <div id="scores" v-if="scores && scores.length > 0">
+                <player-item
+                    v-for="player in sortedScores"
+                    v-bind:key="player.id"
+                    v-bind:type="type"
+                    v-bind:id="player.id"
+                    v-bind:crown="player.crown"
+                    v-bind:name="player.name"
+                    v-bind:score="player.score"
+                    v-bind:formatted_score="player.formatted_score"
+                ></player-item>
+            </div>
+            <li id="helper" style="display: none"></li>
+        </ul>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js" integrity="sha512-qTXRIMyZIFb8iQcfjXWCO8+M5Tbc38Qi5WzdPOYZHIlZpzBHG3L3by84BBBOiRGiEb7KKtAOAs5qYdUiZiQNNQ==" crossorigin="anonymous"></script>
+    <script src="https://cdn.rsm.gg/packages/vue@2.7.14/dist/vue.min.js"></script>
+    <script src="js/jquery.min.js"></script>
+
+
+    <script>
+        function numberWithCommas(x) {
+            return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        }
+    </script>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

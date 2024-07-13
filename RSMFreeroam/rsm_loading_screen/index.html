@@ -1,0 +1,132 @@
+<html>
+<head>
+    <!-- required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- styles -->
+    <link href="https://cdn.rsm.gg/fontawesome-pro-5.14.0-web/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://cdn.rsm.gg/packages/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+    <link href="assets/css/main.css" rel="stylesheet">
+    <link href="assets/css/theme.css" rel="stylesheet">
+
+    <script src="assets/js/translations.js"></script>
+</head>
+
+<body>
+    <div id="app">
+        <video autoplay muted loop id="bg-video">
+            <source src="https://cdn.rsm.gg/bg-default.mp4" type="video/mp4">
+        </video>
+
+        <div class="video-overlay">
+            <div class="overlay">
+                <div class="welcome-bar">
+                    <img class="logo" src="assets/media/logo-long.svg"><br>
+                    Welcome, <strong class="highlight">{{ name }}</strong>!
+                </div>
+
+                <div class="header">
+                    <a href="https://rsm.gg/" class="btn btn-primary">
+                        <i class="fad fa-home me-2"></i>
+                        Website
+                    </a>
+                    <a href="https://discord.gg/RSM" class="btn btn-primary">
+                        <i class="fab fa-discord me-2"></i>
+                        Discord
+                    </a>
+                    <a href="https://blog.rsm.gg/" class="btn btn-primary">
+                        <i class="fad fa-newspaper me-2"></i>
+                        Server Updates
+                    </a>
+                    <a href="https://store.rsm.gg/" class="btn btn-primary">
+                        <i class="fad fa-shopping-cart me-2"></i>
+                        Store
+                    </a>
+                </div>
+
+                <div class="content">
+                    <img class="logo" src="assets/media/logo.png" alt="Rockstar Mischief"><br>
+
+                    <div class="loading">
+                        <div class="text">
+                            {{ getTranslatedString("load_text") }}
+                        </div>
+
+                        <div class="status">
+                            {{ status }}
+                        </div>
+                        <div class="progress" :style="{ width: `${progress}%` }"></div>
+
+                        <div v-if="progress >= 50.9 || status.indexOf('aud') > -1" class="warning">
+                            <i class="fad fa-exclamation-triangle text-warning me-2"></i> This part of the loading process may take a while...
+                        </div>
+                    </div>
+                </div>
+
+                <div class="footer">
+                    <div :class="[ 'player-info', { 'supporter': supporter != false } ]">
+                        <div class="avatar">
+                            <img :src="avatar">
+                        </div>
+                        <div class="name me-4">
+                            <span>
+                                {{ name }}
+                            </span>
+                            <small v-if="supporter" class="title">
+                                <i v-if="supporter.vehicles != undefined" class="fad fa-plus-hexagon" id="accessible-vehicles"></i>
+                                {{ supporter.name }}
+                            </small>
+                            <small v-else class="title text-muted">
+                                Player
+                            </small>
+                        </div>
+                        <div class="extras">
+                            <small class="badges">
+                                <i v-if="bans > 0" class="fad fa-ban text-warning" id="bans-badge"></i>
+                                <i v-if="mutes > 0" class="fad fa-comment-slash text-warning ms-1" id="mutes-badge"></i>
+                                <i v-if="warnings > 0" class="fad fa-exclamation-circle text-warning ms-1" id="warnings-badge"></i>
+                                <i v-if="bans + mutes + warnings === 0" class="fad fa-check text-success ms-1" id="clear-badge"></i>
+                            </small>
+                            <small v-if="playtime > 0" class="playtime">
+                                <strong>{{ calculatedHours }}</strong> hours
+                            </small>
+                        </div>
+                    </div>
+
+                    <div class="player-count">
+                        There are <strong class="highlight">{{ players }}</strong> players online.
+                    </div>
+                </div>
+
+                <div class="speech-alert">
+                    <div class="icon">
+                        <i class="fas fa-microphone-slash"></i>
+                    </div>
+                    <div class="details">
+                        <span class="title">
+                            Voice Chat Monitoring
+                        </span>
+                        <span class="description">
+                            Voice chat is automatically monitored for toxic behaviour. To opt-out of this, disable voice chat through the game settings.
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- prod vue -->
+    <script src="https://cdn.rsm.gg/packages/vue@2.7.14/dist/vue.min.js"></script>
+
+    <!-- bootstrap -->
+    <script src="https://cdn.rsm.gg/packages/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+
+    <!-- functionality -->
+    <script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+    <script src="assets/js/app.js"></script>
+    <script src="assets/js/handlers.js"></script>
+    <script src="assets/js/index.js" defer></script>
+</body>
+</html>

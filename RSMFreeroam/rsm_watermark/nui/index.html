@@ -1,0 +1,46 @@
+<html>
+
+<head>
+    <title>RSM Watermark</title>
+
+    <link href="https://cdn.rsm.gg/packages/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.rsm.gg/fontawesome-pro-5.14.0-web/css/all.min.css">
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div id="app">
+        <div class="watermark rounded-3" v-if="visible.watermark">
+            <img class="logo me-3" src="img/logo-minimal.svg">
+            <div class="d-inline-block">
+                Welcome to <strong>RSM Freeroam</strong>, <strong class="text-info">{{ formattedPlayer }}</strong>! <span class="me-3"></span>
+                Server: <strong class="text-info">#{{ server }}</strong> <span class="me-2"></span>
+                Lobby: <strong class="text-info">{{ lobby.name }}</strong> <span class="me-2"></span>
+                Players: <strong class="text-info">{{ lobby.players }}/{{ players }} ({{ nearbyPlayers }})</strong> <span class="me-2"></span>
+                Ping: <strong class="text-info font-monospace">{{ ping }}ms</strong> <span class="me-2"></span>
+                FPS: <strong class="text-info font-monospace" v-html="fps"></strong> <span class="me-2"></span>
+                Discord: <strong class="text-info">discord.gg/RSM</strong> <span class="me-2"></span>
+                Website: <strong class="text-info me-2">rsm.gg</strong>
+            </div>
+        </div>
+
+        <div class="element me-1 rounded-3" v-if="visible.indicators" v-for="element in elements"
+            :key="element.key" :id="element.key"
+            v-bind:class="{ 'status-success': element.status === 'success', 'status-warning': element.status === 'warning', 'status-danger': element.status === 'danger' }">
+
+            <img class="logo" src="img/pixel.png" width="1px">
+            <div class="p-0 m-0 d-inline-block">
+                <i v-bind:class="[element.icon, 'me-1', { 'text-success': element.status === 'success', 'text-warning': element.status === 'warning', 'text-danger': element.status === 'danger' }]"></i>
+                {{ element.title }}
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.rsm.gg/packages/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.rsm.gg/packages/vue@2.7.14/dist/vue.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>

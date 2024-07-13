@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>maverickv</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          1
+          112
+          0
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          8
+          112
+          5
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          27
+          112
+          28
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          72
+          112
+          72
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          59
+          112
+          58
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          66
+          112
+          65
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          73
+          112
+          73
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities />
+      <lightSettings value="18" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>maverickv2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          1
+          112
+          0
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          8
+          112
+          5
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          27
+          112
+          28
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          72
+          112
+          72
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          59
+          112
+          58
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          66
+          112
+          65
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          73
+          112
+          73
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities />
+      <lightSettings value="18" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>maverickiv</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          1
+          112
+          0
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          8
+          112
+          5
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          27
+          112
+          28
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          72
+          112
+          72
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          59
+          112
+          58
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          66
+          112
+          65
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          73
+          112
+          73
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities />
+      <lightSettings value="18" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>maverickiv2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          1
+          112
+          0
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          8
+          112
+          5
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          27
+          112
+          28
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          72
+          112
+          72
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          59
+          112
+          58
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          66
+          112
+          65
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          73
+          112
+          73
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities />
+      <lightSettings value="18" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

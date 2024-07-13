@@ -1,0 +1,110 @@
+<html>
+<head>
+    <!-- required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- styles -->
+    <link href="https://cdn.rsm.gg/fontawesome-pro-5.14.0-web/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://cdn.rsm.gg/packages/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/intro.js/4.3.0/introjs.min.css" rel="stylesheet" integrity="sha512-YZO1kAqr8VPYJMaOgT4ZAIP4OeCuAWoZqgdvVYjeqyfieNWrUTzZrrxpgAdDrS7nV3sAVTKdP6MSKhqaMU5Q4g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="assets/css/main.css" rel="stylesheet">
+    <link href="assets/css/theme.css" rel="stylesheet">
+    <link href="assets/css/intro.css" rel="stylesheet">
+</head>
+
+<body>
+    <div v-if="visible" id="app" class="overlay">
+        <div class="wrapper">
+            <div class="header">
+
+                <div v-if="party.active" class="party-warning">
+                    <i class="fad fa-exclamation-triangle text-warning pe-1"></i>
+                    <span v-if="!party.leader">Only the party leader can change lobbies.</span>
+                    <span v-else>Your party members will automatically join the selected lobby.</span>
+                </div>
+
+                <h1
+                    data-title="Welcome to the Lobby Hub!"
+                    data-intro="Lobbies are similar to servers, where each lobby (and its players) is instanced and separated from the others.<br><br><i>You can open the lobby hub by pressing <strong>F3</strong> (by default) or typing <strong>/lobby</strong> in chat.</i>">
+                    Welcome to <strong>RSM Freeroam</strong>
+                </h1>
+                <h3>Select a lobby that matches your playstyle below.</h3>
+            </div>
+
+            <div class="lobbies">
+                <div
+                    v-for="(lobby, index) in lobbies" :class="[ 'lobby', `${lobby.color || ''}`, 'col-sm-3' ]" :key="lobby.key" :style="{ background: `url(${lobby.image})` }"
+                    @click="(lobby.key !== current_lobby.key && (!party.active || party.leader)) ? joinLobby(lobby.key) : undefined"
+                    :data-title="index === 0 && 'Lobby features'"
+                    :data-intro="index === 0 && 'Depending on the lobby, certain features within it are disabled/enabled to provide different experiences.<br><br>This is a feature of our lobby system that we can leverage to provide a dedicated space for every type of player.<br><br><i>Whether you\'re interested in PvP, chilling without PvP, or drifting with friends, we have it all figured out for you!</i>'"
+                >
+                    <div class="details">
+                        <div class="name">{{ lobby.name }}</div>
+                        <div class="players"><strong>{{ lobby.players }}</strong> player{{ lobby.players == 1 ? "" : "s" }}</div>
+
+                        <div class="flags">
+                            <i v-if="lobby.flags.passive && !lobby.flags.passive.value" :class="[ 'fad', 'fa-swords', { 'text-warning': !lobby.flags.passive.forced, 'text-danger': lobby.flags.passive.forced } ]"></i>
+                            <i v-if="lobby.flags.passive && lobby.flags.passive.value && lobby.flags.passive.forced" :class="[ 'fad', 'fa-user-shield', 'text-success' ]"></i>
+                        </div>
+
+                        <div class="description">{{ lobby.description }}</div>
+
+                        <div v-if="!party.active || party.leader" class="action">
+                            <button v-if="lobby.key !== current_lobby.key" class="join" @click="joinLobby(lobby.key)">
+                                Join Lobby
+                            </button>
+                            <button v-else class="join disabled"
+                                :data-title="index === 0 && 'Joining lobbies'"
+                                :data-intro="index === 0 && 'You can join and switch lobbies at anytime while playing on the server.<br><br>Clicking on a lobby card (or join button) will instantly switch you to that lobby with no server reconnect required!<br><br><i>In this case, you\'re already in this lobby, so the button is disabled.</i>'"
+                            >
+                                Already Joined
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer" @click="sendEvent('close')"
+                data-title="Exiting the menu"
+                data-intro="You can exit this menu by clicking this button or pressing the <strong>ESC</strong> key."
+            >
+                <span>Click here or press <strong>ESC</strong> to exit this interface</span>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- prod vue -->
+    <script src="https://cdn.rsm.gg/packages/vue@2.7.14/dist/vue.min.js"></script>
+
+    <!-- bootstrap -->
+    <script src="https://cdn.rsm.gg/packages/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+
+    <!-- intro.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/intro.js/4.3.0/intro.min.js" integrity="sha512-WYNEDpX7FCz0ejmdUFl444n+v7gDgDFYmxy2YBx99v15UUk3zU5ZWYFBXFCvWYvd+nv/guwUnXmrecK7Ee0Wtg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <!-- functionality -->
+    <script src="nui://game/ui/jquery.js"></script>
+    <script src="assets/js/main.js"></script>
+    <script src="assets/js/handlers.js"></script>
+
+    <!-- ready -->
+    <script>
+        $(() => {
+            sendEvent("ready")
+
+            document.onkeyup = function(event) {
+                let data = event || window.event
+
+                if ("key" in data) {
+                    if(data.key === "Escape" || data.key === "Esc") {
+                        sendEvent("close")
+                    }
+                }
+            }
+        })
+    </script>
+</body>
+
+</html>

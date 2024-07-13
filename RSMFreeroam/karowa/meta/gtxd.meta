@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapParentTxds>
+ <txdRelationships>
+  <Item>
+   <parent>karowa_1</parent>
+   <child>karowa</child>
+  </Item>
+    <Item>
+   <parent>karowa_2</parent>
+   <child>karowa_1</child>
+  </Item>
+    <Item>
+   <parent>karowa_3</parent>
+   <child>karowa_2</child>
+  </Item>
+ </txdRelationships>
+</CMapParentTxds>

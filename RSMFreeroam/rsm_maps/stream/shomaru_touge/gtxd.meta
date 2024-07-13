@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapParentTxds>
+ <txdRelationships>
+  <Item>
+   <parent>shomaru_touge_1</parent>
+   <child>shomaru_touge</child>
+  </Item>
+  <Item>
+   <parent>shomaru_touge_2</parent>
+   <child>shomaru_touge_1</child>
+  </Item>
+  <Item>
+   <parent>shomaru_touge_3</parent>
+   <child>shomaru_touge_2</child>
+  </Item>
+ </txdRelationships>
+</CMapParentTxds>

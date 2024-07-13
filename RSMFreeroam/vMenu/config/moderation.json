@@ -1,0 +1,179 @@
+{
+    "warn":[
+        {
+            "reason":"False-reporting",
+            "description":"The reporting player must use the correct category for the report, or the reported player has not been breaking a rule or guideline for some time."
+        },
+        {
+            "reason":"Role-Playing in public chat",
+            "description":"RP must strictly be on Party chat, Local chat, or Voice-chat."
+        },
+        {
+            "reason":"Bypassing chat auto-moderation",
+            "description":"Using foreign languages that are not detected and mistaken for English by the auto-mod or repeating the same message with minute differences more than twice in a short amount of time."
+        },
+        {
+            "reason":"Mic spam",
+            "description":"Repeating the same word/sentence or having heavy background noises. The player's Voice Chat Mode must be on music if playing music."
+        },
+        {
+            "reason":"Player harassment",
+            "description":"Intentionally targeting another player persistently in the form of messaging, voice-chatting, following, killing, etc."
+        },
+        {
+            "reason":"Zone disturbance",
+            "description":"Disturbing a zone in forms that go against that zone's intended purpose."
+        },
+        {
+            "reason":"Player disturbance",
+            "description":"Constantly disturbing a group of players not in zones."
+        },
+        {
+            "reason":"Inappropriate behaviour",
+            "description":"Attempting to role-play erotically or online date."
+        },
+        {
+            "reason":"Abusing features",
+            "description":"Attempting to gain an advantage over other players in the form of no-clipping, TPing, healing, repairing, etc."
+        }
+    ],
+    "kick":[
+        {
+            "reason":"False-reporting",
+            "description":"The reporting player must use the correct category for the report, or the reported player has not been breaking a rule or guideline for some time."
+        },
+        {
+            "reason":"Controversial name",
+            "description":"Names that give rise to unnecessary arguments include political and offensive names."
+        },
+        {
+            "reason":"Inappropriate name",
+            "description":"Pornographic and indecent names or names made up of numbers with the same length as Server IDs and names that are only punctations or symbols."
+        },
+        {
+            "reason":"Player harassment",
+            "description":"Intentionally targeting another player persistently in the form of messaging, voice-chatting, following, killing, etc."
+        },
+        {
+            "reason":"Zone disturbance",
+            "description":"Disturbing a zone in forms that go against that zone's intended purpose."
+        },
+        {
+            "reason":"Player disturbance",
+            "description":"Constantly disturbing a group of players not in zones."
+        },
+        {   "reason":"Name Advertising",
+            "description":"Using social media handles in usernames."
+        }
+    ],
+    "mute":[
+        {
+            "reason":"Role-Playing in public chat",
+            "description":"RP must strictly be on Party chat, Local chat, or Voice-chat.",
+            "length":"1h"
+        },
+        {
+            "reason":"Bypassing chat auto-moderation",
+            "description":"Using foreign languages that are not detected and mistaken for English by the auto-mod or repeating the same message with minute differences more than twice in a short amount of time.",
+            "length":"1h"
+        },
+        {
+            "reason":"Toxicity",
+            "description":"Name-calling, racism, homophobia, and any other light form of hate speech. (Toxicity in text-chat)",
+            "length":"1h"
+        },
+        {
+            "reason":"Engaging in arguments",
+            "description":"Creating or taking part in any argument, politically or otherwise.",
+            "length":"1h"
+        },
+        {
+            "reason":"Advertising",
+            "description":"Posting website links, accounts or server IPs foreign to RSM.",
+            "length":"1h"
+        }
+    ],
+    "ban":[
+        {
+            "reason":"Controversial name",
+            "description":"Names that give rise to unnecessary arguments include political and offensive names.",
+            "length":"6h"
+        },
+        {
+            "reason":"Inappropriate name",
+            "description":"Pornographic and indecent names or names made up of numbers with the same length as Server IDs and names that are only punctations or symbols.",
+            "length":"6h"
+        },
+        {
+            "reason":"Mic spam",
+            "description":"Repeating the same word/sentence or having heavy background noises. The player's Voice Chat Mode must be on music if playing music.",
+            "length":"2h"
+        },
+        {
+            "reason":"Toxicity",
+            "description":"Name-calling, racism, homophobia, and any other light form of hate speech. (Toxicity in voice-chat)",
+            "length":"1h"
+        },
+        {
+            "reason":"Player harassment",
+            "description":"Intentionally targeting another player persistently in the form of messaging, voice-chatting, following, killing, etc.",
+            "length":"12h"
+        },
+        {
+            "reason":"Zone disturbance",
+            "description":"Disturbing a zone in forms that go against that zone's intended purpose.",
+            "length":"12h"
+        },
+        {
+            "reason":"Player disturbance",
+            "description":"Constantly disturbing a group of players not in zones.",
+            "length":"12h"
+        },
+        {
+            "reason":"Engaging in arguments",
+            "description":"Creating or taking part in any argument, politically or otherwise.",
+            "length":"12h"
+        },
+        {
+            "reason":"Advertising",
+            "description":"Posting website links, accounts or server IPs foreign to RSM.",
+            "length":"1d"
+        },
+        {
+            "reason":"Inappropriate behaviour",
+            "description":"Attempting to role-play erotically or online date.",
+            "length":"1d"
+        },
+        {
+            "reason":"Abusing features",
+            "description":"Attempting to gain an advantage over other players in the form of no-clipping, TPing, healing, repairing, etc.",
+            "length":"1d"
+        },
+        {
+            "reason":"Heavy toxicity",
+            "description":"Heavy racism, heavy homophobia, and any other heavy form of hate speech",
+            "length":"1w"
+        },
+        {
+            "reason":"Threats",
+            "description":"Threatening to DDoS or dox other players.",
+            "length":"1y"
+        },
+        {
+            "reason":"Doxing",
+            "description":"Revealing the email, phone number, or IP of another player (not server).",
+            "length":"1y"
+        },
+        {
+            "reason":"Cheating",
+            "description":"Cheating via godmode, aimbot, kicking people out of vehicles, noclipping without going into passive mode, etc.",
+            "length":"1y"
+        },
+        {   "reason":"Name Advertisement",
+            "description":"Using social media handles in usernames.",
+            "length":"12h"
+        }
+    
+    ]
+
+}

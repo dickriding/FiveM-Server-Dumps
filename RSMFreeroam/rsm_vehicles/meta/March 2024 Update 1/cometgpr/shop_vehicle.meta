@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShopVehicleDataArray>
+	<Vehicles>
+		<Item>
+			<lockHash>CU_COM20GPR_VEH</lockHash>
+			<modelNameHash>com20gpr</modelNameHash>
+			<cost value ="100"/>
+			<textLabel>COM20GPR</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+		<Item>
+			<lockHash>CU_COM21GPR_VEH</lockHash>
+			<modelNameHash>com21gpr</modelNameHash>
+			<cost value ="100"/>
+			<textLabel>COM21GPR</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+	</Vehicles>
+</ShopVehicleDataArray>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+	<variationData>
+		<Item>
+			<modelName>aleutianxl</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            77
+			110
+			8
+			0
+			111
+			54
+          </indices>
+					<liveries />
+				</Item>
+				<Item>
+					<indices content="char_array">
+			56
+			110
+			52
+			0
+			111
+			54
+          </indices>
+					<liveries />
+				</Item>
+				<Item>
+					<indices content="char_array">
+			0
+			0
+			2
+			0
+			111
+			54
+          </indices>
+					<liveries />
+				</Item>
+				<Item>
+					<indices content="char_array">
+			73
+			73
+			7
+			0
+			111
+			54
+          </indices>
+					<liveries />
+				</Item>
+				<Item>
+					<indices content="char_array">
+			2
+			73
+			4
+			0
+			111
+			54
+          </indices>
+					<liveries />
+				</Item>
+				<Item>
+					<indices content="char_array">
+			100
+			73
+			100
+			0
+			111
+			54
+          </indices>
+					<liveries />
+				</Item>
+				<Item>
+					<indices content="char_array">
+            61
+			73
+			7
+			0
+			111
+			54
+          </indices>
+					<liveries />
+				</Item>
+				<Item>
+					<indices content="char_array">
+			6
+			73
+			4
+			0
+			111
+			54
+          </indices>
+					<liveries />
+				</Item>
+				<Item>
+					<indices content="char_array">
+			66
+			73
+			7
+			0
+			111
+			54
+          </indices>
+					<liveries />
+				</Item>
+				<Item>
+					<indices content="char_array">
+            97
+			73
+			110
+			0
+			111
+			54
+          </indices>
+					<liveries />
+				</Item>
+				<Item>
+					<indices content="char_array">
+			101
+			73
+			93
+			0
+			111
+			54
+          </indices>
+					<liveries />
+				</Item>
+			</colors>
+			<kits>
+				<Item>0_default_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges/>
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="90"/>
+					</Item>
+					<Item>
+						<Name>White Plate 2</Name>
+						<Value value="10"/>
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="1"/>
+			<sirenSettings value="0"/>
+		</Item>
+	</variationData>
+</CVehicleModelInfoVariation>

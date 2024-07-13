@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+
+:root {
+  --color-default: rgba(255, 255, 255, 0.75);
+  --color-hover: white;
+}
+
+body {
+  visibility: hidden;
+  user-select: none;
+  white-space: nowrap;
+  margin: 0;
+  user-select: none;
+  overflow: hidden;
+}
+
+p {
+  margin: 0;
+}
+
+.material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 300, "GRAD" 0, "opsz" 40;
+}
+
+#eye {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 22pt;
+  fill: rgba(255, 255, 255, 0.25);
+}
+
+#eyeSvg {
+  fill: rgba(255, 255, 255, 0.25);
+}
+
+.eye-hover {
+  fill: var(--color-default) !important;
+}
+
+#options-wrapper {
+  position: absolute;
+  top: calc(48.4%);
+  left: calc(50% + 18pt);
+}
+
+.option-container {
+  color: var(--color-default);
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  font-family: 'Titillium Web', sans-serif !important;
+  background: rgba(0, 0, 0, 0.5)
+  font-size: 11pt;
+  line-height: 22pt;
+  vertical-align: middle;
+  margin: 2pt;
+  transition: 300ms;
+  transform-origin: left top;
+  scale: 1;
+  height: 22pt;
+  /*width: 150pt;*/
+  top: 0;
+
+  border-radius: 10px;
+  padding: 0 1rem 0 0.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  background-image: radial-gradient(#6969FF30, rgba(0, 0, 0, 0.5));
+  background-size: 3px 3px;
+}
+
+.option-container:hover {
+  background: linear-gradient(
+    90deg,
+    rgba(30, 30, 30, 0.7) 0%,
+    rgba(30, 30, 30, 0.6) 66%,
+    rgba(57, 58, 63, 0) 100%
+  );
+  transform-origin: left top;
+  color: var(--color-hover);
+  margin-left: 4pt;
+
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  background-image: radial-gradient(rgba(105, 105, 255, 0.5), rgba(0, 0, 0, 0.5));
+  background-size: 3px 3px;
+}
+
+.option-icon {
+  font-size: 12pt;
+  line-height: 22pt;
+  width: 14pt;
+  margin-right: 8pt;
+  color: var(--color-default);
+}
+
+.option-label {
+  font-weight: 500;
+}

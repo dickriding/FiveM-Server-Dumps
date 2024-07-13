@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShopVehicleDataArray>
+	<Vehicles>
+		<!-- Add your car here -->
+		<Item>
+			<lockHash>CU_TERL300_VEH</lockHash>
+			<modelNameHash>terl300</modelNameHash>
+			<cost value ="0"/>
+			<textLabel>TERL300</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+	</Vehicles>
+</ShopVehicleDataArray>

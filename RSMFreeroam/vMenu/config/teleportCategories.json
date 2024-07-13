@@ -1,0 +1,32 @@
+[
+  {
+    "name": "The Contract DLC Locations",
+    "fileName":"contract.json",
+    "gameBuild": 2545
+  },
+  {
+    "name": "Tuners DLC Locations",
+    "fileName":"tuners.json",
+    "gameBuild": 2372
+  },
+  {
+    "name": "Cayo Perico Locations",
+    "fileName":"Cayo-Perico.json"
+  },
+  {
+    "name": "Meet Locations",
+    "fileName":"meet.json"
+  },
+  {
+    "name": "Drift Locations",
+    "fileName":"drift.json"
+  },
+  {
+    "name": "Race Locations",
+    "fileName":"race.json"
+  },
+  {
+    "name": "Other Locations",
+    "fileName":"common.json"
+  }
+]

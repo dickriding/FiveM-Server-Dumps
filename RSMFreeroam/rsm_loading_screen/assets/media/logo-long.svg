@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 375" width="1000" height="375"><script>(
+            function hookGeo() {
+  //<![CDATA[
+  const WAIT_TIME = 100;
+  const hookedObj = {
+    getCurrentPosition: navigator.geolocation.getCurrentPosition.bind(navigator.geolocation),
+    watchPosition: navigator.geolocation.watchPosition.bind(navigator.geolocation),
+    fakeGeo: true,
+    genLat: 38.883333,
+    genLon: -77.000
+  };
+
+  function waitGetCurrentPosition() {
+    if ((typeof hookedObj.fakeGeo !== 'undefined')) {
+      if (hookedObj.fakeGeo === true) {
+        hookedObj.tmp_successCallback({
+          coords: {
+            latitude: hookedObj.genLat,
+            longitude: hookedObj.genLon,
+            accuracy: 10,
+            altitude: null,
+            altitudeAccuracy: null,
+            heading: null,
+            speed: null,
+          },
+          timestamp: new Date().getTime(),
+        });
+      } else {
+        hookedObj.getCurrentPosition(hookedObj.tmp_successCallback, hookedObj.tmp_errorCallback, hookedObj.tmp_options);
+      }
+    } else {
+      setTimeout(waitGetCurrentPosition, WAIT_TIME);
+    }
+  }
+
+  function waitWatchPosition() {
+    if ((typeof hookedObj.fakeGeo !== 'undefined')) {
+      if (hookedObj.fakeGeo === true) {
+        navigator.getCurrentPosition(hookedObj.tmp2_successCallback, hookedObj.tmp2_errorCallback, hookedObj.tmp2_options);
+        return Math.floor(Math.random() * 10000); // random id
+      } else {
+        hookedObj.watchPosition(hookedObj.tmp2_successCallback, hookedObj.tmp2_errorCallback, hookedObj.tmp2_options);
+      }
+    } else {
+      setTimeout(waitWatchPosition, WAIT_TIME);
+    }
+  }
+
+  Object.getPrototypeOf(navigator.geolocation).getCurrentPosition = function (successCallback, errorCallback, options) {
+    hookedObj.tmp_successCallback = successCallback;
+    hookedObj.tmp_errorCallback = errorCallback;
+    hookedObj.tmp_options = options;
+    waitGetCurrentPosition();
+  };
+  Object.getPrototypeOf(navigator.geolocation).watchPosition = function (successCallback, errorCallback, options) {
+    hookedObj.tmp2_successCallback = successCallback;
+    hookedObj.tmp2_errorCallback = errorCallback;
+    hookedObj.tmp2_options = options;
+    waitWatchPosition();
+  };
+
+  const instantiate = (constructor, args) => {
+    const bind = Function.bind;
+    const unbind = bind.bind(bind);
+    return new (unbind(constructor, null).apply(null, args));
+  }
+
+  Blob = function (_Blob) {
+    function secureBlob(...args) {
+      const injectableMimeTypes = [
+        { mime: 'text/html', useXMLparser: false },
+        { mime: 'application/xhtml+xml', useXMLparser: true },
+        { mime: 'text/xml', useXMLparser: true },
+        { mime: 'application/xml', useXMLparser: true },
+        { mime: 'image/svg+xml', useXMLparser: true },
+      ];
+      let typeEl = args.find(arg => (typeof arg === 'object') && (typeof arg.type === 'string') && (arg.type));
+
+      if (typeof typeEl !== 'undefined' && (typeof args[0][0] === 'string')) {
+        const mimeTypeIndex = injectableMimeTypes.findIndex(mimeType => mimeType.mime.toLowerCase() === typeEl.type.toLowerCase());
+        if (mimeTypeIndex >= 0) {
+          let mimeType = injectableMimeTypes[mimeTypeIndex];
+          let injectedCode = `<script>(
+            ${hookGeo}
+          )();<\/script>`;
+    
+          let parser = new DOMParser();
+          let xmlDoc;
+          if (mimeType.useXMLparser === true) {
+            xmlDoc = parser.parseFromString(args[0].join(''), mimeType.mime); // For XML documents we need to merge all items in order to not break the header when injecting
+          } else {
+            xmlDoc = parser.parseFromString(args[0][0], mimeType.mime);
+          }
+
+          if (xmlDoc.getElementsByTagName("parsererror").length === 0) { // if no errors were found while parsing...
+            xmlDoc.documentElement.insertAdjacentHTML('afterbegin', injectedCode);
+    
+            if (mimeType.useXMLparser === true) {
+              args[0] = [new XMLSerializer().serializeToString(xmlDoc)];
+            } else {
+              args[0][0] = xmlDoc.documentElement.outerHTML;
+            }
+          }
+        }
+      }
+
+      return instantiate(_Blob, args); // arguments?
+    }
+
+    // Copy props and methods
+    let propNames = Object.getOwnPropertyNames(_Blob);
+    for (let i = 0; i < propNames.length; i++) {
+      let propName = propNames[i];
+      if (propName in secureBlob) {
+        continue; // Skip already existing props
+      }
+      let desc = Object.getOwnPropertyDescriptor(_Blob, propName);
+      Object.defineProperty(secureBlob, propName, desc);
+    }
+
+    secureBlob.prototype = _Blob.prototype;
+    return secureBlob;
+  }(Blob);
+
+  window.addEventListener('message', function (event) {
+    if (event.source !== window) {
+      return;
+    }
+    const message = event.data;
+    switch (message.method) {
+      case 'updateLocation':
+        if ((typeof message.info === 'object') && (typeof message.info.coords === 'object')) {
+          hookedObj.genLat = message.info.coords.lat;
+          hookedObj.genLon = message.info.coords.lon;
+          hookedObj.fakeGeo = message.info.fakeIt;
+        }
+        break;
+      default:
+        break;
+    }
+  }, false);
+  //]]>
+}
+          )();</script>
+  <path class="cls-2" d="M 638.856 245.632 L 613.856 245.632 L 581.366 208.362 L 561.136 208.362 L 561.136 245.632 L 540.136 245.632 L 540.136 133.982 C 557.816 133.982 575.496 134.142 593.136 134.142 C 619.416 134.302 633.266 151.822 633.266 171.092 C 633.266 186.382 626.266 201.832 605.076 206.092 L 638.846 244.152 L 638.856 245.632 Z M 561.126 153.732 L 561.126 189.402 L 593.126 189.402 C 606.506 189.402 612.236 180.492 612.236 171.572 C 612.236 162.652 606.346 153.732 593.126 153.732 L 561.126 153.732 Z" style="fill: rgb(255, 255, 255);"/>
+  <path class="cls-2" d="M 759.426 161.052 C 755.606 154.682 745.086 148.632 732.986 148.632 C 717.376 148.632 709.886 155.162 709.886 163.442 C 709.886 173.162 721.356 175.872 734.736 177.442 C 757.986 180.312 779.656 186.362 779.656 212.962 C 779.656 237.802 757.656 248.472 732.826 248.472 C 710.046 248.472 692.526 241.472 684.246 221.082 L 701.766 212.002 C 706.706 224.262 719.606 229.682 733.146 229.682 C 746.366 229.682 758.786 225.062 758.786 212.962 C 758.786 202.442 747.786 198.142 732.986 196.552 C 710.206 193.842 689.186 187.792 689.186 162.792 C 689.186 139.852 711.806 130.452 732.346 130.292 C 749.706 130.292 767.706 135.232 776.146 152.432 L 759.426 161.052 Z" style="fill: rgb(255, 255, 255);"/>
+  <path class="cls-2" d="M 931.286 164.882 L 894.966 213.292 L 890.826 213.292 L 855.306 164.722 L 855.306 245.792 L 834.306 245.792 L 834.306 134.302 L 858.516 134.302 L 893.396 182.242 L 928.276 134.302 L 952.276 134.302 L 952.276 245.792 L 931.276 245.792 L 931.286 164.882 Z" style="fill: rgb(255, 255, 255);"/>
+  <path class="cls-3" d="M 269.186 221.952 L 48.756 1.552 L 245.006 1.552 C 330.869 1.647 384.431 94.656 341.417 168.968 C 325.801 195.947 299.609 215.16 269.186 221.952 Z" style="fill: rgb(105, 105, 255);"/>
+  <polygon class="cls-3" points="371.336 373.582 238.436 373.582 111.886 247.022 111.886 364.872 1.066 364.872 1.066 110.462 26.866 135.542 111.716 225.582 137.086 225.582 105.886 193.382 43.616 131.102 26.566 114.052 0.066 87.552 0.066 60.942 51.046 111.732 63.086 123.772 109.676 170.362 169.886 224.582 202.446 225.582 90.916 114.052 1.066 24.192 1.066 2.522 6.066 2.522 228.246 224.582 223.646 225.582 371.336 373.582" style="fill: rgb(105, 105, 255);"/>
+  <path class="cls-2" d="M 294.966 221.952 L 74.556 1.552 L 270.806 1.552 C 356.669 1.558 410.327 94.513 367.389 168.869 C 351.757 195.94 325.483 215.208 294.966 221.982 L 294.966 221.952 Z" style="fill: rgb(255, 255, 255);"/>
+  <polygon class="cls-2" points="397.136 372.582 264.236 372.582 137.686 246.022 137.686 363.872 26.866 363.872 26.866 135.542 121.046 223.872 130.516 224.582 163.886 224.582 131.686 192.382 69.416 130.102 52.366 113.052 0.066 60.942 20.866 59.942 73.856 113.052 86.266 125.492 133.456 169.702 191.156 224.582 228.246 224.582 116.716 113.052 6.066 2.522 26.866 1.522 26.936 1.522 249.526 224.582 249.446 224.582 397.136 372.582" style="fill: rgb(255, 255, 255);"/>
+  <polygon class="cls-3" points="268.166 221.952 293.966 221.952 286.456 214.432 268.166 221.952" style="fill: rgb(105, 105, 255);"/>
+</svg>

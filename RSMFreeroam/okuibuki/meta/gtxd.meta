@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapParentTxds>
+ <txdRelationships>
+  <Item>
+   <parent>okuibibi_1</parent>
+   <child>>okuibibi</child>
+  </Item>
+    <Item>
+   <parent>>okuibibi_2</parent>
+   <child>>okuibibi_1</child>
+  </Item>
+    <Item>
+   <parent>>okuibibi_3</parent>
+   <child>>okuibibi_2</child>
+  </Item>
+ </txdRelationships>
+</CMapParentTxds>

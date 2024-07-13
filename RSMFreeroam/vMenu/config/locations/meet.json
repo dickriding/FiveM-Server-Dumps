@@ -1,0 +1,168 @@
+[
+    {
+      "name": "Casino (Parking Lot)",
+      "coordinates": {
+        "X": 865.95,
+        "Y": 3.08,
+        "Z": 78.76,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 235.66
+    },
+    {
+        "name": "Paleto Bay (Gas Station)",
+        "coordinates": {
+          "X": 129.77,
+          "Y": 6625.94,
+          "Z": 31.74,
+          "IsNormalized": false,
+          "IsZero": false
+        },
+        "heading": 131.1
+    },
+    {
+        "name": "Vespucii Beach (Parking Lot)",
+        "coordinates": {
+          "X": -1604.14,
+          "Y": -927.04,
+          "Z": 8.84,
+          "IsNormalized": false,
+          "IsZero": false
+        },
+        "heading": 47.82
+    },
+    {
+        "name": "Vinewood Bowl (Amphitheatre)",
+        "coordinates": {
+          "X": 656.1,
+          "Y": 677.81,
+          "Z": 128.91,
+          "IsNormalized": false,
+          "IsZero": false
+        },
+        "heading": 157.18
+    },
+    {
+        "name": "Vineyard (Parking Lot)",
+        "coordinates": {
+          "X": -1922.61,
+          "Y": 2067.21,
+          "Z": 140.54,
+          "IsNormalized": false,
+          "IsZero": false
+        },
+        "heading": 233.39
+    },
+    {
+        "name": "Airport (Parking Lot)",
+        "coordinates": {
+          "X": -1011.72,
+          "Y": -2659.06,
+          "Z": 13.83,
+          "IsNormalized": false,
+          "IsZero": false
+        },
+        "heading": 149.12
+    },
+    {
+        "name": "Airport (Parking Lot #2)",
+        "coordinates": {
+          "X": -815.08,
+          "Y": -2388.67,
+          "Z": 14.57,
+          "IsNormalized": false,
+          "IsZero": false
+        },
+        "heading": 287.9
+    },
+    {
+        "name": "Airport (Parking Lot #3)",
+        "coordinates": {
+          "X": -578.8,
+          "Y": -2355.17,
+          "Z": 13.83,
+          "IsNormalized": false,
+          "IsZero": false
+        },
+        "heading": 319.69
+    },
+    {
+        "name": "Airport (Parking Lot #4)",
+        "coordinates": {
+          "X": -540.1,
+          "Y": -2141.65,
+          "Z": 5.99,
+          "IsNormalized": false,
+          "IsZero": false
+        },
+        "heading": 47.49
+    },
+    {
+        "name": "Humane Labs (Parking Lot)",
+        "coordinates": {
+          "X": 3591.35,
+          "Y": 3791.5,
+          "Z": 30.02,
+          "IsNormalized": false,
+          "IsZero": false
+        },
+        "heading": 86.47
+    },
+    {
+        "name": "Legion Square (Parking Lot)",
+        "coordinates": {
+          "X": 256.56,
+          "Y": -772.71,
+          "Z": 30.69,
+          "IsNormalized": false,
+          "IsZero": false
+        },
+        "heading": 71.09
+    },
+    {
+        "name": "Legion Square (Parking Lot #2)",
+        "coordinates": {
+          "X": -7.0,
+          "Y": -1074.06,
+          "Z": 38.15,
+          "IsNormalized": false,
+          "IsZero": false
+        },
+        "heading": 248.29
+    },
+    {
+        "name": "Legion Square (Parking Lot #3 - UG)",
+        "coordinates": {
+          "X": 156.23,
+          "Y": -712.16,
+          "Z": 33.13,
+          "IsNormalized": false,
+          "IsZero": false
+        },
+        "heading": 68.09
+    },
+    {
+        "name": "Power Plant (Parking Lot)",
+        "coordinates": {
+          "X": 2676.46,
+          "Y": 1382.73,
+          "Z": 24.54,
+          "IsNormalized": false,
+          "IsZero": false
+        },
+        "heading": 269.08
+    },
+    {
+        "name": "You-Tool (Parking Lot)",
+        "coordinates": {
+          "X": 2775.56,
+          "Y": 3518.1,
+          "Z": 54.73,
+          "IsNormalized": false,
+          "IsZero": false
+        },
+        "heading": 248.12
+    }
+]
+

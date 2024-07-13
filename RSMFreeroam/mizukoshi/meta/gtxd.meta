@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapParentTxds>
+ <txdRelationships>
+  <Item>
+   <parent>mizukoshi_1</parent>
+   <child>mizukoshi</child>
+  </Item>
+ </txdRelationships>
+</CMapParentTxds>

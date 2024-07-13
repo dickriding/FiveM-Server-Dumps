@@ -1,0 +1,78 @@
+{
+	"Cheating": {
+		"description": "Any form of cheating (using external software or files for an unfair advantage)",
+		"options": {
+			"Godmode": "You will be reporting this player for using godmode, making them invincible",
+			"Aimbot": "You will be reporting this player for using an aimbot - please only use this if you are sure the player is using an aimbot",
+			"Weapon Hacks": "You will be reporting this player for using weapon hacks, such as infinite ammo, damage boosting, etc",
+			"Other": "Allows you to enter a custom message about this form of cheating if it doesn't fit the other options"
+		}
+	},
+
+	"Exploiting": {
+		"description": "Any behaviour that includes or is more closely related to exploiting server features or bugs",
+		"options": {
+			"Other": "Allows you to enter a custom message about the exploiting, such as what the player is doing and how (or why) they are doing it"
+		}
+	},
+
+    "Griefing": {
+        "description": "Any behaviour that includes or is more closely related to griefing other players",
+        "options": {
+            "Harassment": "You will be reporting this player for intentionally harassing another player, such as by following them around the map after being told to leave them alone",
+            "Drift Disturbance": "You will be reporting this player for disturbing a drift zone, such as by blocking roads, spawning trailers, etc",
+            "Race Disturbance": "You will be reporting this player for disturbing a race, such as by blocking roads, intentionally and repeatedly crashing into other players, etc",
+            "Other": "Allows you to enter a custom message about the griefing behaviour if it doesn't fit the other option(s)"
+        }
+    },
+
+	"Hate Speech": {
+		"description": "Any chat behaviour that includes hate speech, racism, homophobia, etc",
+		"options": {
+			"Racism": "You will be reporting this player for using racial slurs and/or discriminating against race(s)",
+			"Homophobia": "You will be reporting this player for using slurs and/or discriminating against a person's sexual orientation",
+			"Transphobia": "You will be reporting this player for using slurs and/or discriminating against transgender people or those who do not conform to social gender roles",
+			"Other": "Allows you to enter a custom message to better describe the behaviour"
+		}
+	},
+
+    "Inappropriate Username": {
+        "description": "Any username that is inappropriate, offensive, or otherwise violates the rules",
+        "options": {
+            "Racism": "You will be reporting this player for using racial slurs and/or discriminating against race(s) through their username",
+            "Homophobia": "You will be reporting this player for using slurs and/or discriminating against a person's sexual orientation through their username",
+			"Transphobia": "You will be reporting this player for using slurs and/or discriminating against transgender people or those who do not conform to social gender roles through their username",
+
+            "Inappropriate": "You will be reporting this player for having a generally inappropriate username",
+            "Offensive": "You will be reporting this player for having an offensive username",
+            "Other": "Allows you to enter a custom message about the username"
+        }
+    },
+
+    "Verbal Abuse": {
+        "description": "Any form of verbal abuse, such as arguing, threats, etc",
+        "options": {
+            "Arguing": "You will be reporting this player for arguing with another player",
+            "Threats": "You will be reporting this player for threatening another player",
+            "Harassment": "You will be reporting this player for harassing another player",
+            "Other": "Allows you to enter a custom message about the verbal abuse"
+        }
+    },
+
+    "Spamming": {
+        "description": "Any form of spamming, such as chat spam, voice spam, etc",
+        "options": {
+            "Chat Spam": "You will be reporting this player for excessively spamming the text chat",
+            "Voice Spam": "You will be reporting this player for spamming the voice chat with offensive or annoying sounds with the intent to disrupt others",
+            "Other": "Allows you to enter a custom message about the incident to better describe the behaviour of the player"
+        }
+    },
+
+    "Other": {
+        "description": "Any other behaviour that does not fit the other categories",
+        "options": {
+			"Erotic behaviour": "You will be reporting this player for engaging in sex discussions, erotic roleplay, etc",
+            "Other": "Allows you to enter a custom message about the incident to better describe the behaviour of the player"
+        }
+    }
+}

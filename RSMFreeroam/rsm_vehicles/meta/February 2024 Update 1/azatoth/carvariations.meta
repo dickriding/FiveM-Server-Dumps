@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>AZATOTH</modelName>
+      <colors>
+        <Item>
+          <indices>
+            119
+            120
+            0
+            156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            118
+            120
+            0
+            156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            117
+            120
+            0
+            0
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            30
+            46
+            0
+            156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            0
+            120
+            0
+            0
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            8
+            120
+            5
+            156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            28
+            120
+            0
+            0
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            75
+            120
+            70
+            112
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>standard white</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="62" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

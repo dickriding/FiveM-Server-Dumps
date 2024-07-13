@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShopVehicleDataArray>
+	<Vehicles>
+		<!-- Add your car here -->
+		<Item>
+			<lockHash>CU_BHEIST_VEH</lockHash>
+			<modelNameHash>bheist</modelNameHash>
+			<cost value ="0"/>
+			<textLabel>BHEIST</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+	</Vehicles>
+</ShopVehicleDataArray>

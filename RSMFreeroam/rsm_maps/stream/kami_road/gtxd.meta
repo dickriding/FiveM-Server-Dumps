@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapParentTxds>
+ <txdRelationships>
+  <Item>
+   <parent>kami_road_1</parent>
+   <child>kami_road</child>
+  </Item>
+    <Item>
+   <parent>kami_road_2</parent>
+   <child>kami_road_1</child>
+  </Item>
+    <Item>
+   <parent>kami_road_3</parent>
+   <child>kami_road_2</child>
+  </Item>
+ </txdRelationships>
+</CMapParentTxds>

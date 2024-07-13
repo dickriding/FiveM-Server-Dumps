@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShopVehicleDataArray>
+	<Vehicles>
+		<Item>
+			<lockHash>CU_sentinelc_VEH</lockHash>
+			<modelNameHash>sentinelc</modelNameHash>
+			<cost value ="0"/>
+			<textLabel>sentinelc</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+	</Vehicles>
+</ShopVehicleDataArray>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfo__InitDataList>
+  <residentTxd>vehshare</residentTxd>
+  <residentAnims />
+  <InitDatas />
+  <txdRelationships>
+    <Item>
+      <parent>vehicles_schaf_w2_interior</parent>
+      <child>romero</child>
+    </Item>
+  </txdRelationships>
+</CVehicleModelInfo__InitDataList>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponComponentInfoBlob>
+  <Data />
+  <Infos>
+    <Item type="CWeaponComponentFlashLightInfo">
+      <Name>COMPONENT_PLIGHT_WT</Name>
+      <Model>w_me_pocketlight_light</Model>
+      <LocName>WCT_PFLASH</LocName>
+      <LocDesc>WCD_PFLASH</LocDesc>
+      <AttachBone>AAPFlsh</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <MainLightIntensity value="8.50000" />
+      <MainLightColor value="0xFFB1C8FF" />
+      <MainLightRange value="18.000000" />
+      <MainLightFalloffExponent value="32.000000" />
+      <MainLightInnerAngle value="0.000000" />
+      <MainLightOuterAngle value="10.00000" />
+      <MainLightCoronaIntensity value="2.000000" />
+      <MainLightCoronaSize value="0.18000" />
+      <MainLightVolumeIntensity value="0.400000" />
+      <MainLightVolumeSize value="0.100000" />
+      <MainLightVolumeExponent value="70.000000" />
+      <MainLightVolumeOuterColor value="0xFFB1C8FF" />
+      <MainLightShadowFadeDistance value="15.000000" />
+      <MainLightSpecularFadeDistance value="15.000000" />
+      <SecondaryLightIntensity value="5.500000" />
+      <SecondaryLightColor value="0xFFB1C8FF" />
+      <SecondaryLightRange value="8.000000" />
+      <SecondaryLightFalloffExponent value="64.000000" />
+      <SecondaryLightInnerAngle value="2.000000" />
+      <SecondaryLightOuterAngle value="25.000000" />
+      <SecondaryLightVolumeIntensity value="0.20000" />
+      <SecondaryLightVolumeSize value="0.300000" />
+      <SecondaryLightVolumeExponent value="24.000000" />
+      <SecondaryLightVolumeOuterColor value="0x00FFFFFF" />
+      <SecondaryLightFadeDistance value="10.000000" />
+      <fTargetDistalongAimCamera value="8.000000" />
+      <FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+      <FlashLightBoneBulbOn>Bulb_On</FlashLightBoneBulbOn>
+      <FlashLightBoneBulbOff>Bulb_Off</FlashLightBoneBulbOff>
+      <ToggleWhenAiming value="true" />
+    </Item>
+    <Item type="CWeaponComponentFlashLightInfo">
+      <Name>COMPONENT_PLIGHT_UV</Name>
+      <Model>w_me_pocketlight_light_uv</Model>
+      <LocName>WCT_PFLASH_UV</LocName>
+      <LocDesc>WCD_PFLASH_UV</LocDesc>
+      <AttachBone>AAPFlsh</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <MainLightIntensity value="6.500000" />
+      <MainLightColor value="0xFF881AAF" />
+      <MainLightRange value="5.500000" />
+      <MainLightFalloffExponent value="48.000000" />
+      <MainLightInnerAngle value="0.000000" />
+      <MainLightOuterAngle value="12.000000" />
+      <MainLightCoronaIntensity value="1.000000" />
+      <MainLightCoronaSize value="0.18000" />
+      <MainLightVolumeIntensity value="0.22000" />
+      <MainLightVolumeSize value="0.100000" />
+      <MainLightVolumeExponent value="70.000000" />
+      <MainLightVolumeOuterColor value="0xFF491487" />
+      <MainLightShadowFadeDistance value="4.500000" />
+      <MainLightSpecularFadeDistance value="4.500000" />
+      <SecondaryLightIntensity value="2.800000" />
+      <SecondaryLightColor value="0xFF3A05B7" />
+      <SecondaryLightRange value="2.850000" />
+      <SecondaryLightFalloffExponent value="64.000000" />
+      <SecondaryLightInnerAngle value="0.000000" />
+      <SecondaryLightOuterAngle value="14.000000" />
+      <SecondaryLightVolumeIntensity value="0.20000" />
+      <SecondaryLightVolumeSize value="0.300000" />
+      <SecondaryLightVolumeExponent value="42.000000" />
+      <SecondaryLightVolumeOuterColor value="0x00FFFFFF" />
+      <SecondaryLightFadeDistance value="4.000000" />
+      <fTargetDistalongAimCamera value="8.000000" />
+      <FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+      <FlashLightBoneBulbOn>Bulb_On</FlashLightBoneBulbOn>
+      <FlashLightBoneBulbOff>Bulb_Off</FlashLightBoneBulbOff>
+      <ToggleWhenAiming value="true" />
+    </Item>
+    <Item type="CWeaponComponentFlashLightInfo">
+      <Name>COMPONENT_PLIGHT_RED</Name>
+      <Model>w_me_pocketlight_light_red</Model>
+      <LocName>WCT_PFLASH_RED</LocName>
+      <LocDesc>WCD_PFLASH_RED</LocDesc>
+      <AttachBone>AAPFlsh</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <MainLightIntensity value="7.000000" />
+      <MainLightColor value="0xFF63101B" />
+      <MainLightRange value="8.500000" />
+      <MainLightFalloffExponent value="48.000000" />
+      <MainLightInnerAngle value="0.000000" />
+      <MainLightOuterAngle value="10.000000" />
+      <MainLightCoronaIntensity value="1.400000" />
+      <MainLightCoronaSize value="0.18000" />
+      <MainLightVolumeIntensity value="0.325000" />
+      <MainLightVolumeSize value="0.100000" />
+      <MainLightVolumeExponent value="70.000000" />
+      <MainLightVolumeOuterColor value="0xFF63101B" />
+      <MainLightShadowFadeDistance value="4.500000" />
+      <MainLightSpecularFadeDistance value="4.500000" />
+      <SecondaryLightIntensity value="3.500000" />
+      <SecondaryLightColor value="0xFF63101B" />
+      <SecondaryLightRange value="5.500000" />
+      <SecondaryLightFalloffExponent value="64.000000" />
+      <SecondaryLightInnerAngle value="0.000000" />
+      <SecondaryLightOuterAngle value="22.000000" />
+      <SecondaryLightVolumeIntensity value="0.20000" />
+      <SecondaryLightVolumeSize value="0.300000" />
+      <SecondaryLightVolumeExponent value="42.000000" />
+      <SecondaryLightVolumeOuterColor value="0x00FFFFFF" />
+      <SecondaryLightFadeDistance value="4.000000" />
+      <fTargetDistalongAimCamera value="8.000000" />
+      <FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+      <FlashLightBoneBulbOn>Bulb_On</FlashLightBoneBulbOn>
+      <FlashLightBoneBulbOff>Bulb_Off</FlashLightBoneBulbOff>
+      <ToggleWhenAiming value="true" />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_PLIGHT_PS</Name>
+      <Model>w_me_pocketlight_ps</Model>
+      <LocName>WCT_PFLASH_PSD</LocName>
+      <LocDesc>WCD_INVALID</LocDesc>
+      <AttachBone>AAPFlsh</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_PLIGHT_CAMO_01</Name>
+      <Model>w_me_pocketlight_camo_01</Model>
+      <LocName>WCT_CAMO_1</LocName>
+      <LocDesc>WCD_INVALID</LocDesc>
+      <AttachBone>AAPCamo</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_PLIGHT_CAMO_02</Name>
+      <Model>w_me_pocketlight_camo_02</Model>
+      <LocName>WCT_CAMO_2</LocName>
+      <LocDesc>WCD_INVALID</LocDesc>
+      <AttachBone>AAPCamo</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_PLIGHT_CAMO_03</Name>
+      <Model>w_me_pocketlight_camo_03</Model>
+      <LocName>WCT_CAMO_3</LocName>
+      <LocDesc>WCD_INVALID</LocDesc>
+      <AttachBone>AAPCamo</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_PLIGHT_CAMO_04</Name>
+      <Model>w_me_pocketlight_camo_04</Model>
+      <LocName>WCT_CAMO_9</LocName>
+      <LocDesc>WCD_INVALID</LocDesc>
+      <AttachBone>AAPCamo</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+    </Item>
+  </Infos>
+  <InfoBlobName>Pocket Flashlight by w/</InfoBlobName>
+</CWeaponComponentInfoBlob>

@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html style="background: transparent !important;">
+<head>
+	<meta charset="utf-8">
+
+	<script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+
+	<link rel="stylesheet" type="text/css" href="assets/css/main.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/spincard.css">
+
+    <link href="https://cdn.rsm.gg/fontawesome-pro-5.14.0-web/css/all.min.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/spinkit/2.0.1/spinkit.min.css" integrity="sha512-kRYkjiYH/VXxoiaDK2oGNMKIi8VQVfie1lkYGX3kmfzWNR2kfaF5ze0885W3/eE6lIiURBsZA91M/WNvCajHMw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+	<div id="app">
+		<div class="toasts-container" :style="this.toastContainerStyle">
+			<transition-group name="toasts" tag="div" class="toasts">
+				<div v-for="toast in toasts.slice(0, 5)" :class="['toast', toast.type, { minimal: !toast.title }]" :key="toast.key">
+					<div class="toast-icon">
+						<i class="fas fa-info-circle" v-if="['info'].includes(toast.type)"></i>
+						<i class="fal fa-check" v-if="['success'].includes(toast.type)"></i>
+						<i class="fal fa-glass-cheers" v-if="['update'].includes(toast.type)"></i>
+						<i class="fal fa-times" v-if="['error', 'danger'].includes(toast.type)"></i>
+						<i class="fas fa-exclamation-triangle" v-if="['warning'].includes(toast.type)"></i>
+					</div>
+					<div class="toast-content">
+						<span v-if="toast.title">{{ toast.title }}</span>
+						<span v-html="toast.text"></span>
+					</div>
+				</div>
+			</transition-group>
+		</div>
+
+		<div v-if="card.active" class="row">
+			<div class="column">
+				<div class="card">
+					<div v-if="card.icon.type === 'fa'" class="icon">
+						<i :class="card.icon.value"></i>
+					</div>
+
+					<div v-if="card.icon.type === 'animated'" class="icon">
+
+						<div v-if="card.icon.value === 'sk-plane'" class="sk-plane"></div>
+
+						<div v-else-if="card.icon.value === 'sk-chase'" class="sk-chase">
+							<div class="sk-chase-dot"></div>
+							<div class="sk-chase-dot"></div>
+							<div class="sk-chase-dot"></div>
+							<div class="sk-chase-dot"></div>
+							<div class="sk-chase-dot"></div>
+							<div class="sk-chase-dot"></div>
+						</div>
+
+						<div v-else-if="card.icon.value === 'sk-bounce'" class="sk-bounce">
+							<div class="sk-bounce-dot"></div>
+							<div class="sk-bounce-dot"></div>
+						</div>
+
+						<div v-else-if="card.icon.value === 'sk-wave'" class="sk-wave">
+							<div class="sk-wave-rect"></div>
+							<div class="sk-wave-rect"></div>
+							<div class="sk-wave-rect"></div>
+							<div class="sk-wave-rect"></div>
+							<div class="sk-wave-rect"></div>
+						</div>
+
+						<div v-else-if="card.icon.value === 'sk-pulse'" class="sk-pulse"></div>
+
+						<div v-else-if="card.icon.value === 'sk-flow'" class="sk-flow">
+							<div class="sk-flow-dot"></div>
+							<div class="sk-flow-dot"></div>
+							<div class="sk-flow-dot"></div>
+						</div>
+
+						<div v-else-if="card.icon.value === 'sk-swing'" class="sk-swing">
+							<div class="sk-swing-dot"></div>
+							<div class="sk-swing-dot"></div>
+						</div>
+
+						<div v-else-if="card.icon.value === 'sk-circle'" class="sk-circle">
+							<div class="sk-circle-dot"></div>
+							<div class="sk-circle-dot"></div>
+							<div class="sk-circle-dot"></div>
+							<div class="sk-circle-dot"></div>
+							<div class="sk-circle-dot"></div>
+							<div class="sk-circle-dot"></div>
+							<div class="sk-circle-dot"></div>
+							<div class="sk-circle-dot"></div>
+							<div class="sk-circle-dot"></div>
+							<div class="sk-circle-dot"></div>
+							<div class="sk-circle-dot"></div>
+							<div class="sk-circle-dot"></div>
+						</div>
+
+						<div v-else-if="card.icon.value === 'sk-circle-fade'" class="sk-circle-fade">
+							<div class="sk-circle-fade-dot"></div>
+							<div class="sk-circle-fade-dot"></div>
+							<div class="sk-circle-fade-dot"></div>
+							<div class="sk-circle-fade-dot"></div>
+							<div class="sk-circle-fade-dot"></div>
+							<div class="sk-circle-fade-dot"></div>
+							<div class="sk-circle-fade-dot"></div>
+							<div class="sk-circle-fade-dot"></div>
+							<div class="sk-circle-fade-dot"></div>
+							<div class="sk-circle-fade-dot"></div>
+							<div class="sk-circle-fade-dot"></div>
+							<div class="sk-circle-fade-dot"></div>
+						</div>
+
+						<div v-else-if="card.icon.value === 'sk-grid'" class="sk-grid">
+							<div class="sk-grid-cube"></div>
+							<div class="sk-grid-cube"></div>
+							<div class="sk-grid-cube"></div>
+							<div class="sk-grid-cube"></div>
+							<div class="sk-grid-cube"></div>
+							<div class="sk-grid-cube"></div>
+							<div class="sk-grid-cube"></div>
+							<div class="sk-grid-cube"></div>
+							<div class="sk-grid-cube"></div>
+						</div>
+
+						<div v-else-if="card.icon.value === 'sk-fold'" class="sk-fold">
+							<div class="sk-fold-cube"></div>
+							<div class="sk-fold-cube"></div>
+							<div class="sk-fold-cube"></div>
+							<div class="sk-fold-cube"></div>
+						</div>
+
+						<div v-else-if="card.icon.value === 'sk-wander'" class="sk-wander">
+							<div class="sk-wander-cube"></div>
+							<div class="sk-wander-cube"></div>
+							<div class="sk-wander-cube"></div>
+						</div>
+					</div>
+
+					<div class="details">
+						<div class="title">{{ card.title }}</div>
+						<div class="description">{{ card.description }}</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div :class="[ 'spinner', { 'active': spinner.active && spinner.message != null && spinner.message.length > 0 } ]">
+			<div id="rsm-loading" aria-live="polite" role="status">
+				<div></div>
+				<span v-if="!spinner.rawHtml" id="status">{{ spinner.message }}</span>
+				<span v-else id="status" v-html="spinner.message"></span>
+			</div>
+		</div>
+
+		<div :class="[ 'progress', { 'active': progress.active && progress.min >= 0 && progress.max > progress.min && progress.value >= progress.min && progress.value <= progress.max } ]">
+			<div class="container">
+				<div class="bar">
+					<div class="level">
+						{{ progress.level.current || 0 }}
+					</div>
+					<div class="progresses">
+						<div class="current" :style="{ width: getProgressCurrentPercent + '%' }"></div>
+						<div class="next" :style="{ width: getProgressNextPercent + '%' }"></div>
+					</div>
+					<div class="level">
+						{{ progress.level.next || 1 }}
+					</div>
+				</div>
+
+				<div class="labels">
+					<span>{{ getProgressValue }}/{{ getProgressMax }} (+{{ getProgressGain }} XP)</span>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/numeral.js/2.0.6/numeral.min.js" integrity="sha512-USPCA7jmJHlCNRSFwUFq3lAm9SaOjwG8TaB8riqx3i/dAJqhaYilVnaf2eVUH5zjq89BU6YguUuAno+jpRvUqA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	<script src="https://cdn.rsm.gg/packages/vue@2.7.14/dist/vue.min.js"></script>
+	<script src="assets/js/main.js" type="text/javascript"></script>
+</body>
+</html>

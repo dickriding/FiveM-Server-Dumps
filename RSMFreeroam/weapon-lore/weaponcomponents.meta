@@ -1,0 +1,2475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CWeaponComponentInfoBlob>
+  <Infos>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_KAR98K_CLIP_01</Name>
+      <Model>w_sr_kar98k_mag1</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_CR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="5" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_PROKOLOT_CLIP_01</Name>
+      <Model>w_pi_prokolot_mag1</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_CR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="12" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_HONEYBADGER_CLIP_01</Name>
+      <Model>w_ar_honeybadger_mag1</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_CR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="30" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_MP40_CLIP_01</Name>
+      <Model>w_sb_mp40_mag1</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_CR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="32" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_MP40_CLIP_02</Name>
+      <Model>w_sb_mp40_mag2</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_CR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="64" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_BIZON_CLIP_01</Name>
+      <Model>w_ar_bizon_mag1</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_CR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="36" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_BIZON_CLIP_02</Name>
+      <Model>w_ar_bizon_mag2</Model>
+      <LocName>WCT_CLIP2</LocName>
+      <LocDesc>WCD_CR_CLIP2</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="54" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_SCARHDMR_CLIP_01</Name>
+      <Model>w_sr_scarhdmr_mag1</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_CR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="10" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_SCARHDMR_CLIP_02</Name>
+      <Model>w_sr_scarhdmr_mag2</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_CR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="20" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_M93_CLIP_01</Name>
+      <Model>w_pi_m93_mag1</Model>
+      <LocName>WCT_INVALID</LocName>
+      <LocDesc>WCD_INVALID</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="21" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_M93_CLIP_02</Name>
+      <Model>w_pi_m93_mag2</Model>
+      <LocName>WCT_INVALID</LocName>
+      <LocDesc>WCD_INVALID</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="36" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_STG_CLIP_01</Name>
+      <Model>w_ar_stg_mag1</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_CR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="30" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_STG_CLIP_02</Name>
+      <Model>w_ar_stg_mag2</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_CR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="60" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_glock18c_CLIP_01</Name>
+      <Model>w_pi_glock18c_mag1</Model>
+      <LocName>WCT_INVALID</LocName>
+      <LocDesc>WCD_INVALID</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="26" />
+      <ReloadData ref="RELOAD_DEFAULT_WITH_EMPTIES" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_glock18c_CLIP_02</Name>
+      <Model>w_pi_glock18c_mag2</Model>
+      <LocName>WCT_INVALID</LocName>
+      <LocDesc>WCD_INVALID</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="60" />
+      <ReloadData ref="RELOAD_DEFAULT_WITH_EMPTIES" />
+    </Item>
+    <Item type="CWeaponComponentVariantModelInfo">
+      <Name>COMPONENT_GLOCK18C_VARMOD_Liv1</Name>
+      <Model>w_pi_GLOCK18C_Liv1</Model>
+      <LocName>WCT_INVALID</LocName>
+      <LocDesc>WCD_INVALID</LocDesc>
+      <AttachBone />
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="false" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <TintIndexOverride value="2"/>
+      <ExtraComponents>
+        <Item>
+          <ComponentName>COMPONENT_glock18c_CLIP_02</ComponentName>
+          <ComponentModel>w_pi_GLOCK18C_Liv1_mag2</ComponentModel>
+        </Item>
+      </ExtraComponents>
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_AK47_CLIP_01</Name>
+      <Model>w_ar_AK47_mag1</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_AR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="30" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_AK47_CLIP_02</Name>
+      <Model>w_ar_AK47_mag2</Model>
+      <LocName>WCT_CLIP2</LocName>
+      <LocDesc>WCD_AR_CLIP2</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="100" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="60" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_M4A1_CLIP_01</Name>
+      <Model>w_ar_M4A1_mag1</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_CR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="30" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_M4A1_CLIP_02</Name>
+      <Model>w_ar_M4A1_mag2</Model>
+      <LocName>WCT_CLIP2</LocName>
+      <LocDesc>WCD_CR_CLIP2</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="100" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="60" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_CAR15_CLIP_01</Name>
+      <Model>w_ar_CAR15_mag1</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_CR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="30" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_CAR15_CLIP_02</Name>
+      <Model>w_ar_CAR15_mag2</Model>
+      <LocName>WCT_CLIP2</LocName>
+      <LocDesc>WCD_CR_CLIP2</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="100" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="20" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentFlashLightInfo">
+      <Name>COMPONENT_CAR15_AR_FLSH</Name>
+      <Model>w_CAR15_ar_flsh</Model>
+      <LocName>WCT_FLASH</LocName>
+      <LocDesc>WCD_FLASH</LocDesc>
+      <AttachBone>AAPFlsh</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <MainLightIntensity value="6.000000" />
+      <MainLightColor value="0x00FFFFFF" />
+      <MainLightRange value="20.000000" />
+      <MainLightFalloffExponent value="32.000000" />
+      <MainLightInnerAngle value="0.000000" />
+      <MainLightOuterAngle value="20.000000" />
+      <MainLightCoronaIntensity value="3.000000" />
+      <MainLightCoronaSize value="0.200000" />
+      <MainLightVolumeIntensity value="0.120000" />
+      <MainLightVolumeSize value="0.030000" />
+      <MainLightVolumeExponent value="0.010000" />
+      <MainLightVolumeOuterColor value="0x00FFFFFF" />
+      <MainLightShadowFadeDistance value="15.000000" />
+      <MainLightSpecularFadeDistance value="15.000000" />
+      <SecondaryLightIntensity value="4.000000" />
+      <SecondaryLightColor value="0x00FFFFFF" />
+      <SecondaryLightRange value="6.000000" />
+      <SecondaryLightFalloffExponent value="64.000000" />
+      <SecondaryLightInnerAngle value="0.000000" />
+      <SecondaryLightOuterAngle value="60.000000" />
+      <SecondaryLightVolumeIntensity value="0.300000" />
+      <SecondaryLightVolumeSize value="0.400000" />
+      <SecondaryLightVolumeExponent value="24.000000" />
+      <SecondaryLightVolumeOuterColor value="0x00FFFFFF" />
+      <SecondaryLightFadeDistance value="10.000000" />
+      <fTargetDistalongAimCamera value="8.000000" />
+      <FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+      <FlashLightBoneBulbOn>Bulb_On</FlashLightBoneBulbOn>
+      <FlashLightBoneBulbOff>Bulb_Off</FlashLightBoneBulbOff>
+    </Item>
+    <Item type="CWeaponComponentScopeInfo">
+      <Name>COMPONENT_AT_SCOPE_MP9</Name>
+      <Model>w_at_scope_MP9</Model>
+      <LocName>WCT_SCOPE_MAC</LocName>
+      <LocDesc>WCD_SCOPE_MAC</LocDesc>
+      <AttachBone>AAPScop</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="5" />
+      <HudRange value="0" />
+      <CameraHash />
+      <RecoilShakeAmplitude value="0.280000" />
+      <ExtraZoomFactorForAccurateMode value="1.200000" />
+      <Reticule value="0" />
+      <ReticuleHash />
+    </Item>
+    <Item type="CWeaponComponentSuppressorInfo">
+      <Name>COMPONENT_AT_MP9_SUPP_02</Name>
+      <Model>w_at_MP9_supp_02</Model>
+      <LocName>WCT_SUPP</LocName>
+      <LocDesc>WCD_AR_SUPP2</LocDesc>
+      <AttachBone>AAPSupp</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="CWeaponDamageModifier">
+        <DamageModifier value="1.000000" />
+      </DamageModifier>
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="-5" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="-5" />
+      <MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+      <FlashFx>muz_pistol_silencer</FlashFx>
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_MP9_CLIP_01</Name>
+      <Model>w_sb_MP9_mag1</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCDMSMG_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="16" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_MP9_CLIP_02</Name>
+      <Model>w_sb_MP9_mag2</Model>
+      <LocName>WCT_CLIP2</LocName>
+      <LocDesc>WCDMSMG_CLIP2</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="87" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="30" />
+      <ReloadData ref="RELOAD_LARGE" />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_AT_SigSauerMPX_BARREL_02</Name>
+      <Model>w_at_SigSauerMPX_barrel_1</Model>
+      <LocName>WCT_BARR</LocName>
+      <LocDesc>WCD_BARR</LocDesc>
+      <AttachBone>AAPBarrel</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <ApplyWeaponTint value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_AT_SigSauerMPX_BARREL_02</Name>
+      <Model>w_at_SigSauerMPX_barrel_2</Model>
+      <LocName>WCT_BARR2</LocName>
+      <LocDesc>WCD_BARR2</LocDesc>
+      <AttachBone>AAPBarrel</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <FallOffModifier type="CWeaponFallOffModifier">
+        <RangeModifier value="1.250000" />
+        <DamageModifier value="1.333333" />
+      </FallOffModifier>
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <ApplyWeaponTint value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="5" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_SigSauerMPX_CLIP_01</Name>
+      <Model>w_ar_SigSauerMPX_mag1</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_CR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="30" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_SigSauerMPX_CLIP_02</Name>
+      <Model>w_ar_SigSauerMPX_mag2</Model>
+      <LocName>WCT_CLIP2</LocName>
+      <LocDesc>WCD_CR_CLIP2</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="100" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="60" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_FNL1A1_CLIP_01</Name>
+      <Model>w_ar_FNL1A1_mag1</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_SCRB_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="30" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_MDR_CLIP_01</Name>
+      <Model>w_ar_mdr_mag1</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_AR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <WeaponAttachBone>WAPClip</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="false"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="0"/>
+      <ClipSize value="30"/>
+      <AmmoInfo/>
+      <ReloadData ref="RELOAD_DEFAULT"/>
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_MDR_CLIP_02</Name>
+      <Model>w_ar_mdr_mag2</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_AR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <WeaponAttachBone>WAPClip</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="false"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="0"/>
+      <ClipSize value="30"/>
+      <AmmoInfo/>
+      <ReloadData ref="RELOAD_DEFAULT"/>
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_MDR_CLIP_03</Name>
+      <Model>w_ar_mdr_mag3</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_AR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <WeaponAttachBone>WAPClip</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="false"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="0"/>
+      <ClipSize value="60"/>
+      <AmmoInfo/>
+      <ReloadData ref="RELOAD_DEFAULT"/>
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_MDR_CLIP_04</Name>
+      <Model>w_ar_mdr_mag4</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_AR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <WeaponAttachBone>WAPClip</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="false"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="0"/>
+      <ClipSize value="30"/>
+      <AmmoInfo/>
+      <ReloadData ref="RELOAD_DEFAULT"/>
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_MDR_CLIP_05</Name>
+      <Model>w_ar_mdr_mag5</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_AR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <WeaponAttachBone>WAPClip</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="false"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="0"/>
+      <ClipSize value="30"/>
+      <AmmoInfo/>
+      <ReloadData ref="RELOAD_DEFAULT"/>
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_MDR_CLIP_06</Name>
+      <Model>w_ar_mdr_mag6</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_AR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <WeaponAttachBone>WAPClip</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="false"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="0"/>
+      <ClipSize value="45"/>
+      <AmmoInfo/>
+      <ReloadData ref="RELOAD_DEFAULT"/>
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_MDR_CLIP_07</Name>
+      <Model>w_ar_mdr_mag7</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_AR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <WeaponAttachBone>WAPClip</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="false"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="0"/>
+      <ClipSize value="45"/>
+      <AmmoInfo/>
+      <ReloadData ref="RELOAD_DEFAULT"/>
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_MDR_CLIP_08</Name>
+      <Model>w_ar_mdr_mag8</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_AR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <WeaponAttachBone>WAPClip</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="false"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="0"/>
+      <ClipSize value="60"/>
+      <AmmoInfo/>
+      <ReloadData ref="RELOAD_DEFAULT"/>
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_MDR_CLIP_09</Name>
+      <Model>w_ar_mdr_mag9</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_AR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <WeaponAttachBone>WAPClip</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="false"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="0"/>
+      <ClipSize value="100"/>
+      <AmmoInfo/>
+      <ReloadData ref="RELOAD_DEFAULT"/>
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_MDR_GRIP</Name>
+      <Model>mdr_grip</Model>
+      <LocName>WCT_GRIP</LocName>
+      <LocDesc>WCD_GRIP</LocDesc>
+      <AttachBone>AAPFlshLasr</AttachBone>
+      <WeaponAttachBone>WAPFlshLasr</WeaponAttachBone>
+      <AccuracyModifier type="CWeaponAccuracyModifier">
+        <AccuracyModifier value="1.100000"/>
+			</AccuracyModifier>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="5"/>
+      <HudRange value="0"/>
+    </Item>
+    <Item type="CWeaponComponentScopeInfo">
+      <Name>COMPONENT_MDR_SCOPE_01</Name>
+      <Model>mdr_scope1</Model>
+      <LocName>WCT_SCOPE_MED</LocName>
+      <LocDesc>WCD_SCOPE_MED</LocDesc>
+      <AttachBone>AAPScop_2</AttachBone>
+      <WeaponAttachBone>WAPScop_2</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="5"/>
+      <HudRange value="0"/>
+      <CameraHash/>
+      <RecoilShakeAmplitude value="0.280000"/>
+      <ExtraZoomFactorForAccurateMode value="1.200000"/>
+      <Reticule value="0"/>
+      <ReticuleHash/>
+    </Item>
+    <Item type="CWeaponComponentScopeInfo">
+      <Name>COMPONENT_MDR_SCOPE_02</Name>
+      <Model>mdr_scope2</Model>
+      <LocName>WCT_SCOPE_MED</LocName>
+      <LocDesc>WCD_SCOPE_MED</LocDesc>
+      <AttachBone>AAPScop_2</AttachBone>
+      <WeaponAttachBone>WAPScop_2</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="5"/>
+      <HudRange value="0"/>
+      <CameraHash/>
+      <RecoilShakeAmplitude value="0.280000"/>
+      <ExtraZoomFactorForAccurateMode value="1.200000"/>
+      <Reticule value="0"/>
+      <ReticuleHash/>
+    </Item>
+    <Item type="CWeaponComponentScopeInfo">
+      <Name>COMPONENT_MDR_SCOPE_03</Name>
+      <Model>mdr_scope3</Model>
+      <LocName>WCT_SCOPE_MED</LocName>
+      <LocDesc>WCD_SCOPE_MED</LocDesc>
+      <AttachBone>AAPScop_2</AttachBone>
+      <WeaponAttachBone>WAPScop_2</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="5"/>
+      <HudRange value="0"/>
+      <CameraHash/>
+      <RecoilShakeAmplitude value="0.280000"/>
+      <ExtraZoomFactorForAccurateMode value="1.200000"/>
+      <Reticule value="0"/>
+      <ReticuleHash/>
+    </Item>
+    <Item type="CWeaponComponentScopeInfo">
+      <Name>COMPONENT_MDR_SCOPE_04</Name>
+      <Model>mdr_scope4</Model>
+      <LocName>WCT_SCOPE_MED</LocName>
+      <LocDesc>WCD_SCOPE_MED</LocDesc>
+      <AttachBone>AAPScop_2</AttachBone>
+      <WeaponAttachBone>WAPScop_2</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="5"/>
+      <HudRange value="0"/>
+      <CameraHash/>
+      <RecoilShakeAmplitude value="0.280000"/>
+      <ExtraZoomFactorForAccurateMode value="1.200000"/>
+      <Reticule value="0"/>
+      <ReticuleHash/>
+    </Item>
+    <Item type="CWeaponComponentSuppressorInfo">
+      <Name>COMPONENT_MDR_SUPP_01</Name>
+      <Model>mdr_supp1</Model>
+      <LocName>"Supp"</LocName>
+      <LocDesc>"Supp"</LocDesc>
+      <AttachBone>AAPSupp</AttachBone>
+      <WeaponAttachBone>WAPSupp</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="CWeaponDamageModifier">
+        <DamageModifier value="1.000000"/>
+			</DamageModifier>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="-5"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="-5"/>
+      <MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+      <FlashFx>muz_pistol_silencer</FlashFx>
+    </Item>
+    <Item type="CWeaponComponentSuppressorInfo">
+      <Name>COMPONENT_MDR_SUPP_02</Name>
+      <Model>mdr_supp2</Model>
+      <LocName>"Supp2"</LocName>
+      <LocDesc>"Supp2"</LocDesc>
+      <AttachBone>AAPSupp</AttachBone>
+      <WeaponAttachBone>WAPSupp</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="CWeaponDamageModifier">
+        <DamageModifier value="1.000000"/>
+			</DamageModifier>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="-5"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="-5"/>
+      <MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+      <FlashFx>muz_pistol_silencer</FlashFx>
+    </Item>
+    <Item type="CWeaponComponentSuppressorInfo">
+      <Name>COMPONENT_MDR_SUPP_03</Name>
+      <Model>mdr_supp3</Model>
+      <LocName>"Supp3"</LocName>
+      <LocDesc>"Supp3"</LocDesc>
+      <AttachBone>AAPSupp</AttachBone>
+      <WeaponAttachBone>WAPSupp</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="CWeaponDamageModifier">
+        <DamageModifier value="1.000000"/>
+			</DamageModifier>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="-5"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="-5"/>
+      <MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+      <FlashFx>muz_pistol_silencer</FlashFx>
+    </Item>
+    <Item type="CWeaponComponentSuppressorInfo">
+      <Name>COMPONENT_MDR_SUPP_04</Name>
+      <Model>mdr_supp4</Model>
+      <LocName>"Supp4"</LocName>
+      <LocDesc>"Supp4"</LocDesc>
+      <AttachBone>AAPSupp</AttachBone>
+      <WeaponAttachBone>WAPSupp</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="CWeaponDamageModifier">
+        <DamageModifier value="1.000000"/>
+			</DamageModifier>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="-5"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="-5"/>
+      <MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+      <FlashFx>muz_pistol_silencer</FlashFx>
+    </Item>
+    <Item type="CWeaponComponentSuppressorInfo">
+      <Name>COMPONENT_MDR_SUPP_05</Name>
+      <Model>mdr_supp5</Model>
+      <LocName>"Supp5"</LocName>
+      <LocDesc>"Supp5"</LocDesc>
+      <AttachBone>AAPSupp</AttachBone>
+      <WeaponAttachBone>WAPSupp</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="CWeaponDamageModifier">
+        <DamageModifier value="1.000000"/>
+			</DamageModifier>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="-5"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="-5"/>
+      <MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+      <FlashFx>muz_pistol_silencer</FlashFx>
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_M4A1FM_BARREL_01</Name>
+      <Model>M4A1Barrel1_FluffysMods</Model>
+      <LocName>WCT_SUPP</LocName>
+      <LocDesc>WCD_AR_SUPP2</LocDesc>
+      <AttachBone>AAPSupp</AttachBone>
+      <WeaponAttachBone>WAPSupp</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="-5"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="-5"/>
+      <MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_M4A1FM_BARREL_02</Name>
+      <Model>M4A1Barrel2_FluffysMods</Model>
+      <LocName>WCT_SUPP</LocName>
+      <LocDesc>WCD_AR_SUPP2</LocDesc>
+      <AttachBone>AAPSupp</AttachBone>
+      <WeaponAttachBone>WAPSupp</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="-5"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="-5"/>
+      <MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+    </Item>
+    <Item type="CWeaponComponentSuppressorInfo">
+      <Name>COMPONENT_M4A1FM_BARREL_03</Name>
+      <Model>M4A1Barrel3_FluffysMods</Model>
+      <LocName>WCT_SUPP</LocName>
+      <LocDesc>WCD_AR_SUPP2</LocDesc>
+      <AttachBone>AAPSupp</AttachBone>
+      <WeaponAttachBone>WAPSupp</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="-5"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="-5"/>
+      <MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+      <FlashFx>muz_pistol_silencer</FlashFx>
+    </Item>
+    <Item type="CWeaponComponentSuppressorInfo">
+      <Name>COMPONENT_M4A1FM_BARREL_04</Name>
+      <Model>M4A1Barrel4_FluffysMods</Model>
+      <LocName>WCT_SUPP</LocName>
+      <LocDesc>WCD_AR_SUPP2</LocDesc>
+      <AttachBone>AAPSupp</AttachBone>
+      <WeaponAttachBone>WAPSupp</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="-5"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="-5"/>
+      <MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+      <FlashFx>muz_pistol_silencer</FlashFx>
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_M4A1FM_CLIP_01</Name>
+      <Model>M4A1CLIP1_FluffysMods</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_CR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <WeaponAttachBone>WAPClip</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="false"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="0"/>
+      <ClipSize value="30"/>
+      <AmmoInfo/>
+      <ReloadData ref="RELOAD_DEFAULT"/>
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_M4A1FM_CLIP_02</Name>
+      <Model>M4A1CLIP2_FluffysMods</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_CR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <WeaponAttachBone>WAPClip</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="false"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="0"/>
+      <ClipSize value="30"/>
+      <AmmoInfo/>
+      <ReloadData ref="RELOAD_DEFAULT"/>
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_M4A1FM_CLIP_03</Name>
+      <Model>M4A1CLIP3_FluffysMods</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_CR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <WeaponAttachBone>WAPClip</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="false"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="0"/>
+      <ClipSize value="60"/>
+      <AmmoInfo/>
+      <ReloadData ref="RELOAD_DEFAULT"/>
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_M4A1FM_CLIP_04</Name>
+      <Model>M4A1CLIP4_FluffysMods</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_CR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <WeaponAttachBone>WAPClip</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="false"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="0"/>
+      <ClipSize value="60"/>
+      <AmmoInfo/>
+      <ReloadData ref="RELOAD_DEFAULT"/>
+    </Item>
+    <Item type="CWeaponComponentFlashLightInfo">
+      <Name>COMPONENT_M4A1FM_FLSH_01</Name>
+      <Model>M4A1FLSH1_FluffysMods</Model>
+      <LocName>WCT_FLASH</LocName>
+      <LocDesc>WCD_FLASH</LocDesc>
+      <AttachBone>AAPFlsh</AttachBone>
+      <WeaponAttachBone>WAPFlshLasr</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="0"/>
+      <MainLightIntensity value="6.000000"/>
+      <MainLightColor value="0xFFC9C9FF"/>
+      <MainLightRange value="30.000000"/>
+      <MainLightFalloffExponent value="32.000000"/>
+      <MainLightInnerAngle value="0.000000"/>
+      <MainLightOuterAngle value="20.000000"/>
+      <MainLightCoronaIntensity value="3.000000"/>
+      <MainLightCoronaSize value="0.200000"/>
+      <MainLightVolumeIntensity value="0.300000"/>
+      <MainLightVolumeSize value="0.100000"/>
+      <MainLightVolumeExponent value="70.000000"/>
+      <MainLightVolumeOuterColor value="0xFF050E3B"/>
+      <MainLightShadowFadeDistance value="10.000000"/>
+      <MainLightSpecularFadeDistance value="10.000000"/>
+      <SecondaryLightIntensity value="4.000000"/>
+      <SecondaryLightColor value="0xFFFFFFFF"/>
+      <SecondaryLightRange value="6.000000"/>
+      <SecondaryLightFalloffExponent value="64.000000"/>
+      <SecondaryLightInnerAngle value="0.000000"/>
+      <SecondaryLightOuterAngle value="40.000000"/>
+      <SecondaryLightVolumeIntensity value="0.300000"/>
+      <SecondaryLightVolumeSize value="0.400000"/>
+      <SecondaryLightVolumeExponent value="24.000000"/>
+      <SecondaryLightVolumeOuterColor value="0xFF000F85"/>
+      <SecondaryLightFadeDistance value="10.000000"/>
+      <fTargetDistalongAimCamera value="8.000000"/>
+      <FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+      <FlashLightBoneBulbOn>Bulb_On</FlashLightBoneBulbOn>
+      <FlashLightBoneBulbOff>Bulb_Off</FlashLightBoneBulbOff>
+    </Item>
+    <Item type="CWeaponComponentFlashLightInfo">
+      <Name>COMPONENT_M4A1FM_FLSH_02</Name>
+      <Model>M4A1FLSH2_FluffysMods</Model>
+      <LocName>WCT_FLASH</LocName>
+      <LocDesc>WCD_FLASH</LocDesc>
+      <AttachBone>AAPFlsh</AttachBone>
+      <WeaponAttachBone>WAPFlshLasr</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="0"/>
+      <MainLightIntensity value="6.000000"/>
+      <MainLightColor value="0xFFC9C9FF"/>
+      <MainLightRange value="30.000000"/>
+      <MainLightFalloffExponent value="32.000000"/>
+      <MainLightInnerAngle value="0.000000"/>
+      <MainLightOuterAngle value="20.000000"/>
+      <MainLightCoronaIntensity value="3.000000"/>
+      <MainLightCoronaSize value="0.200000"/>
+      <MainLightVolumeIntensity value="0.300000"/>
+      <MainLightVolumeSize value="0.100000"/>
+      <MainLightVolumeExponent value="70.000000"/>
+      <MainLightVolumeOuterColor value="0xFF050E3B"/>
+      <MainLightShadowFadeDistance value="10.000000"/>
+      <MainLightSpecularFadeDistance value="10.000000"/>
+      <SecondaryLightIntensity value="4.000000"/>
+      <SecondaryLightColor value="0xFFFFFFFF"/>
+      <SecondaryLightRange value="6.000000"/>
+      <SecondaryLightFalloffExponent value="64.000000"/>
+      <SecondaryLightInnerAngle value="0.000000"/>
+      <SecondaryLightOuterAngle value="40.000000"/>
+      <SecondaryLightVolumeIntensity value="0.300000"/>
+      <SecondaryLightVolumeSize value="0.400000"/>
+      <SecondaryLightVolumeExponent value="24.000000"/>
+      <SecondaryLightVolumeOuterColor value="0xFF000F85"/>
+      <SecondaryLightFadeDistance value="10.000000"/>
+      <fTargetDistalongAimCamera value="8.000000"/>
+      <FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+      <FlashLightBoneBulbOn>Bulb_On</FlashLightBoneBulbOn>
+      <FlashLightBoneBulbOff>Bulb_Off</FlashLightBoneBulbOff>
+    </Item>
+    <Item type="CWeaponComponentFlashLightInfo">
+      <Name>COMPONENT_M4A1FM_FLSH_03</Name>
+      <Model>M4A1FLSH3_FluffysMods</Model>
+      <LocName>WCT_FLASH</LocName>
+      <LocDesc>WCD_FLASH</LocDesc>
+      <AttachBone>AAPFlsh</AttachBone>
+      <WeaponAttachBone>WAPFlshLasr</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="0"/>
+      <MainLightIntensity value="6.000000"/>
+      <MainLightColor value="0xFFC9C9FF"/>
+      <MainLightRange value="30.000000"/>
+      <MainLightFalloffExponent value="32.000000"/>
+      <MainLightInnerAngle value="0.000000"/>
+      <MainLightOuterAngle value="20.000000"/>
+      <MainLightCoronaIntensity value="3.000000"/>
+      <MainLightCoronaSize value="0.200000"/>
+      <MainLightVolumeIntensity value="0.300000"/>
+      <MainLightVolumeSize value="0.100000"/>
+      <MainLightVolumeExponent value="70.000000"/>
+      <MainLightVolumeOuterColor value="0xFF050E3B"/>
+      <MainLightShadowFadeDistance value="10.000000"/>
+      <MainLightSpecularFadeDistance value="10.000000"/>
+      <SecondaryLightIntensity value="4.000000"/>
+      <SecondaryLightColor value="0xFFFFFFFF"/>
+      <SecondaryLightRange value="6.000000"/>
+      <SecondaryLightFalloffExponent value="64.000000"/>
+      <SecondaryLightInnerAngle value="0.000000"/>
+      <SecondaryLightOuterAngle value="40.000000"/>
+      <SecondaryLightVolumeIntensity value="0.300000"/>
+      <SecondaryLightVolumeSize value="0.400000"/>
+      <SecondaryLightVolumeExponent value="24.000000"/>
+      <SecondaryLightVolumeOuterColor value="0xFF000F85"/>
+      <SecondaryLightFadeDistance value="10.000000"/>
+      <fTargetDistalongAimCamera value="8.000000"/>
+      <FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+      <FlashLightBoneBulbOn>Bulb_On</FlashLightBoneBulbOn>
+      <FlashLightBoneBulbOff>Bulb_Off</FlashLightBoneBulbOff>
+    </Item>
+    <Item type="CWeaponComponentFlashLightInfo">
+      <Name>COMPONENT_M4A1FM_FLSH_04</Name>
+      <Model>M4A1FLSH4_FluffysMods</Model>
+      <LocName>WCT_FLASH</LocName>
+      <LocDesc>WCD_FLASH</LocDesc>
+      <AttachBone>AAPFlsh</AttachBone>
+      <WeaponAttachBone>WAPFlshLasr</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="0"/>
+      <MainLightIntensity value="6.000000"/>
+      <MainLightColor value="0xFFC9C9FF"/>
+      <MainLightRange value="30.000000"/>
+      <MainLightFalloffExponent value="32.000000"/>
+      <MainLightInnerAngle value="0.000000"/>
+      <MainLightOuterAngle value="20.000000"/>
+      <MainLightCoronaIntensity value="3.000000"/>
+      <MainLightCoronaSize value="0.200000"/>
+      <MainLightVolumeIntensity value="0.300000"/>
+      <MainLightVolumeSize value="0.100000"/>
+      <MainLightVolumeExponent value="70.000000"/>
+      <MainLightVolumeOuterColor value="0xFF050E3B"/>
+      <MainLightShadowFadeDistance value="10.000000"/>
+      <MainLightSpecularFadeDistance value="10.000000"/>
+      <SecondaryLightIntensity value="4.000000"/>
+      <SecondaryLightColor value="0xFFFFFFFF"/>
+      <SecondaryLightRange value="6.000000"/>
+      <SecondaryLightFalloffExponent value="64.000000"/>
+      <SecondaryLightInnerAngle value="0.000000"/>
+      <SecondaryLightOuterAngle value="40.000000"/>
+      <SecondaryLightVolumeIntensity value="0.300000"/>
+      <SecondaryLightVolumeSize value="0.400000"/>
+      <SecondaryLightVolumeExponent value="24.000000"/>
+      <SecondaryLightVolumeOuterColor value="0xFF000F85"/>
+      <SecondaryLightFadeDistance value="10.000000"/>
+      <fTargetDistalongAimCamera value="8.000000"/>
+      <FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+      <FlashLightBoneBulbOn>Bulb_On</FlashLightBoneBulbOn>
+      <FlashLightBoneBulbOff>Bulb_Off</FlashLightBoneBulbOff>
+    </Item>
+    <Item type="CWeaponComponentFlashLightInfo">
+      <Name>COMPONENT_M4A1FM_FLSH_05</Name>
+      <Model>M4A1FLSH5_FluffysMods</Model>
+      <LocName>WCT_FLASH</LocName>
+      <LocDesc>WCD_FLASH</LocDesc>
+      <AttachBone>AAPFlsh</AttachBone>
+      <WeaponAttachBone>WAPFlshLasr</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="0"/>
+      <MainLightIntensity value="6.000000"/>
+      <MainLightColor value="0xFFC9C9FF"/>
+      <MainLightRange value="30.000000"/>
+      <MainLightFalloffExponent value="32.000000"/>
+      <MainLightInnerAngle value="0.000000"/>
+      <MainLightOuterAngle value="20.000000"/>
+      <MainLightCoronaIntensity value="3.000000"/>
+      <MainLightCoronaSize value="0.200000"/>
+      <MainLightVolumeIntensity value="0.300000"/>
+      <MainLightVolumeSize value="0.100000"/>
+      <MainLightVolumeExponent value="70.000000"/>
+      <MainLightVolumeOuterColor value="0xFF050E3B"/>
+      <MainLightShadowFadeDistance value="10.000000"/>
+      <MainLightSpecularFadeDistance value="10.000000"/>
+      <SecondaryLightIntensity value="4.000000"/>
+      <SecondaryLightColor value="0xFFFFFFFF"/>
+      <SecondaryLightRange value="6.000000"/>
+      <SecondaryLightFalloffExponent value="64.000000"/>
+      <SecondaryLightInnerAngle value="0.000000"/>
+      <SecondaryLightOuterAngle value="40.000000"/>
+      <SecondaryLightVolumeIntensity value="0.300000"/>
+      <SecondaryLightVolumeSize value="0.400000"/>
+      <SecondaryLightVolumeExponent value="24.000000"/>
+      <SecondaryLightVolumeOuterColor value="0xFF000F85"/>
+      <SecondaryLightFadeDistance value="10.000000"/>
+      <fTargetDistalongAimCamera value="8.000000"/>
+      <FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+      <FlashLightBoneBulbOn>Bulb_On</FlashLightBoneBulbOn>
+      <FlashLightBoneBulbOff>Bulb_Off</FlashLightBoneBulbOff>
+    </Item>
+    <Item type="CWeaponComponentFlashLightInfo">
+      <Name>COMPONENT_M4A1FM_FLSH_06</Name>
+      <Model>M4A1FLSH6_FluffysMods</Model>
+      <LocName>WCT_FLASH</LocName>
+      <LocDesc>WCD_FLASH</LocDesc>
+      <AttachBone>AAPFlsh</AttachBone>
+      <WeaponAttachBone>WAPFlshLasr</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="0"/>
+      <HudRange value="0"/>
+      <MainLightIntensity value="6.000000"/>
+      <MainLightColor value="0xFFC9C9FF"/>
+      <MainLightRange value="30.000000"/>
+      <MainLightFalloffExponent value="32.000000"/>
+      <MainLightInnerAngle value="0.000000"/>
+      <MainLightOuterAngle value="20.000000"/>
+      <MainLightCoronaIntensity value="3.000000"/>
+      <MainLightCoronaSize value="0.200000"/>
+      <MainLightVolumeIntensity value="0.300000"/>
+      <MainLightVolumeSize value="0.100000"/>
+      <MainLightVolumeExponent value="70.000000"/>
+      <MainLightVolumeOuterColor value="0xFF050E3B"/>
+      <MainLightShadowFadeDistance value="10.000000"/>
+      <MainLightSpecularFadeDistance value="10.000000"/>
+      <SecondaryLightIntensity value="4.000000"/>
+      <SecondaryLightColor value="0xFFFFFFFF"/>
+      <SecondaryLightRange value="6.000000"/>
+      <SecondaryLightFalloffExponent value="64.000000"/>
+      <SecondaryLightInnerAngle value="0.000000"/>
+      <SecondaryLightOuterAngle value="40.000000"/>
+      <SecondaryLightVolumeIntensity value="0.300000"/>
+      <SecondaryLightVolumeSize value="0.400000"/>
+      <SecondaryLightVolumeExponent value="24.000000"/>
+      <SecondaryLightVolumeOuterColor value="0xFF000F85"/>
+      <SecondaryLightFadeDistance value="10.000000"/>
+      <fTargetDistalongAimCamera value="8.000000"/>
+      <FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+      <FlashLightBoneBulbOn>Bulb_On</FlashLightBoneBulbOn>
+      <FlashLightBoneBulbOff>Bulb_Off</FlashLightBoneBulbOff>
+    </Item>
+    <Item type="CWeaponComponentScopeInfo">
+      <Name>COMPONENT_M4A1FM_SCOPE_01</Name>
+      <Model>M4A1SCOPE1_FluffysMods</Model>
+      <LocName>WCT_SCOPE_MAC</LocName>
+      <LocDesc>WCD_SCOPE_MAC</LocDesc>
+      <AttachBone>AAPScop</AttachBone>
+      <WeaponAttachBone>WAPScop</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="5"/>
+      <HudRange value="0"/>
+      <CameraHash/>
+      <RecoilShakeAmplitude value="0.280000"/>
+      <ExtraZoomFactorForAccurateMode value="1.200000"/>
+      <Reticule value="0"/>
+      <ReticuleHash/>
+    </Item>
+    <Item type="CWeaponComponentScopeInfo">
+      <Name>COMPONENT_M4A1FM_SCOPE_02</Name>
+      <Model>M4A1SCOPE2_FluffysMods</Model>
+      <LocName>WCT_SCOPE_MAC</LocName>
+      <LocDesc>WCD_SCOPE_MAC</LocDesc>
+      <AttachBone>AAPScop</AttachBone>
+      <WeaponAttachBone>WAPScop</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="5"/>
+      <HudRange value="0"/>
+      <CameraHash/>
+      <RecoilShakeAmplitude value="0.280000"/>
+      <ExtraZoomFactorForAccurateMode value="1.200000"/>
+      <Reticule value="0"/>
+      <ReticuleHash/>
+    </Item>
+    <Item type="CWeaponComponentScopeInfo">
+      <Name>COMPONENT_M4A1FM_SCOPE_03</Name>
+      <Model>M4A1SCOPE3_FluffysMods</Model>
+      <LocName>WCT_SCOPE_MAC</LocName>
+      <LocDesc>WCD_SCOPE_MAC</LocDesc>
+      <AttachBone>AAPScop</AttachBone>
+      <WeaponAttachBone>WAPScop</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="5"/>
+      <HudRange value="0"/>
+      <CameraHash/>
+      <RecoilShakeAmplitude value="0.280000"/>
+      <ExtraZoomFactorForAccurateMode value="1.200000"/>
+      <Reticule value="0"/>
+      <ReticuleHash/>
+    </Item>
+    <Item type="CWeaponComponentScopeInfo">
+      <Name>COMPONENT_M4A1FM_SCOPE_04</Name>
+      <Model>M4A1SCOPE4_FluffysMods</Model>
+      <LocName>WCT_SCOPE_MAC</LocName>
+      <LocDesc>WCD_SCOPE_MAC</LocDesc>
+      <AttachBone>AAPScop</AttachBone>
+      <WeaponAttachBone>WAPScop</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="5"/>
+      <HudRange value="0"/>
+      <CameraHash/>
+      <RecoilShakeAmplitude value="0.280000"/>
+      <ExtraZoomFactorForAccurateMode value="1.200000"/>
+      <Reticule value="0"/>
+      <ReticuleHash/>
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_MAC10_CLIP_01</Name>
+      <Model>w_sb_MAC10_mag1</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCDMSMG_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="16" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_MAC10_CLIP_02</Name>
+      <Model>w_sb_MAC10_mag2</Model>
+      <LocName>WCT_CLIP2</LocName>
+      <LocDesc>WCDMSMG_CLIP2</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="87" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="30" />
+      <ReloadData ref="RELOAD_LARGE" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_SPAS12_CLIP_01</Name>
+      <Model>w_sg_SPAS12_mag1</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_AS_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="8" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_SPAS12_CLIP_02</Name>
+      <Model>w_sg_SPAS12_mag2</Model>
+      <LocName>WCT_CLIP2</LocName>
+      <LocDesc>WCD_AS_CLIP2</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="300" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="32" />
+      <ReloadData ref="RELOAD_LARGE" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_MP5A5_CLIP_01</Name>
+      <Model>w_sb_MP5A5_mag1</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_SMG_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="30" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_MP5A5_CLIP_02</Name>
+      <Model>w_sb_MP5A5_mag2</Model>
+      <LocName>WCT_CLIP2</LocName>
+      <LocDesc>WCD_SMG_CLIP2</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="100" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="60" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_1911_CLIP_01</Name>
+      <Model>w_pi_1911_mag1</Model>
+      <LocName>WCT_INVALID</LocName>
+      <LocDesc>WCD_INVALID</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="12" />
+      <ReloadData ref="RELOAD_DEFAULT_WITH_EMPTIES" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_Engraved1911_CLIP_01</Name>
+      <Model>w_pi_Engraved1911_mag1</Model>
+      <LocName>WCT_INVALID</LocName>
+      <LocDesc>WCD_INVALID</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="12" />
+      <ReloadData ref="RELOAD_DEFAULT_WITH_EMPTIES" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_Saiga12_CLIP_01</Name>
+      <Model>w_sg_Saiga12_mag1</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_Saiga12_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="6" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_Saiga12_CLIP_02</Name>
+      <Model>w_sg_Saiga12_mag2</Model>
+      <LocName>WCT_CLIP2</LocName>
+      <LocDesc>WCD_Saiga12_CLIP2</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="300" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="12" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_BarrettM107CQ_CLIP_01</Name>
+      <Model>w_sr_BarrettM107CQ_mag1</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_HS_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="6" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_L85A2_CLIP_01</Name>
+      <Model>w_ar_L85A2_mag1</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_BRIF_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="30" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_L85A2_CLIP_02</Name>
+      <Model>w_ar_L85A2_mag2</Model>
+      <LocName>WCT_CLIP2</LocName>
+      <LocDesc>WCD_BRIF_CLIP2</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="100" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="60" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_AK74_CLIP_01</Name>
+      <Model>w_ar_AK74_mag1</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_AR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="30" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_AK74_CLIP_02</Name>
+      <Model>w_ar_AK74_mag2</Model>
+      <LocName>WCT_CLIP2</LocName>
+      <LocDesc>WCD_AR_CLIP2</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="100" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="60" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentSuppressorInfo">
+      <Name>COMPONENT_AT_MUZZLE_PRC</Name>
+      <Model>w_at_muzzle_prc</Model>
+      <LocName>WCT_MUZZ</LocName>
+      <LocDesc>WCD_MUZZ</LocDesc>
+      <AttachBone>AAPSupp</AttachBone>
+      <ApplyWeaponTint value="true" />
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="2" />
+      <HudRange value="0" />
+      <MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+      <FlashFX />
+      <ShouldSilence value="false" />
+      <RecoilShakeAmplitudeModifier value="0.500000" />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_AT_PRC_STOCK</Name>
+      <Model>w_at_prc_stock</Model>
+      <LocName>WCT_PRC_STOCK</LocName>
+      <LocDesc>WCD_STOCK</LocDesc>
+      <AttachBone>AAPStock</AttachBone>
+      <ApplyWeaponTint value="true" />
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <RecoilShakeAmplitudeModifier value="0.300000" />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_AT_PRC_STOCK_COLLAPSED</Name>
+      <Model>w_at_prc_stock_collapsed</Model>
+      <LocName>WCT_PRC_STOCK_CLP</LocName>
+      <LocDesc>WCD_STOCK</LocDesc>
+      <AttachBone>AAPStock</AttachBone>
+      <ApplyWeaponTint value="true" />
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <RecoilShakeAmplitudeModifier value="-0.300000" />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_AT_RAIL</Name>
+      <Model>w_at_prc_rail</Model>
+      <LocName>WCT_PRC_RAIL</LocName>
+      <LocDesc>WCD_AT_DR</LocDesc>
+      <AttachBone>AAPFlsh</AttachBone>
+      <ApplyWeaponTint value="false" />
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_M870_CLIP_01</Name>
+      <Model />
+      <LocName>WCT_INVALID</LocName>
+      <LocDesc>WCD_INVALID</LocDesc>
+      <AttachBone />
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="8" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_ACR_CLIP_01</Name>
+      <Model>w_ar_ACR_mag1</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="30" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+      <AmmoInfo />
+      <TracerFx />
+      <TracerFxSpacing value="-1" />
+      <TracerFxForceLast value="-1" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_ACR_CLIP_02</Name>
+      <Model>w_ar_ACR_mag2</Model>
+      <LocName>WCT_CLIP2</LocName>
+      <LocDesc>WCD_CLIP2</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="100" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="60" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+      <AmmoInfo />
+      <TracerFx />
+      <TracerFxSpacing value="-1" />
+      <TracerFxForceLast value="-1" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_ACR_CLIP_ap</Name>
+      <Model>w_ar_ACR_mag_ap</Model>
+      <LocName>WCT_CLIP3</LocName>
+      <LocDesc>WCD_CLIP3</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="100" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="30" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+      <AmmoInfo />
+      <TracerFx />
+      <TracerFxSpacing value="-1" />
+      <TracerFxForceLast value="-1" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_FN502_CLIP_01</Name>
+      <Model>w_pi_FN502_mag1</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_CP_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="12" />
+      <ReloadData ref="RELOAD_DEFAULT_WITH_EMPTIES" />
+    </Item>
+    <Item type="CWeaponComponentSuppressorInfo">
+      <Name>COMPONENT_AT_FN502_SUPP</Name>
+      <Model>w_at_FN502_supp</Model>
+      <LocName>WCT_SUPP</LocName>
+      <LocDesc>WCD_PI_SUPP</LocDesc>
+      <AttachBone>AAPSupp</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="CWeaponDamageModifier">
+        <DamageModifier value="1.000000" />
+      </DamageModifier>
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="-5" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="-5" />
+      <MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+      <FlashFx>muz_pistol_silencer</FlashFx>
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_AT_SC_BARREL_01</Name>
+      <Model>w_ar_sc_barrel_1</Model>
+      <LocName>WCT_BARR</LocName>
+      <LocDesc>WCD_BARR</LocDesc>
+      <AttachBone>AAPBarrel</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <ApplyWeaponTint value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_AT_SC_BARREL_02</Name>
+      <Model>w_ar_sc_barrel_2</Model>
+      <LocName>WCT_BARR2</LocName>
+      <LocDesc>WCD_BARR2</LocDesc>
+      <AttachBone>AAPBarrel</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <FallOffModifier type="CWeaponFallOffModifier">
+        <RangeModifier value="1.250000" />
+        <DamageModifier value="1.333333" />
+      </FallOffModifier>
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <ApplyWeaponTint value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="5" />
+    </Item>
+    <Item type="CWeaponComponentScopeInfo">
+      <Name>COMPONENT_PROTORIFLE_SIGHT_01</Name>
+      <Model>w_ar_protorifle_sight</Model>
+      <LocName>WCT_IRON_SIGHT</LocName>
+      <LocDesc>WCD_IRON_SIGHT</LocDesc>
+      <AttachBone>AAPScop</AttachBone>
+      <ApplyWeaponTint value="true" />
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <CameraHash />
+      <RecoilShakeAmplitude value="0.333000" />
+      <ExtraZoomFactorForAccurateMode value="0.000000" />
+      <Reticule value="0" />
+      <ReticuleHash />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_VIETNAM_CLIP_01</Name>
+      <Model>w_ar_vietnam_mag1</Model>
+      <LocName>WCT_CLIPVIET</LocName>
+      <LocDesc>WCD_CLIPVIET</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="20" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_VIETNAM_CLIP_02</Name>
+      <Model>w_ar_vietnam_mag2</Model>
+      <LocName>WCT_CLIPVIET2</LocName>
+      <LocDesc>WCD_CLIPVIET2</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="20" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_COMP_CLIP_01</Name>
+      <Model>w_ar_comp_mag1</Model>
+      <LocName>WCT_CLIPCOMP</LocName>
+      <LocDesc>WCD_CLIPCOMP</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="10" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_COMP_CLIP_02</Name>
+      <Model>w_ar_compmil_mag1</Model>
+      <LocName>WCT_CLIPCOMP2</LocName>
+      <LocDesc>WCD_CLIPCOMP2</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="10" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_MILITARY_CLIP_01</Name>
+      <Model>w_ar_military_mag1</Model>
+      <LocName>WCT_CLIP_MIL</LocName>
+      <LocDesc>WCD_CLIP_MIL</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="30" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_MILITARY_CLIP_02</Name>
+      <Model>w_ar_military_mag2</Model>
+      <LocName>WCT_CLIP_MIL2</LocName>
+      <LocDesc>WCD_CLIP_MIL2</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="40" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_OMEGA_CLIP_01</Name>
+      <Model>w_ar_omega_drum1</Model>
+      <LocName>WCT_CLIP_OMEGA</LocName>
+      <LocDesc>WCD_CLIP_OMEGA</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="100" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="100" />
+      <ReloadData ref="RELOAD_EXTRA_LARGE" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_SOVIET_CLIP_01</Name>
+      <Model>w_ar_assaultrifle_luxe_mag1</Model>
+      <LocName>WCT_CLIP_SOVVIE1</LocName>
+      <LocDesc>WCD_CLIP_SOVVIE1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="30" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="30" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_SOVIET_CLIP_02</Name>
+      <Model>w_ar_assaultrifle_luxe_mag2</Model>
+      <LocName>WCT_CLIP_SOVVIE2</LocName>
+      <LocDesc>WCD_CLIP_SOVVIE2</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="45" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="45" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentSuppressorInfo">
+      <Name>COMPONENT_AT_MUZZLE_CR</Name>
+      <Model>w_at_muzzle_cr</Model>
+      <LocName>WCT_MUZCR</LocName>
+      <LocDesc>WCD_MUZCR</LocDesc>
+      <AttachBone>AAPSupp</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+      <FlashFX />
+      <ShouldSilence value="false" />
+      <RecoilShakeAmplitudeModifier value="0.000000" />
+    </Item>
+    <Item type="CWeaponComponentSuppressorInfo">
+      <Name>COMPONENT_AT_MUZZLE_BRD</Name>
+      <Model>w_at_muzzle_brd</Model>
+      <LocName>WCT_MUZBRD</LocName>
+      <LocDesc>WCD_MUZBRD</LocDesc>
+      <AttachBone>AAPSupp</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+      <FlashFX />
+      <ShouldSilence value="false" />
+      <RecoilShakeAmplitudeModifier value="0.000000" />
+    </Item>
+    <Item type="CWeaponComponentSuppressorInfo">
+      <Name>COMPONENT_AT_MUZZLE_KM</Name>
+      <Model>w_at_muzzle_km</Model>
+      <LocName>WCT_MUZKM</LocName>
+      <LocDesc>WCD_MUZKM</LocDesc>
+      <AttachBone>AAPSupp</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="2" />
+      <HudRange value="0" />
+      <MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+      <FlashFX />
+      <ShouldSilence value="false" />
+      <RecoilShakeAmplitudeModifier value="0.300000" />
+    </Item>
+    <Item type="CWeaponComponentScopeInfo">
+      <Name>COMPONENT_IRON_SIGHT_01</Name>
+      <Model>w_at_iron_sight</Model>
+      <LocName>WCT_IRON_SIGHT</LocName>
+      <LocDesc>WCD_IRON_SIGHT</LocDesc>
+      <AttachBone>AAPScop</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <CameraHash />
+      <RecoilShakeAmplitude value="0.333000" />
+      <ExtraZoomFactorForAccurateMode value="0.000000" />
+      <Reticule value="0" />
+      <ReticuleHash />
+    </Item>
+    <Item type="CWeaponComponentScopeInfo">
+      <Name>COMPONENT_IRON_SIGHT_02</Name>
+      <Model>w_at_carbine_sight</Model>
+      <LocName>WCT_IRON_SIGHT</LocName>
+      <LocDesc>WCD_IRON_SIGHT</LocDesc>
+      <AttachBone>AAPScop</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <CameraHash />
+      <RecoilShakeAmplitude value="0.333000" />
+      <ExtraZoomFactorForAccurateMode value="0.000000" />
+      <Reticule value="0" />
+      <ReticuleHash />
+    </Item>
+    <Item type="CWeaponComponentScopeInfo">
+      <Name>COMPONENT_AT_SCOPE_SMALLR</Name>
+      <Model>w_at_scope_smallr</Model>
+      <LocName>WCT_SCOPE_SMLR</LocName>
+      <LocDesc>WCD_SCOPE_SMLR</LocDesc>
+      <AttachBone>AAPScop</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="5" />
+      <HudRange value="0" />
+      <CameraHash />
+      <RecoilShakeAmplitude value="0.280000" />
+      <ExtraZoomFactorForAccurateMode value="1.200000" />
+      <Reticule value="0" />
+      <ReticuleHash />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_AT_KALASH_STOCK_01</Name>
+      <Model>w_at_kalash_stock_01</Model>
+      <LocName>WCT_KS1</LocName>
+      <LocDesc>WCD_AT_KS1</LocDesc>
+      <AttachBone>AAPStock</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_AT_KALASH_STOCK_02</Name>
+      <Model>w_at_kalash_stock_02</Model>
+      <LocName>WCT_KS2</LocName>
+      <LocDesc>WCD_AT_KS2</LocDesc>
+      <AttachBone>AAPStock</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_AT_KALASH_STOCK_03</Name>
+      <Model>w_at_kalash_stock_03</Model>
+      <LocName>WCT_KS3</LocName>
+      <LocDesc>WCD_AT_KS3</LocDesc>
+      <AttachBone>AAPStock</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_AT_KALASH_STOCK_04</Name>
+      <Model>w_at_kalash_stock_04</Model>
+      <LocName>WCT_KS4</LocName>
+      <LocDesc>WCD_AT_KS4</LocDesc>
+      <AttachBone>AAPStock</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_AT_DOVERAIL</Name>
+      <Model>w_at_doverail</Model>
+      <LocName>WCT_DR</LocName>
+      <LocDesc>WCD_AT_DR</LocDesc>
+      <AttachBone>AAPFlsh</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_MP5SD_CLIP_01</Name>
+      <Model>W_SB_MP5SD_Mag1</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_PDW_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="30" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_MP5SD_CLIP_02</Name>
+      <Model>W_SB_MP5SD_Mag2</Model>
+      <LocName>WCT_CLIP2</LocName>
+      <LocDesc>WCD_PDW_CLIP2</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="100" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="60" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+    <Item type="CWeaponComponentScopeInfo">
+      <Name>COMPONENT_AT_SCOPE_THERMAL</Name>
+      <Model>w_at_scope_nv</Model>
+      <LocName>WCT_SCOPE_TH</LocName>
+      <LocDesc>WCD_SCOPE_TH</LocDesc>
+      <AttachBone>AAPScop</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="10" />
+      <HudRange value="0" />
+      <CameraHash>SNIPER_LOW_ZOOM_AIM_CAMERA</CameraHash>
+      <RecoilShakeAmplitude value="0.280000" />
+      <ExtraZoomFactorForAccurateMode value="0.000000" />
+      <ReticuleHash>SNIPER_LARGE</ReticuleHash>
+      <SpecialScopeType />
+    </Item>
+  </Infos>
+  <InfoBlobName>Weapon-Lore</InfoBlobName>
+</CWeaponComponentInfoBlob>

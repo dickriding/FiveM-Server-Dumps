@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dat151>
+ <Version value="6978435" />
+ <Items>
+  <Item type="Vehicle" ntOffset="359363">
+   <Name>pigeonp</Name>
+   <Unk00 value="0x90004A68" />
+   <Engine>pigeonp_engine</Engine>
+   <EngineGranular>pigeonp_granular_engine</EngineGranular>
+   <Horns>pigeonp_horn_list</Horns>
+   <DoorOpen>issi3_door_open</DoorOpen>
+   <DoorClose>issi3_door_close</DoorClose>
+   <TrunkOpen>hash_71BF0F14</TrunkOpen>
+   <TrunkClose>hash_B58A7E0A</TrunkClose>
+   <Unk08>null_sound</Unk08>
+   <Unk09 value="0.5" />
+   <SuspensionUp>hash_7CEDC837</SuspensionUp>
+   <SuspensionDown>hash_4AEF38F3</SuspensionDown>
+   <Unk12 value="0.4" />
+   <Unk13 value="1" />
+   <Unk14>hash_00C2FB47</Unk14>
+   <Unk15 value="0" />
+   <Unk16 value="0" />
+   <Unk17 value="0" />
+   <ScannerParams>pigeonp_scanner_params</ScannerParams>
+   <JumpLandIntact>hash_A5EB71C0</JumpLandIntact>
+   <JumpLandLoose>hash_1AF1FCAC</JumpLandLoose>
+   <Unk21 value="31" />
+   <Unk22 value="36" />
+   <RadioFlags value="0x10020002" />
+   <IndicatorOn>hash_D4314DE2</IndicatorOn>
+   <IndicatorOff>hash_A683DC21</IndicatorOff>
+   <Handbrake>hash_8263381C</Handbrake>
+   <Unk27 value="0x00030001" />
+   <Unk28>hash_674E1F4D</Unk28>
+   <Unk29 value="0x55FC0070" />
+   <Unk30>hash_795E90E6</Unk30>
+   <Unk31>hash_795E90E6</Unk31>
+   <Unk32>hash_2FF627AC</Unk32>
+   <StartupSequence>issi3_startup_sequence</StartupSequence>
+   <Unk34>null_sound</Unk34>
+   <Unk35>hash_F52E6D86</Unk35>
+   <Unk36>hash_F52E6D86</Unk36>
+   <Unk37 value="6" />
+   <Unk38 value="3" />
+   <Unk39>hash_E9B19CBC</Unk39>
+   <Unk40 value="0" />
+   <Sirens />
+   <Unk42 value="0" />
+   <Unk43 value="0" />
+   <Unk44 value="0" />
+   <Unk45>hash_0C3F6AD5</Unk45>
+   <Unk46>hash_359E05CB</Unk46>
+   <Unk47 />
+   <TurretSounds />
+   <Unk49 value="8" />
+   <Unk50 />
+   <Unk51 />
+   <Unk52 value="0" />
+   <ElectricEngine />
+   <Unk54 value="0.1" />
+   <ReverseWarning>null_sound</ReverseWarning>
+   <Unk56 value="3" />
+   <VehicleMaster>null_sound</VehicleMaster>
+   <ShutdownBeep>null_sound</ShutdownBeep>
+   <Unk59 value="1" />
+   <Unk60 value="0" />
+   <Unk61 value="1" />
+   <Unk62 value="0" />
+   <Unk63>hash_3E1710E0</Unk63>
+   <Unk64 value="0" />
+   <Unk65 value="0" />
+   <Unk66 value="0" />
+   <Unk67>hash_536F6CAC</Unk67>
+   <Unk68>hash_860D5015</Unk68>
+   <Unk69 />
+   <Unk70 value="0" />
+   <Unk71>null_sound</Unk71>
+   <Unk72>null_sound</Unk72>
+  </Item>
+  <Item type="Vehicle" ntOffset="359363">
+   <Name>lcpdpigeon</Name>
+   <Unk00 value="0x90004A68" />
+   <Engine>pigeonp_engine</Engine>
+   <EngineGranular>pigeonp_granular_engine</EngineGranular>
+   <Horns>pigeonp_horn_list</Horns>
+   <DoorOpen>issi3_door_open</DoorOpen>
+   <DoorClose>issi3_door_close</DoorClose>
+   <TrunkOpen>hash_71BF0F14</TrunkOpen>
+   <TrunkClose>hash_B58A7E0A</TrunkClose>
+   <Unk08>null_sound</Unk08>
+   <Unk09 value="0.5" />
+   <SuspensionUp>hash_7CEDC837</SuspensionUp>
+   <SuspensionDown>hash_4AEF38F3</SuspensionDown>
+   <Unk12 value="0.4" />
+   <Unk13 value="1" />
+   <Unk14>hash_00C2FB47</Unk14>
+   <Unk15 value="0" />
+   <Unk16 value="0" />
+   <Unk17 value="0" />
+   <ScannerParams>pigeonp_scanner_params</ScannerParams>
+   <JumpLandIntact>hash_A5EB71C0</JumpLandIntact>
+   <JumpLandLoose>hash_1AF1FCAC</JumpLandLoose>
+   <Unk21 value="31" />
+   <Unk22 value="36" />
+   <RadioFlags value="0x10020002" />
+   <IndicatorOn>hash_D4314DE2</IndicatorOn>
+   <IndicatorOff>hash_A683DC21</IndicatorOff>
+   <Handbrake>hash_8263381C</Handbrake>
+   <Unk27 value="0x00030001" />
+   <Unk28>hash_674E1F4D</Unk28>
+   <Unk29 value="0x55FC0070" />
+   <Unk30>hash_795E90E6</Unk30>
+   <Unk31>hash_795E90E6</Unk31>
+   <Unk32>hash_2FF627AC</Unk32>
+   <StartupSequence>issi3_startup_sequence</StartupSequence>
+   <Unk34>null_sound</Unk34>
+   <Unk35>hash_F52E6D86</Unk35>
+   <Unk36>hash_F52E6D86</Unk36>
+   <Unk37 value="6" />
+   <Unk38 value="3" />
+   <Unk39>hash_E9B19CBC</Unk39>
+   <Unk40 value="0" />
+   <Sirens />
+   <Unk42 value="0" />
+   <Unk43 value="0" />
+   <Unk44 value="0" />
+   <Unk45>hash_0C3F6AD5</Unk45>
+   <Unk46>hash_359E05CB</Unk46>
+   <Unk47 />
+   <TurretSounds />
+   <Unk49 value="8" />
+   <Unk50 />
+   <Unk51 />
+   <Unk52 value="0" />
+   <ElectricEngine />
+   <Unk54 value="0.1" />
+   <ReverseWarning>null_sound</ReverseWarning>
+   <Unk56 value="3" />
+   <VehicleMaster>null_sound</VehicleMaster>
+   <ShutdownBeep>null_sound</ShutdownBeep>
+   <Unk59 value="1" />
+   <Unk60 value="0" />
+   <Unk61 value="1" />
+   <Unk62 value="0" />
+   <Unk63>hash_3E1710E0</Unk63>
+   <Unk64 value="0" />
+   <Unk65 value="0" />
+   <Unk66 value="0" />
+   <Unk67>hash_536F6CAC</Unk67>
+   <Unk68>hash_860D5015</Unk68>
+   <Unk69 />
+   <Unk70 value="0" />
+   <Unk71>null_sound</Unk71>
+   <Unk72>null_sound</Unk72>
+  </Item>
+  <Item type="VehicleEngine" ntOffset="369656">
+   <Name>pigeonp_engine</Name>
+   <Unk00 value="900" />
+   <Unk01 value="-400" />
+   <Unk02 value="600" />
+   <Unk03 value="600" />
+   <EngineLow>hash_0BB5AEE7</EngineLow>
+   <EngineHigh>hash_9A1918A2</EngineHigh>
+   <ExhaustLow>hash_1EA4815E</ExhaustLow>
+   <ExhaustHigh>hash_2E59B3D0</ExhaustHigh>
+   <RevsOff>hash_833D0528</RevsOff>
+   <Unk09 value="-800" />
+   <Unk10 value="600" />
+   <EngineIdleLoop>hash_BC9E7949</EngineIdleLoop>
+   <ExhaustIdleLoop>hash_A3A5EBFE</ExhaustIdleLoop>
+   <Unk13 value="0" />
+   <Unk14 value="400" />
+   <AirIntake />
+   <Unk16 value="0" />
+   <Unk17 value="0" />
+   <Turbo>null_sound</Turbo>
+   <Unk19 value="-600" />
+   <Unk20 value="600" />
+   <DumpValve>null_sound</DumpValve>
+   <Unk22 value="0" />
+   <Unk23 value="50" />
+   <Transmission>hash_699D9F91</Transmission>
+   <Unk25 value="400" />
+   <Unk26 value="1800" />
+   <Unk27 value="1000" />
+   <Ignition>hash_26DE38C2</Ignition>
+   <ShutDown>hash_D8A053DA</ShutDown>
+   <Unk30>null_sound</Unk30>
+   <ExhaustPops>null_sound</ExhaustPops>
+   <Unk32>hash_0330B704</Unk32>
+   <Unk33 value="0" />
+   <FansVolume value="-1000" />
+   <StartupMaster>hash_0C049DC1</StartupMaster>
+   <Unk36 />
+   <Unk37 />
+   <Unk38 />
+   <Unk39 />
+   <Unk40>hash_490413A6</Unk40>
+   <Unk41>hash_58337F32</Unk41>
+   <Unk42 value="0" />
+   <Unk43>null_sound</Unk43>
+   <Unk44>null_sound</Unk44>
+   <Unk45 value="0" />
+   <Unk46 value="0" />
+   <Unk47 value="0" />
+   <Unk48 value="0" />
+   <Unk49 value="0" />
+   <Unk50 value="0" />
+   <DumpValveUpgraded>null_sound</DumpValveUpgraded>
+   <Unk52 value="0" />
+   <TransmissionUpgraded>null_sound</TransmissionUpgraded>
+   <TurboUpgraded>null_sound</TurboUpgraded>
+   <AirIntakeUpgraded>null_sound</AirIntakeUpgraded>
+   <ExhaustPopsUpgraded>null_sound</ExhaustPopsUpgraded>
+  </Item>
+  <Item type="VehicleEngineGranular" ntOffset="1301">
+   <Name>pigeonp_granular_engine</Name>
+   <Unk00 value="0xAAAAA954" />
+   <MasterVolume value="-100" />
+   <EngineAccel>michelli_engine_accel</EngineAccel>
+   <ExhaustAccel>michelli_exhaust_accel</ExhaustAccel>
+   <Unk04 value="0" />
+   <Unk05 value="0" />
+   <Unk06 value="0" />
+   <Unk07 value="0" />
+   <Unk08 value="0" />
+   <Unk09 value="0" />
+   <Unk10 value="0" />
+   <Unk11 value="0" />
+   <Unk12 value="0" />
+   <Unk13 value="100" />
+   <Unk14 value="500" />
+   <Unk15 value="0" />
+   <Unk16 value="-300" />
+   <Unk17 value="200" />
+   <Unk18 value="0" />
+   <Unk19 value="200" />
+   <Unk20 value="300" />
+   <Unk21 value="40" />
+   <Unk22 value="0.1" />
+   <Unk23 value="0.2" />
+   <Unk24 value="0.2" />
+   <Unk25 value="0.15" />
+   <Unk26 value="0.2" />
+   <Unk27 value="0" />
+   <Unk28 value="0.2" />
+   <Unk29 value="0" />
+   <Unk30 value="0" />
+   <EngineSubmix>michelli_engine_submix_md</EngineSubmix>
+   <EngineSubmixPreset>michelli_engine_submix_preset_md</EngineSubmixPreset>
+   <ExhaustSubmix>michelli_exhaust_transients_and_eq_fixed_crackle</ExhaustSubmix>
+   <ExhaustSubmixPreset>michelli_exhaust_transients_and_eq_preset</ExhaustSubmixPreset>
+   <EngineAccelNPC>michelli_engine_accel_npc</EngineAccelNPC>
+   <ExhaustAccelNPC>michelli_exhaust_accel</ExhaustAccelNPC>
+   <Unk37 />
+   <Unk38 value="0" />
+   <Unk39 value="0" />
+   <Unk40>hash_490413A6</Unk40>
+   <Unk41>hash_58337F32</Unk41>
+   <Unk42 value="600" />
+   <Unk43 value="4" />
+   <Unk44 value="2" />
+   <IdleSub>michelli_synth_veh_idle_sub</IdleSub>
+   <Unk46 value="0" />
+   <Unk47 value="0" />
+   <Unk48 value="0" />
+   <Unk49 value="0" />
+   <Unk50 value="0" />
+   <Unk51 value="0" />
+   <Unk52>hash_B3BAE87C</Unk52>
+   <Unk53 />
+   <Unk54 value="500" />
+   <Unk55 value="700" />
+   <Unk56 value="500" />
+   <Unk57 value="500" />
+   <Unk58 value="1" />
+   <Unk59 value="0.2" />
+  </Item>
+  <Item type="VehicleScannerParams" ntOffset="271862">
+   <Name>pigeonp_scanner_params</Name>
+   <Flags value="0xAAAAAAA8" />
+   <Params>
+    <Item>
+     <Unk01>hash_B2E416A4</Unk01>
+     <Unk02>hash_9D156968</Unk02>
+     <Unk03>hash_F003680B</Unk03>
+     <Unk04>null_sound</Unk04>
+    </Item>
+   </Params>
+  </Item>
+ </Items>
+</Dat151>

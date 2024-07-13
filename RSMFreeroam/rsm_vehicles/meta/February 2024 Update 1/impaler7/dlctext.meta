@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Otto's Autos Single Player DLC content.xml -->
+<!-- Otto's Autos dealership appears in Grand Theft Auto: San Andreas. -->
+<CExtraTextMetaFile>
+	<hasGlobalTextFile value="true"/>
+	<hasAdditionalText value="false"/>
+	<isTitleUpdate value="false"/>
+</CExtraTextMetaFile>

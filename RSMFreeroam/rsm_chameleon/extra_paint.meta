@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelColorsGen9>
+    <Colors>
+        <Item>
+            <color value="0xFFFFFFFF" />
+            <metallicID>EVehicleModelColorMetallic_1</metallicID>
+            <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+            <audioPrefix>none</audioPrefix>
+            <audioColorHash value="3850041493" />
+            <audioPrefixHash value="0" />
+            <colorName> 177 Special 1 </colorName>
+            <rampTextureName>vpr_cust1</rampTextureName>
+        </Item>
+        <Item>
+            <color value="0xFFFFFFFF" />
+            <metallicID>EVehicleModelColorMetallic_1</metallicID>
+            <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+            <audioPrefix>none</audioPrefix>
+            <audioColorHash value="3850041493" />
+            <audioPrefixHash value="0" />
+            <colorName> 178 Special 2 </colorName>
+            <rampTextureName>vpr_cust2</rampTextureName>
+        </Item>
+        <Item>
+            <color value="0xFFFFFFFF" />
+            <metallicID>EVehicleModelColorMetallic_1</metallicID>
+            <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+            <audioPrefix>none</audioPrefix>
+            <audioColorHash value="3850041493" />
+            <audioPrefixHash value="0" />
+            <colorName> 179 Special 3 </colorName>
+            <rampTextureName>vpr_cust3</rampTextureName>
+        </Item>
+        <Item>
+            <color value="0xFFFFFFFF" />
+            <metallicID>EVehicleModelColorMetallic_1</metallicID>
+            <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+            <audioPrefix>none</audioPrefix>
+            <audioColorHash value="3850041493" />
+            <audioPrefixHash value="0" />
+            <colorName> 180 Special 4 </colorName>
+            <rampTextureName>vpr_cust4</rampTextureName>
+        </Item>
+        <Item>
+            <color value="0xFFFFFFFF" />
+            <metallicID>EVehicleModelColorMetallic_1</metallicID>
+            <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+            <audioPrefix>none</audioPrefix>
+            <audioColorHash value="3850041493" />
+            <audioPrefixHash value="0" />
+            <colorName> 181 Special 5 </colorName>
+            <rampTextureName>vpr_cust5</rampTextureName>
+        </Item>
+        <Item>
+            <color value="0xFFFFFFFF" />
+            <metallicID>EVehicleModelColorMetallic_1</metallicID>
+            <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+            <audioPrefix>none</audioPrefix>
+            <audioColorHash value="3850041493" />
+            <audioPrefixHash value="0" />
+            <colorName> 182 Special 6 </colorName>
+            <rampTextureName>vpr_cust6</rampTextureName>
+        </Item>
+        <Item>
+            <color value="0xFFFFFFFF" />
+            <metallicID>EVehicleModelColorMetallic_1</metallicID>
+            <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+            <audioPrefix>none</audioPrefix>
+            <audioColorHash value="3850041493" />
+            <audioPrefixHash value="0" />
+            <colorName> 183 Special 7 </colorName>
+            <rampTextureName>vpr_cust7</rampTextureName>
+        </Item>
+        <Item>
+            <color value="0xFFFFFFFF" />
+            <metallicID>EVehicleModelColorMetallic_1</metallicID>
+            <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+            <audioPrefix>none</audioPrefix>
+            <audioColorHash value="3850041493" />
+            <audioPrefixHash value="0" />
+            <colorName> 184 Special 8 </colorName>
+            <rampTextureName>vpr_cust8</rampTextureName>
+        </Item>
+        <Item>
+            <color value="0xFFFFFFFF" />
+            <metallicID>EVehicleModelColorMetallic_1</metallicID>
+            <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+            <audioPrefix>none</audioPrefix>
+            <audioColorHash value="3850041493" />
+            <audioPrefixHash value="0" />
+            <colorName> 185 Special 9 </colorName>
+            <rampTextureName>vpr_cust9</rampTextureName>
+        </Item>
+        <Item>
+            <color value="0xFFFFFFFF" />
+            <metallicID>EVehicleModelColorMetallic_1</metallicID>
+            <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+            <audioPrefix>none</audioPrefix>
+            <audioColorHash value="3850041493" />
+            <audioPrefixHash value="0" />
+            <colorName> 186 Special 10 </colorName>
+            <rampTextureName>vpr_cust10</rampTextureName>
+        </Item>
+        <Item>
+            <color value="0xFFFFFFFF" />
+            <metallicID>EVehicleModelColorMetallic_1</metallicID>
+            <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+            <audioPrefix>none</audioPrefix>
+            <audioColorHash value="3850041493" />
+            <audioPrefixHash value="0" />
+            <colorName> 187 Special 11 </colorName>
+            <rampTextureName>vpr_cust11</rampTextureName>
+        </Item>
+        <Item>
+            <color value="0xFFFFFFFF" />
+            <metallicID>EVehicleModelColorMetallic_1</metallicID>
+            <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+            <audioPrefix>none</audioPrefix>
+            <audioColorHash value="3850041493" />
+            <audioPrefixHash value="0" />
+            <colorName> 188 Special 12 </colorName>
+            <rampTextureName>vpr_cust12</rampTextureName>
+        </Item>
+        <Item>
+            <color value="0xFFFFFFFF" />
+            <metallicID>EVehicleModelColorMetallic_1</metallicID>
+            <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+            <audioPrefix>none</audioPrefix>
+            <audioColorHash value="3850041493" />
+            <audioPrefixHash value="0" />
+            <colorName> 189 Special 13 </colorName>
+            <rampTextureName>vpr_cust13</rampTextureName>
+        </Item>
+        <Item>
+            <color value="0xFFFFFFFF" />
+            <metallicID>EVehicleModelColorMetallic_1</metallicID>
+            <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+            <audioPrefix>none</audioPrefix>
+            <audioColorHash value="3850041493" />
+            <audioPrefixHash value="0" />
+            <colorName> 190 Special 14 </colorName>
+            <rampTextureName>vpr_cust14</rampTextureName>
+        </Item>
+        <Item>
+            <color value="0xFFFFFFFF" />
+            <metallicID>EVehicleModelColorMetallic_1</metallicID>
+            <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+            <audioPrefix>none</audioPrefix>
+            <audioColorHash value="3850041493" />
+            <audioPrefixHash value="0" />
+            <colorName> 191 Special 15 </colorName>
+            <rampTextureName>vpr_cust15</rampTextureName>
+        </Item>
+        <Item>
+            <color value="0xFFFFFFFF" />
+            <metallicID>EVehicleModelColorMetallic_1</metallicID>
+            <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+            <audioPrefix>none</audioPrefix>
+            <audioColorHash value="3850041493" />
+            <audioPrefixHash value="0" />
+            <colorName> 192 Special 16 </colorName>
+            <rampTextureName>vpr_cust16</rampTextureName>
+        </Item>
+        <Item>
+            <color value="0xFFFFFFFF" />
+            <metallicID>EVehicleModelColorMetallic_1</metallicID>
+            <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+            <audioPrefix>none</audioPrefix>
+            <audioColorHash value="3850041493" />
+            <audioPrefixHash value="0" />
+            <colorName> 193 Special 17 </colorName>
+            <rampTextureName>vpr_cust17</rampTextureName>
+        </Item>
+        <Item>
+            <color value="0xFFFFFFFF" />
+            <metallicID>EVehicleModelColorMetallic_1</metallicID>
+            <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+            <audioPrefix>none</audioPrefix>
+            <audioColorHash value="3850041493" />
+            <audioPrefixHash value="0" />
+            <colorName> 194 Special 18 </colorName>
+            <rampTextureName>vpr_cust18</rampTextureName>
+        </Item>
+        <Item>
+            <color value="0xFFFFFFFF" />
+            <metallicID>EVehicleModelColorMetallic_1</metallicID>
+            <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+            <audioPrefix>none</audioPrefix>
+            <audioColorHash value="3850041493" />
+            <audioPrefixHash value="0" />
+            <colorName> 195 Special 19 </colorName>
+            <rampTextureName>vpr_cust19</rampTextureName>
+        </Item>
+        <Item>
+            <color value="0xFFFFFFFF" />
+            <metallicID>EVehicleModelColorMetallic_1</metallicID>
+            <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+            <audioPrefix>none</audioPrefix>
+            <audioColorHash value="3850041493" />
+            <audioPrefixHash value="0" />
+            <colorName> 196 Special 20 </colorName>
+            <rampTextureName>vpr_cust20</rampTextureName>
+        </Item>
+        <Item>
+            <color value="0xFFFFFFFF" />
+            <metallicID>EVehicleModelColorMetallic_1</metallicID>
+            <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+            <audioPrefix>none</audioPrefix>
+            <audioColorHash value="3850041493" />
+            <audioPrefixHash value="0" />
+            <colorName> 197 Special 21 </colorName>
+            <rampTextureName>vpr_cust21</rampTextureName>
+        </Item>
+        <Item>
+            <color value="0xFFFFFFFF" />
+            <metallicID>EVehicleModelColorMetallic_1</metallicID>
+            <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+            <audioPrefix>none</audioPrefix>
+            <audioColorHash value="3850041493" />
+            <audioPrefixHash value="0" />
+            <colorName> 198 Special 22 </colorName>
+            <rampTextureName>vpr_cust22</rampTextureName>
+        </Item>
+        <Item>
+            <color value="0xFFFFFFFF" />
+            <metallicID>EVehicleModelColorMetallic_1</metallicID>
+            <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+            <audioPrefix>none</audioPrefix>
+            <audioColorHash value="3850041493" />
+            <audioPrefixHash value="0" />
+            <colorName> 199 Special 23 </colorName>
+            <rampTextureName>vpr_cust23</rampTextureName>
+        </Item>
+        <Item>
+            <color value="0xFFFFFFFF" />
+            <metallicID>EVehicleModelColorMetallic_1</metallicID>
+            <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+            <audioPrefix>none</audioPrefix>
+            <audioColorHash value="3850041493" />
+            <audioPrefixHash value="0" />
+            <colorName> 200 Special 24 </colorName>
+            <rampTextureName>vpr_cust24</rampTextureName>
+        </Item>
+        <Item>
+            <color value="0xFFFFFFFF" />
+            <metallicID>EVehicleModelColorMetallic_1</metallicID>
+            <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+            <audioPrefix>none</audioPrefix>
+            <audioColorHash value="3850041493" />
+            <audioPrefixHash value="0" />
+            <colorName> 201 Special 25 </colorName>
+            <rampTextureName>vpr_cust25</rampTextureName>
+        </Item>
+    </Colors>
+</CVehicleModelColorsGen9>

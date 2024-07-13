@@ -1,0 +1,1387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal>
+  <Wheels>
+    <Item/>
+    <!-- VWT_SPORT -->
+    <Item>
+      <!-- VWT_MUSCLE -->
+      <Item>
+        <wheelName>wheelydrop5splg</wheelName>
+        <wheelVariation>wheelydrop5splgw</wheelVariation>
+        <modShopLabel>wheelydrop5splg</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5splga</wheelName>
+        <wheelVariation>wheelydrop5splgaw</wheelVariation>
+        <modShopLabel>wheelydrop5splga</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropturb</wheelName>
+        <wheelVariation>wheelydropturbw</wheelVariation>
+        <modShopLabel>wheelydropturb</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropturba</wheelName>
+        <wheelVariation>wheelydropturbaw</wheelVariation>
+        <modShopLabel>wheelydropturba</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbs2</wheelName>
+        <wheelVariation>wheelydropbs2w</wheelVariation>
+        <modShopLabel>wheelydropbs2</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbs2a</wheelName>
+        <wheelVariation>wheelydropbs2aw</wheelVariation>
+        <modShopLabel>wheelydropbs2a</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropclas</wheelName>
+        <wheelVariation>wheelydropclasw</wheelVariation>
+        <modShopLabel>wheelydropclas</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropclasa</wheelName>
+        <wheelVariation>wheelydropclasaw</wheelVariation>
+        <modShopLabel>wheelydropclasa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbn3</wheelName>
+        <wheelVariation>wheelydropbn3w</wheelVariation>
+        <modShopLabel>wheelydropbn3</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbn3a</wheelName>
+        <wheelVariation>wheelydropbn3aw</wheelVariation>
+        <modShopLabel>wheelydropbn3a</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroplx</wheelName>
+        <wheelVariation>wheelydroplxw</wheelVariation>
+        <modShopLabel>wheelydroplx</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroplxa</wheelName>
+        <wheelVariation>wheelydroplxaw</wheelVariation>
+        <modShopLabel>wheelydroplxa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbsco</wheelName>
+        <wheelVariation>wheelydropbscow</wheelVariation>
+        <modShopLabel>wheelydropbsco</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbscoa</wheelName>
+        <wheelVariation>wheelydropbscoaw</wheelVariation>
+        <modShopLabel>wheelydropbscoa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropnebu</wheelName>
+        <wheelVariation>wheelydropnebuw</wheelVariation>
+        <modShopLabel>wheelydropnebu</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropnebua</wheelName>
+        <wheelVariation>wheelydropnebuaw</wheelVariation>
+        <modShopLabel>wheelydropnebua</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropfmj</wheelName>
+        <wheelVariation>wheelydropfmjw</wheelVariation>
+        <modShopLabel>wheelydropfmj</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropfmja</wheelName>
+        <wheelVariation>wheelydropfmjaw</wheelVariation>
+        <modShopLabel>wheelydropfmja</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropcoout</wheelName>
+        <wheelVariation>wheelydropcooutw</wheelVariation>
+        <modShopLabel>wheelydropcoout</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropcoouta</wheelName>
+        <wheelVariation>wheelydropcooutaw</wheelVariation>
+        <modShopLabel>wheelydropcoouta</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropco</wheelName>
+        <wheelVariation>wheelydropcow</wheelVariation>
+        <modShopLabel>wheelydropco</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropcoa</wheelName>
+        <wheelVariation>wheelydropcoaw</wheelVariation>
+        <modShopLabel>wheelydropcoa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropco2</wheelName>
+        <wheelVariation>wheelydropco2w</wheelVariation>
+        <modShopLabel>wheelydropco2</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropco2a</wheelName>
+        <wheelVariation>wheelydropco2aw</wheelVariation>
+        <modShopLabel>wheelydropco2a</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropco2deep</wheelName>
+        <wheelVariation>wheelydropco2deepw</wheelVariation>
+        <modShopLabel>wheelydropco2deep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropco2deepa</wheelName>
+        <wheelVariation>wheelydropco2deepaw</wheelVariation>
+        <modShopLabel>wheelydropco2deepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroptru</wheelName>
+        <wheelVariation>wheelydroptruw</wheelVariation>
+        <modShopLabel>wheelydroptru</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroptrua</wheelName>
+        <wheelVariation>wheelydroptruaw</wheelVariation>
+        <modShopLabel>wheelydroptrua</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroptru2</wheelName>
+        <wheelVariation>wheelydroptru2w</wheelVariation>
+        <modShopLabel>wheelydroptru2</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroptru2a</wheelName>
+        <wheelVariation>wheelydroptru2aw</wheelVariation>
+        <modShopLabel>wheelydroptru2a</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropolduber</wheelName>
+        <wheelVariation>wheelydropolduberw</wheelVariation>
+        <modShopLabel>wheelydropolduber</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropoldubera</wheelName>
+        <wheelVariation>wheelydropolduberaw</wheelVariation>
+        <modShopLabel>wheelydropoldubera</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropmusc</wheelName>
+        <wheelVariation>wheelydropmuscw</wheelVariation>
+        <modShopLabel>wheelydropmusc</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropmusca</wheelName>
+        <wheelVariation>wheelydropmuscaw</wheelVariation>
+        <modShopLabel>wheelydropmusca</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropfatstar</wheelName>
+        <wheelVariation>wheelydropfatstarw</wheelVariation>
+        <modShopLabel>wheelydropfatstar</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropfatstara</wheelName>
+        <wheelVariation>wheelydropfatstaraw</wheelVariation>
+        <modShopLabel>wheelydropfatstara</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropth</wheelName>
+        <wheelVariation>wheelydropthw</wheelVariation>
+        <modShopLabel>wheelydropth</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroptha</wheelName>
+        <wheelVariation>wheelydropthaw</wheelVariation>
+        <modShopLabel>wheelydroptha</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroprot1</wheelName>
+        <wheelVariation>wheelydroprot1w</wheelVariation>
+        <modShopLabel>wheelydroprot1</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroprot1a</wheelName>
+        <wheelVariation>wheelydroprot1aw</wheelVariation>
+        <modShopLabel>wheelydroprot1a</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+    </Item>
+    <Item>
+      <!-- VWT_LOWRIDER -->
+      <Item>
+        <wheelName>wheelydropcosbo</wheelName>
+        <wheelVariation>wheelydropcosbow</wheelVariation>
+        <modShopLabel>wheelydropcosbo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropcosboa</wheelName>
+        <wheelVariation>wheelydropcosboaw</wheelVariation>
+        <modShopLabel>wheelydropcosboa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropcosbob</wheelName>
+        <wheelVariation>wheelydropcosbobw</wheelVariation>
+        <modShopLabel>wheelydropcosbob</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5splgbo</wheelName>
+        <wheelVariation>wheelydrop5splgbow</wheelVariation>
+        <modShopLabel>wheelydrop5splgbo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5splgboa</wheelName>
+        <wheelVariation>wheelydrop5splgboaw</wheelVariation>
+        <modShopLabel>wheelydrop5splgboa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5splgbob</wheelName>
+        <wheelVariation>wheelydrop5splgbobw</wheelVariation>
+        <modShopLabel>wheelydrop5splgbob</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropstarthbo</wheelName>
+        <wheelVariation>wheelydropstarthbow</wheelVariation>
+        <modShopLabel>wheelydropstarthbo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropstarthboa</wheelName>
+        <wheelVariation>wheelydropstarthboaw</wheelVariation>
+        <modShopLabel>wheelydropstarthboa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropstarthbob</wheelName>
+        <wheelVariation>wheelydropstarthbobw</wheelVariation>
+        <modShopLabel>wheelydropstarthbob</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroptorbo</wheelName>
+        <wheelVariation>wheelydroptorbow</wheelVariation>
+        <modShopLabel>wheelydroptorbo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroptorboa</wheelName>
+        <wheelVariation>wheelydroptorboaw</wheelVariation>
+        <modShopLabel>wheelydroptorboa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroptorbob</wheelName>
+        <wheelVariation>wheelydroptorbobw</wheelVariation>
+        <modShopLabel>wheelydroptorbob</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropinfbo</wheelName>
+        <wheelVariation>wheelydropinfbow</wheelVariation>
+        <modShopLabel>wheelydropinfbo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropinfboa</wheelName>
+        <wheelVariation>wheelydropinfboaw</wheelVariation>
+        <modShopLabel>wheelydropinfboa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropinfbob</wheelName>
+        <wheelVariation>wheelydropinfbobw</wheelVariation>
+        <modShopLabel>wheelydropinfbob</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5spcubo</wheelName>
+        <wheelVariation>wheelydrop5spcubow</wheelVariation>
+        <modShopLabel>wheelydrop5spcubo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5spcuboa</wheelName>
+        <wheelVariation>wheelydrop5spcuboaw</wheelVariation>
+        <modShopLabel>wheelydrop5spcuboa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5spcubob</wheelName>
+        <wheelVariation>wheelydrop5spcubobw</wheelVariation>
+        <modShopLabel>wheelydrop5spcubob</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5spcubo2</wheelName>
+        <wheelVariation>wheelydrop5spcubo2w</wheelVariation>
+        <modShopLabel>wheelydrop5spcubo2</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5spcubo2a</wheelName>
+        <wheelVariation>wheelydrop5spcubo2aw</wheelVariation>
+        <modShopLabel>wheelydrop5spcubo2a</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5spcubo2b</wheelName>
+        <wheelVariation>wheelydrop5spcubo2bw</wheelVariation>
+        <modShopLabel>wheelydrop5spcubo2b</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5spbo</wheelName>
+        <wheelVariation>wheelydrop5spbow</wheelVariation>
+        <modShopLabel>wheelydrop5spbo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5spboa</wheelName>
+        <wheelVariation>wheelydrop5spboaw</wheelVariation>
+        <modShopLabel>wheelydrop5spboa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5spbob</wheelName>
+        <wheelVariation>wheelydrop5spbobw</wheelVariation>
+        <modShopLabel>wheelydrop5spbob</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5spbo2</wheelName>
+        <wheelVariation>wheelydrop5spbo2w</wheelVariation>
+        <modShopLabel>wheelydrop5spbo2</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5spbo2a</wheelName>
+        <wheelVariation>wheelydrop5spbo2aw</wheelVariation>
+        <modShopLabel>wheelydrop5spbo2a</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5spbo2b</wheelName>
+        <wheelVariation>wheelydrop5spbo2bw</wheelVariation>
+        <modShopLabel>wheelydrop5spbo2b</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbsoldbo</wheelName>
+        <wheelVariation>wheelydropbsoldbow</wheelVariation>
+        <modShopLabel>wheelydropbsoldbo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbsoldboa</wheelName>
+        <wheelVariation>wheelydropbsoldboaw</wheelVariation>
+        <modShopLabel>wheelydropbsoldboa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbsoldbob</wheelName>
+        <wheelVariation>wheelydropbsoldbobw</wheelVariation>
+        <modShopLabel>wheelydropbsoldbob</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropturbbo</wheelName>
+        <wheelVariation>wheelydropturbbow</wheelVariation>
+        <modShopLabel>wheelydropturbbo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropturbboa</wheelName>
+        <wheelVariation>wheelydropturbboaw</wheelVariation>
+        <modShopLabel>wheelydropturbboa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropturbbob</wheelName>
+        <wheelVariation>wheelydropturbbobw</wheelVariation>
+        <modShopLabel>wheelydropturbbob</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbs2bo</wheelName>
+        <wheelVariation>wheelydropbs2bow</wheelVariation>
+        <modShopLabel>wheelydropbs2bo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbs2boa</wheelName>
+        <wheelVariation>wheelydropbs2boaw</wheelVariation>
+        <modShopLabel>wheelydropbs2boa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbs2bob</wheelName>
+        <wheelVariation>wheelydropbs2bobw</wheelVariation>
+        <modShopLabel>wheelydropbs2bob</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbsbo</wheelName>
+        <wheelVariation>wheelydropbsbow</wheelVariation>
+        <modShopLabel>wheelydropbsbo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbsboa</wheelName>
+        <wheelVariation>wheelydropbsboaw</wheelVariation>
+        <modShopLabel>wheelydropbsboa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbsbob</wheelName>
+        <wheelVariation>wheelydropbsbobw</wheelVariation>
+        <modShopLabel>wheelydropbsbob</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbn3bo</wheelName>
+        <wheelVariation>wheelydropbn3bow</wheelVariation>
+        <modShopLabel>wheelydropbn3bo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbn3boa</wheelName>
+        <wheelVariation>wheelydropbn3boaw</wheelVariation>
+        <modShopLabel>wheelydropbn3boa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbn3bob</wheelName>
+        <wheelVariation>wheelydropbn3bobw</wheelVariation>
+        <modShopLabel>wheelydropbn3bob</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroplmbo</wheelName>
+        <wheelVariation>wheelydroplmbow</wheelVariation>
+        <modShopLabel>wheelydroplmbo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroplmboa</wheelName>
+        <wheelVariation>wheelydroplmboaw</wheelVariation>
+        <modShopLabel>wheelydroplmboa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroplmbob</wheelName>
+        <wheelVariation>wheelydroplmbobw</wheelVariation>
+        <modShopLabel>wheelydroplmbob</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbscobo</wheelName>
+        <wheelVariation>wheelydropbscobow</wheelVariation>
+        <modShopLabel>wheelydropbscobo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbscoboa</wheelName>
+        <wheelVariation>wheelydropbscoboaw</wheelVariation>
+        <modShopLabel>wheelydropbscoboa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbscobob</wheelName>
+        <wheelVariation>wheelydropbscobobw</wheelVariation>
+        <modShopLabel>wheelydropbscobob</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropfatsuvbo</wheelName>
+        <wheelVariation>wheelydropfatsuvbow</wheelVariation>
+        <modShopLabel>wheelydropfatsuvbo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropfatsuvboa</wheelName>
+        <wheelVariation>wheelydropfatsuvboaw</wheelVariation>
+        <modShopLabel>wheelydropfatsuvboa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropfatsuvbob</wheelName>
+        <wheelVariation>wheelydropfatsuvbobw</wheelVariation>
+        <modShopLabel>wheelydropfatsuvbob</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropfmjbo</wheelName>
+        <wheelVariation>wheelydropfmjbow</wheelVariation>
+        <modShopLabel>wheelydropfmjbo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropfmjboa</wheelName>
+        <wheelVariation>wheelydropfmjboaw</wheelVariation>
+        <modShopLabel>wheelydropfmjboa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropfmjbob</wheelName>
+        <wheelVariation>wheelydropfmjbobw</wheelVariation>
+        <modShopLabel>wheelydropfmjbob</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropthbo</wheelName>
+        <wheelVariation>wheelydropthbow</wheelVariation>
+        <modShopLabel>wheelydropthbo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropthboa</wheelName>
+        <wheelVariation>wheelydropthboaw</wheelVariation>
+        <modShopLabel>wheelydropthboa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropthbob</wheelName>
+        <wheelVariation>wheelydropthbobw</wheelVariation>
+        <modShopLabel>wheelydropthbob</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropmuscbo</wheelName>
+        <wheelVariation>wheelydropmuscbow</wheelVariation>
+        <modShopLabel>wheelydropmuscbo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropmuscboa</wheelName>
+        <wheelVariation>wheelydropmuscboaw</wheelVariation>
+        <modShopLabel>wheelydropmuscboa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropmuscbob</wheelName>
+        <wheelVariation>wheelydropmuscbobw</wheelVariation>
+        <modShopLabel>wheelydropmuscbob</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropco2bo</wheelName>
+        <wheelVariation>wheelydropco2bow</wheelVariation>
+        <modShopLabel>wheelydropco2bo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropco2boa</wheelName>
+        <wheelVariation>wheelydropco2boaw</wheelVariation>
+        <modShopLabel>wheelydropco2boa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropco2bob</wheelName>
+        <wheelVariation>wheelydropco2bobw</wheelVariation>
+        <modShopLabel>wheelydropco2bob</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropcosbo3</wheelName>
+        <wheelVariation>wheelydropcosbo3w</wheelVariation>
+        <modShopLabel>wheelydropcosbo3</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropcosbo3a</wheelName>
+        <wheelVariation>wheelydropcosbo3aw</wheelVariation>
+        <modShopLabel>wheelydropcosbo3a</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropcosbo3b</wheelName>
+        <wheelVariation>wheelydropcosbo3bw</wheelVariation>
+        <modShopLabel>wheelydropcosbo3b</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroprot1bo</wheelName>
+        <wheelVariation>wheelydroprot1bow</wheelVariation>
+        <modShopLabel>wheelydroprot1bo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroprot1boa</wheelName>
+        <wheelVariation>wheelydroprot1boaw</wheelVariation>
+        <modShopLabel>wheelydroprot1boa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroprot1bob</wheelName>
+        <wheelVariation>wheelydroprot1bobw</wheelVariation>
+        <modShopLabel>wheelydroprot1bob</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+    </Item>
+    <Item>
+      <!-- VWT_SUV -->
+      <Item>
+        <wheelName>wheelydropcoxdeep</wheelName>
+        <wheelVariation>wheelydropcoxdeepw</wheelVariation>
+        <modShopLabel>wheelydropcoxdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropcoxdeepa</wheelName>
+        <wheelVariation>wheelydropcoxdeepaw</wheelVariation>
+        <modShopLabel>wheelydropcoxdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropco2xdeep</wheelName>
+        <wheelVariation>wheelydropco2xdeepw</wheelVariation>
+        <modShopLabel>wheelydropco2xdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropco2xdeepa</wheelName>
+        <wheelVariation>wheelydropco2xdeepaw</wheelVariation>
+        <modShopLabel>wheelydropco2xdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropco2boxdeep</wheelName>
+        <wheelVariation>wheelydropco2boxdeepw</wheelVariation>
+        <modShopLabel>wheelydropco2boxdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropco2boxdeepa</wheelName>
+        <wheelVariation>wheelydropco2boxdeepaw</wheelVariation>
+        <modShopLabel>wheelydropco2boxdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropco2boxdeepb</wheelName>
+        <wheelVariation>wheelydropco2boxdeepbw</wheelVariation>
+        <modShopLabel>wheelydropco2boxdeepb</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropolduberxdeep</wheelName>
+        <wheelVariation>wheelydropolduberxdeepw</wheelVariation>
+        <modShopLabel>wheelydropolduberxdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropolduberxdeepa</wheelName>
+        <wheelVariation>wheelydropolduberxdeepaw</wheelVariation>
+        <modShopLabel>wheelydropolduberxdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropmuscboxdeep</wheelName>
+        <wheelVariation>wheelydropmuscboxdeepw</wheelVariation>
+        <modShopLabel>wheelydropmuscboxdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropmuscboxdeepa</wheelName>
+        <wheelVariation>wheelydropmuscboxdeepaw</wheelVariation>
+        <modShopLabel>wheelydropmuscboxdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropmuscboxdeepb</wheelName>
+        <wheelVariation>wheelydropmuscboxdeepbw</wheelVariation>
+        <modShopLabel>wheelydropmuscboxdeepb</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropfatstarxdeep</wheelName>
+        <wheelVariation>wheelydropfatstarxdeepw</wheelVariation>
+        <modShopLabel>wheelydropfatstarxdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropfatstarxdeepa</wheelName>
+        <wheelVariation>wheelydropfatstarxdeepaw</wheelVariation>
+        <modShopLabel>wheelydropfatstarxdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropthboxdeep</wheelName>
+        <wheelVariation>wheelydropthboxdeepw</wheelVariation>
+        <modShopLabel>wheelydropthboxdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropthboxdeepa</wheelName>
+        <wheelVariation>wheelydropthboxdeepaw</wheelVariation>
+        <modShopLabel>wheelydropthboxdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropthboxdeepb</wheelName>
+        <wheelVariation>wheelydropthboxdeepbw</wheelVariation>
+        <modShopLabel>wheelydropthboxdeepb</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropfmjxdeep</wheelName>
+        <wheelVariation>wheelydropfmjxdeepw</wheelVariation>
+        <modShopLabel>wheelydropfmjxdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropfmjxdeepa</wheelName>
+        <wheelVariation>wheelydropfmjxdeepaw</wheelVariation>
+        <modShopLabel>wheelydropfmjxdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropfmjboxdeep</wheelName>
+        <wheelVariation>wheelydropfmjboxdeepw</wheelVariation>
+        <modShopLabel>wheelydropfmjboxdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropfmjboxdeepa</wheelName>
+        <wheelVariation>wheelydropfmjboxdeepaw</wheelVariation>
+        <modShopLabel>wheelydropfmjboxdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropfmjboxdeepb</wheelName>
+        <wheelVariation>wheelydropfmjboxdeepbw</wheelVariation>
+        <modShopLabel>wheelydropfmjboxdeepb</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropfatsuvboxdeep</wheelName>
+        <wheelVariation>wheelydropfatsuvboxdeepw</wheelVariation>
+        <modShopLabel>wheelydropfatsuvboxdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropfatsuvboxdeepa</wheelName>
+        <wheelVariation>wheelydropfatsuvboxdeepaw</wheelVariation>
+        <modShopLabel>wheelydropfatsuvboxdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropfatsuvboxdeepb</wheelName>
+        <wheelVariation>wheelydropfatsuvboxdeepbw</wheelVariation>
+        <modShopLabel>wheelydropfatsuvboxdeepb</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbscoxdeep</wheelName>
+        <wheelVariation>wheelydropbscoxdeepw</wheelVariation>
+        <modShopLabel>wheelydropbscoxdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbscoxdeepa</wheelName>
+        <wheelVariation>wheelydropbscoxdeepaw</wheelVariation>
+        <modShopLabel>wheelydropbscoxdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbscoboxdeep</wheelName>
+        <wheelVariation>wheelydropbscoboxdeepw</wheelVariation>
+        <modShopLabel>wheelydropbscoboxdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbscoboxdeepa</wheelName>
+        <wheelVariation>wheelydropbscoboxdeepaw</wheelVariation>
+        <modShopLabel>wheelydropbscoboxdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbscoboxdeepb</wheelName>
+        <wheelVariation>wheelydropbscoboxdeepbw</wheelVariation>
+        <modShopLabel>wheelydropbscoboxdeepb</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroplmboxdeep</wheelName>
+        <wheelVariation>wheelydroplmboxdeepw</wheelVariation>
+        <modShopLabel>wheelydroplmboxdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroplmboxdeepa</wheelName>
+        <wheelVariation>wheelydroplmboxdeepaw</wheelVariation>
+        <modShopLabel>wheelydroplmboxdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroplmboxdeepb</wheelName>
+        <wheelVariation>wheelydroplmboxdeepbw</wheelVariation>
+        <modShopLabel>wheelydroplmboxdeepb</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbn3boxdeep</wheelName>
+        <wheelVariation>wheelydropbn3boxdeepw</wheelVariation>
+        <modShopLabel>wheelydropbn3boxdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbn3boxdeepa</wheelName>
+        <wheelVariation>wheelydropbn3boxdeepaw</wheelVariation>
+        <modShopLabel>wheelydropbn3boxdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbn3boxdeepb</wheelName>
+        <wheelVariation>wheelydropbn3boxdeepbw</wheelVariation>
+        <modShopLabel>wheelydropbn3boxdeepb</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbsboxdeep</wheelName>
+        <wheelVariation>wheelydropbsboxdeepw</wheelVariation>
+        <modShopLabel>wheelydropbsboxdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbsboxdeepa</wheelName>
+        <wheelVariation>wheelydropbsboxdeepaw</wheelVariation>
+        <modShopLabel>wheelydropbsboxdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbsboxdeepb</wheelName>
+        <wheelVariation>wheelydropbsboxdeepbw</wheelVariation>
+        <modShopLabel>wheelydropbsboxdeepb</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbs2xdeep</wheelName>
+        <wheelVariation>wheelydropbs2xdeepw</wheelVariation>
+        <modShopLabel>wheelydropbs2xdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbs2xdeepa</wheelName>
+        <wheelVariation>wheelydropbs2xdeepaw</wheelVariation>
+        <modShopLabel>wheelydropbs2xdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbs2boxdeep</wheelName>
+        <wheelVariation>wheelydropbs2boxdeepw</wheelVariation>
+        <modShopLabel>wheelydropbs2boxdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbs2boxdeepa</wheelName>
+        <wheelVariation>wheelydropbs2boxdeepaw</wheelVariation>
+        <modShopLabel>wheelydropbs2boxdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbs2boxdeepb</wheelName>
+        <wheelVariation>wheelydropbs2boxdeepbw</wheelVariation>
+        <modShopLabel>wheelydropbs2boxdeepb</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropturbboxdeep</wheelName>
+        <wheelVariation>wheelydropturbboxdeepw</wheelVariation>
+        <modShopLabel>wheelydropturbboxdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropturbboxdeepa</wheelName>
+        <wheelVariation>wheelydropturbboxdeepaw</wheelVariation>
+        <modShopLabel>wheelydropturbboxdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropturbboxdeepb</wheelName>
+        <wheelVariation>wheelydropturbboxdeepbw</wheelVariation>
+        <modShopLabel>wheelydropturbboxdeepb</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbsoldboxdeep</wheelName>
+        <wheelVariation>wheelydropbsoldboxdeepw</wheelVariation>
+        <modShopLabel>wheelydropbsoldboxdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbsoldboxdeepa</wheelName>
+        <wheelVariation>wheelydropbsoldboxdeepaw</wheelVariation>
+        <modShopLabel>wheelydropbsoldboxdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropbsoldboxdeepb</wheelName>
+        <wheelVariation>wheelydropbsoldboxdeepbw</wheelVariation>
+        <modShopLabel>wheelydropbsoldboxdeepb</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropinfboxdeep</wheelName>
+        <wheelVariation>wheelydropinfboxdeepw</wheelVariation>
+        <modShopLabel>wheelydropinfboxdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropinfboxdeepa</wheelName>
+        <wheelVariation>wheelydropinfboxdeepaw</wheelVariation>
+        <modShopLabel>wheelydropinfboxdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropinfboxdeepb</wheelName>
+        <wheelVariation>wheelydropinfboxdeepbw</wheelVariation>
+        <modShopLabel>wheelydropinfboxdeepb</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroptorboxdeep</wheelName>
+        <wheelVariation>wheelydroptorboxdeepw</wheelVariation>
+        <modShopLabel>wheelydroptorboxdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroptorboxdeepa</wheelName>
+        <wheelVariation>wheelydroptorboxdeepaw</wheelVariation>
+        <modShopLabel>wheelydroptorboxdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroptorboxdeepb</wheelName>
+        <wheelVariation>wheelydroptorboxdeepbw</wheelVariation>
+        <modShopLabel>wheelydroptorboxdeepb</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropstarthboxdeep</wheelName>
+        <wheelVariation>wheelydropstarthboxdeepw</wheelVariation>
+        <modShopLabel>wheelydropstarthboxdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropstarthboxdeepa</wheelName>
+        <wheelVariation>wheelydropstarthboxdeepaw</wheelVariation>
+        <modShopLabel>wheelydropstarthboxdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropstarthboxdeepb</wheelName>
+        <wheelVariation>wheelydropstarthboxdeepbw</wheelVariation>
+        <modShopLabel>wheelydropstarthboxdeepb</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5splgxdeep</wheelName>
+        <wheelVariation>wheelydrop5splgxdeepw</wheelVariation>
+        <modShopLabel>wheelydrop5splgxdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5splgxdeepa</wheelName>
+        <wheelVariation>wheelydrop5splgxdeepaw</wheelVariation>
+        <modShopLabel>wheelydrop5splgxdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5splgboxdeep</wheelName>
+        <wheelVariation>wheelydrop5splgboxdeepw</wheelVariation>
+        <modShopLabel>wheelydrop5splgboxdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5splgboxdeepa</wheelName>
+        <wheelVariation>wheelydrop5splgboxdeepaw</wheelVariation>
+        <modShopLabel>wheelydrop5splgboxdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5splgboxdeepb</wheelName>
+        <wheelVariation>wheelydrop5splgboxdeepbw</wheelVariation>
+        <modShopLabel>wheelydrop5splgboxdeepb</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5spboxdeep</wheelName>
+        <wheelVariation>wheelydrop5spboxdeepw</wheelVariation>
+        <modShopLabel>wheelydrop5spboxdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5spboxdeepa</wheelName>
+        <wheelVariation>wheelydrop5spboxdeepaw</wheelVariation>
+        <modShopLabel>wheelydrop5spboxdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5spboxdeepb</wheelName>
+        <wheelVariation>wheelydrop5spboxdeepbw</wheelVariation>
+        <modShopLabel>wheelydrop5spboxdeepb</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5spboxdeep2</wheelName>
+        <wheelVariation>wheelydrop5spboxdeep2w</wheelVariation>
+        <modShopLabel>wheelydrop5spboxdeep2</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5spboxdeep2a</wheelName>
+        <wheelVariation>wheelydrop5spboxdeep2aw</wheelVariation>
+        <modShopLabel>wheelydrop5spboxdeep2a</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5spboxdeep2b</wheelName>
+        <wheelVariation>wheelydrop5spboxdeep2bw</wheelVariation>
+        <modShopLabel>wheelydrop5spboxdeep2b</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5spcuboxdeep</wheelName>
+        <wheelVariation>wheelydrop5spcuboxdeepw</wheelVariation>
+        <modShopLabel>wheelydrop5spcuboxdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5spcuboxdeepa</wheelName>
+        <wheelVariation>wheelydrop5spcuboxdeepaw</wheelVariation>
+        <modShopLabel>wheelydrop5spcuboxdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5spcuboxdeepb</wheelName>
+        <wheelVariation>wheelydrop5spcuboxdeepbw</wheelVariation>
+        <modShopLabel>wheelydrop5spcuboxdeepb</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5spcuboxdeep2</wheelName>
+        <wheelVariation>wheelydrop5spcuboxdeep2w</wheelVariation>
+        <modShopLabel>wheelydrop5spcuboxdeep2</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5spcuboxdeep2a</wheelName>
+        <wheelVariation>wheelydrop5spcuboxdeep2aw</wheelVariation>
+        <modShopLabel>wheelydrop5spcuboxdeep2a</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydrop5spcuboxdeep2b</wheelName>
+        <wheelVariation>wheelydrop5spcuboxdeep2bw</wheelVariation>
+        <modShopLabel>wheelydrop5spcuboxdeep2b</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropcosboxdeep</wheelName>
+        <wheelVariation>wheelydropcosboxdeepw</wheelVariation>
+        <modShopLabel>wheelydropcosboxdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropcosboxdeepa</wheelName>
+        <wheelVariation>wheelydropcosboxdeepaw</wheelVariation>
+        <modShopLabel>wheelydropcosboxdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropcosboxdeepb</wheelName>
+        <wheelVariation>wheelydropcosboxdeepbw</wheelVariation>
+        <modShopLabel>wheelydropcosboxdeepb</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropcosboxdeep3</wheelName>
+        <wheelVariation>wheelydropcosboxdeep3w</wheelVariation>
+        <modShopLabel>wheelydropcosboxdeep3</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropcosboxdeep3a</wheelName>
+        <wheelVariation>wheelydropcosboxdeep3aw</wheelVariation>
+        <modShopLabel>wheelydropcosboxdeep3a</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydropcosboxdeep3b</wheelName>
+        <wheelVariation>wheelydropcosboxdeep3bw</wheelVariation>
+        <modShopLabel>wheelydropcosboxdeep3b</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroprot1boxdeep</wheelName>
+        <wheelVariation>wheelydroprot1boxdeepw</wheelVariation>
+        <modShopLabel>wheelydroprot1boxdeep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroprot1boxdeepa</wheelName>
+        <wheelVariation>wheelydroprot1boxdeepaw</wheelVariation>
+        <modShopLabel>wheelydroprot1boxdeepa</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheelydroprot1boxdeepb</wheelName>
+        <wheelVariation>wheelydroprot1boxdeepbw</wheelVariation>
+        <modShopLabel>wheelydroprot1boxdeepb</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+    </Item>
+    <Item/>
+    <!-- VWT_OFFROAD -->
+    <Item/>
+    <!-- VWT_TUNER -->
+    <Item/>
+    <!-- VWT_BIKE -->
+    <Item/>
+    <!-- VWT_HIEND -->
+    <Item/>
+    <!-- VWT_SUPERMOD1 -->
+    <Item/>
+    <!-- VWT_SUPERMOD2 -->
+    <Item/>
+  </Wheels>
+</CVehicleModelInfoVarGlobal>

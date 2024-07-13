@@ -1,0 +1,98 @@
+[
+    {
+      "name": "Monaco GP",
+      "coordinates": {
+        "X": 8118.10059,
+        "Y": -1964.701,
+        "Z": 8.39374,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 205.192444
+    },
+    {
+      "name": "Le Mans - Start",
+      "coordinates": {
+        "X": -6560.97,
+        "Y": -9020.51,
+        "Z": 274.23,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 356.16
+    },
+    {
+      "name": "Le Mans - Long",
+      "coordinates": {
+        "X": -5245.08,
+        "Y": -7492.85,
+        "Z": 288.59,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 208.51
+    },
+    {
+      "name": "Huligan (~b~New~s~)",
+      "coordinates": {
+        "X": 2305.42,
+        "Y": -3993.49,
+        "Z": 45.01,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 85.85,
+      "ipls":[
+        "huligan",
+        "huligan_trees",
+        "huligan_lights",
+        "huligan_extra"
+      ]
+    },
+    {
+      "name": "Karelia Rallycross (~b~New~s~)",
+      "coordinates": {
+        "X": 503.61,
+        "Y": -53.52,
+        "Z": 1446.34,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 342.35,
+      "ipls":[
+        "karelia",
+        "karelia_lights"
+      ]
+    },
+    {
+      "name": "Holjes Rallycross (~b~New~s~)",
+      "coordinates": {
+        "X": 4717.11,
+        "Y": -1407.86,
+        "Z": 1179.44,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 96.35,
+      "ipls":[
+        "holjes",
+        "holjes_mainprops"
+      ]
+    },
+    {
+      "name": "Spa Francorchamps Circuit (~b~New~s~)",
+      "coordinates": {
+        "X": 4284.24,
+        "Y": 8009.56,
+        "Z": 92.65,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 77.87,
+      "ipls":[
+        "spa01",
+        "spatrees"
+      ]
+    }
+]
+

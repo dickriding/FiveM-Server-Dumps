@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+
+:root {
+    --height: calc(1 / 720 * 100vh);
+    --width: calc(1 / 720 * 100vw);
+
+    --app-top: calc(190 * var(--height));
+    --app-right: calc(5 * var(--width));
+
+    --list-width: calc(110 * var(--width));
+
+    --font-size: calc(8 * var(--height));
+    --font-size-name: calc(8 * var(--height));
+    --font-size-score: calc(8 * var(--height));
+    --font-size-title: calc(8 * var(--height));
+    --font-size-badge: calc(8 * var(--height));
+
+    --pixel-size-1: calc(1 * var(--height));
+    --pixel-size-2: calc(2 * var(--height));
+    --pixel-size-4: calc(4 * var(--height));
+    --pixel-size-6: calc(6 * var(--height));
+    --pixel-size-8: calc(8 * var(--height));
+}
+
+* {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+html,body {
+    background: url('../images/bg.jpg');
+}
+
+#app {
+    position: absolute;
+    top: var(--app-top);
+    right: var(--app-right);
+    padding: 0px !important;
+}
+
+#helper {
+    padding: 5px;
+}
+
+.score {
+    color: #eee;
+    transition: all 1s;
+}
+
+li > .score {
+    float: right;
+    line-height: inherit;
+
+    font-size: var(--font-size-score) !important;
+    font-weight: 300 !important;
+}
+
+li > .score > i {
+    color: #fff;
+}
+
+.score-animate {
+    transition: all 1s;
+    transform: scale(1.2);
+    font-weight: bolder;
+}
+
+.player-name {
+    text-shadow: 0px 0px var(--pixel-size-4) #000;
+    font-size: var(--font-size-name);
+    line-height: calc(var(--font-size-name) + calc(var(--pixel-size-8)));
+    padding: var(--pixel-size-2);
+}
+
+ul {
+    list-style: none;
+    padding: 0px !important;
+}
+li {
+    font-size: var(--font-size);
+    font-weight: 500;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.6);
+    padding: var(--pixel-size-4);
+    min-width: var(--list-width);
+    max-width: var(--list-width);
+    line-break: anywhere;
+    white-space: nowrap;
+    overflow: hidden;
+    border-top: var(--pixel-size-1) solid transparent;
+    border-bottom: var(--pixel-size-1) solid transparent;
+}
+li.list-title {
+    font-size: var(--font-size-title);
+    background: rgba(0, 0, 0, 0.6);
+    border-bottom: var(--pixel-size-2) solid #6969ff;
+    margin-bottom: 0;
+
+    box-shadow: 0 -2px 0 linear-gradient(90deg, rgba(255,66,0,0.7) 0%, rgba(212,0,109,0.7) 100%) inset;
+
+}
+li > .title-position {
+    float: right;
+    font-size: 12px;
+    line-height: 24px;
+}
+#scores > li:nth-child(1) {
+    background: linear-gradient(90deg, rgba(255, 255, 105, 0.5) 0%, rgba(212,0,109,0.7) 100%);
+    border-left: var(--pixel-size-2) solid gold;
+}
+#scores > li:nth-child(2) {
+    background: linear-gradient(90deg, rgba(105, 105, 255, 0.5) 0%, rgba(212,0,109,0.7) 100%);
+    border-left: var(--pixel-size-2) solid silver;
+}
+#scores > li:nth-child(3) {
+    background: linear-gradient(90deg, rgb(205, 127, 50, 0.5) 0%, #00000099 100%);
+    border-left: var(--pixel-size-2) solid #CD7F32;
+}
+.fa-crown {
+    color: gold;
+    opacity: 0.75;
+}
+.badge-primary {
+    font-weight: 300 !important;
+    font-size: var(--font-size-badge) !important;
+    background:rgba(0, 0, 0, 0.3) !important;
+    padding: var(--pixel-size-2) var(--pixel-size-4) !important;
+    border-radius: 0px !important;
+}
+
+.toggle{
+    color:#0073FF;
+}

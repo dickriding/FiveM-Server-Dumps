@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapParentTxds>
+ <txdRelationships>
+  <Item>
+   <parent>shoubudani_1</parent>
+   <child>shoubudani</child>
+  </Item>
+  <Item>
+   <parent>shoubudani_2</parent>
+   <child>shoubudani_1</child>
+  </Item>
+  <Item>
+   <parent>shoubudani_3</parent>
+   <child>shoubudani_2</child>
+  </Item>
+ </txdRelationships>
+</CMapParentTxds>

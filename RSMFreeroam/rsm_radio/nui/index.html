@@ -1,0 +1,33 @@
+<html>
+<head>
+</head>
+
+<body>
+    <style>
+        html, body {
+            background: transparent!important
+        }
+    </style>
+
+    <!-- Standard Libraries -->
+    <script src="nui://game/ui/jquery.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.1.2/howler.min.js" integrity="sha512-sksA7rI0EUnMOE3KR5+ZF93cRsiYEdydYavHeNRIfXdnf04sm0q9WwImP+q1p7HN0U4ZHS2dymhPTfCbbXAvHA==" crossorigin="anonymous"></script>
+
+    <!-- Resource Libraries -->
+    <script src="index.js"></script>
+
+    <!-- Prevent media key controls from interfering with radios -->
+    <script>
+
+        // what we could alternatively do here, is when play/pause is pressed, just send a message to the Lua layer to play/stop the radio :)
+        // could do the same for next/previos track calls for traversing in-game radio stations
+
+        navigator.mediaSession.setActionHandler('play', function() { /* Code excerpted. */ });
+        navigator.mediaSession.setActionHandler('pause', function() { /* Code excerpted. */ });
+        navigator.mediaSession.setActionHandler('seekbackward', function() { /* Code excerpted. */ });
+        navigator.mediaSession.setActionHandler('seekforward', function() { /* Code excerpted. */ });
+        navigator.mediaSession.setActionHandler('previoustrack', function() { /* Code excerpted. */ });
+        navigator.mediaSession.setActionHandler('nexttrack', function() { /* Code excerpted. */ });
+    </script>
+</body>
+</html>

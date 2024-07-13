@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dat54>
+ <Version value="7126027" />
+ <Items>
+  <Item type="SoundList">
+   <Name>pigeonp_horn_list</Name>
+   <Header>
+    <Flags value="0xAAAAAAAA" />
+   </Header>
+   <UnkShort value="0" />
+   <Items>
+    <Item>hash_595FBDC7</Item>
+   </Items>
+  </Item>
+ </Items>
+</Dat54>

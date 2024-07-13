@@ -1,0 +1,584 @@
+[
+    {
+      "name": "Observatory",
+      "coordinates": {
+        "X": -410.5,
+        "Y": 1177.45,
+        "Z": 325.64,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 73.43
+    },
+    {
+      "name": "Docks",
+      "coordinates": {
+        "X": 961.51,
+        "Y": -3131.74,
+        "Z": 5.9,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 358.92
+    },
+    {
+      "name": "Usui",
+      "coordinates": {
+        "X": 7715.4,
+        "Y": 3162.13,
+        "Z": 863.42,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 80.07
+    },
+    {
+      "name": "Hills (Fruit Stand)",
+      "coordinates": {
+        "X": 1045.89,
+        "Y": 715.5,
+        "Z": 157.30,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 143.70
+    },
+    {
+      "name": "Project Touge",
+      "coordinates": {
+        "X": 3124.91,
+        "Y": -2711.47,
+        "Z": 791.51,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 64.38,
+      "ipls":[
+        "projtouge",
+        "projtouge_trees",
+        "projtouge_props",
+        "projtouge_grass"
+      ]
+    },
+    {
+      "name": "Kanagawa",
+      "coordinates": {
+        "X": -3808.71069,
+        "Y": -1241.58374,
+        "Z": 220.575958,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 264.062164,
+      "ipls":[
+        "kanagawat",
+        "kanagawat_grass",
+        "kanagawat_lod",
+        "kanagawat_props",
+        "kanagawat_trees1",
+        "kanagawat_trees2",
+        "kanagawat_trees3"
+      ]
+    },
+    {
+      "name": "Harugahara",
+      "coordinates": {
+        "X": 5381.98,
+        "Y": 342.82,
+        "Z": 1097.57,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 344.09,
+      "ipls":[
+        "Harugaharav2"
+      ]
+    },
+    {
+      "name": "Okutama",
+      "coordinates": {
+        "X": -2415.39258,
+        "Y": 4249.062,
+        "Z": 16.4434872,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 312.5409
+    },
+    {
+      "name": "GoKart Track",
+      "coordinates": {
+        "X": 4593.8,
+        "Y": 2624.52,
+        "Z": 11.03,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 299.43
+    },
+    {
+      "name": "Deriphill",
+      "coordinates": {
+        "X": 6110.204,
+        "Y": -541.7379,
+        "Z": 345.78064,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 237.87085,
+      "ipls":[
+        "Phil",
+        "map1",
+        "map2",
+        "map3",
+        "map4",
+        "orig_Phil"
+      ]
+    },
+    {
+      "name": "Max Drift",
+      "coordinates": {
+        "X": -3066.24976,
+        "Y": 2661.35,
+        "Z": 634.005554,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 110.5786
+    },
+    {
+      "name": "Sekia Hills",
+      "coordinates": {
+        "X": -4295.295,
+        "Y": 3173.23242,
+        "Z": 500.283539,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 91.30264,
+      "ipls":[
+        "SekiaHills"
+      ]
+    },
+    {
+      "name": "Motorland",
+      "coordinates": {
+        "X": 2546.66577,
+        "Y": 3083.70239,
+        "Z": 545.3023,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 279.84967,
+      "ipls":[
+        "DriftNoodle",
+        "DriftNoodleTrees",
+        "DriftNoodleProps",
+        "DriftNoodleProps1",
+        "DriftNoodleProps2"
+      ]
+    },
+    {
+      "name": "Ohiradai",
+      "coordinates": {
+        "X": -4290.44,
+        "Y": -4561.97,
+        "Z": 165.99,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 168.36,
+      "ipls":[
+        "ohiradai"
+      ]
+    },
+    {
+      "name": "West Zao S",
+      "coordinates": {
+        "X": -5293.81,
+        "Y": 2466.95,
+        "Z": 533.29,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 279.84967,
+      "ipls":[
+        "wzaos"
+      ]
+    },
+    {
+      "name": "Nanamagari",
+      "coordinates": {
+        "X": 4541.59,
+        "Y": -5712.75,
+        "Z": 1351.25,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 154.96,
+      "ipls":[
+        "nanamagari"
+      ]
+    },
+    {
+      "name": "Mizukoshi",
+      "coordinates": {
+        "X": 4087.6,
+        "Y": -1992.09,
+        "Z": 99.1,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 179.71,
+      "ipls":[
+        "mizukoshi"
+      ]
+    },
+    {
+      "name": "Hayato",
+      "coordinates": {
+        "X": 4308.27,
+        "Y": -936.46,
+        "Z": 102.11,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 325.24,
+      "ipls":[
+        "hayato"
+      ]
+    },
+    {
+      "name": "Katsuoji Minoo",
+      "coordinates": {
+        "X": 6201.27,
+        "Y": 3380.34,
+        "Z": 242.09,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 312.62,
+      "ipls":[
+        "minoo"
+      ]
+    },
+    {
+      "name": "Shrine Route",
+      "coordinates": {
+        "X": -2987.37,
+        "Y": 2259.45,
+        "Z": 3.04,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 354.88
+    },
+    {
+      "name": "Nagao Pass Autumn",
+      "coordinates": {
+        "X": 9757.2,
+        "Y": -1065.68,
+        "Z": 959.61,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 312.62,
+      "ipls":[
+        "nagao"
+      ]
+    },
+    {
+      "name": "Transfagarasan Bottom",
+      "coordinates": {
+        "X": 4972.87,
+        "Y": 7566.23,
+        "Z": 1244.06,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 190.6,
+      "ipls":[
+        "Transfagarasan"
+      ]
+    },
+    {
+      "name": "Transfagarasan Top",
+      "coordinates": {
+        "X": 7552.36,
+        "Y": -483.07,
+        "Z": 2655.34,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 358.41,
+      "ipls":[
+        "Transfagarasan"
+      ]
+    },
+    {
+      "name": "Akagi Mountain Pass",
+      "coordinates": {
+        "X": 6141.97,
+        "Y": 3209.33,
+        "Z": 1131.98,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 169.41,
+      "ipls":[
+        "akagi_mountain_pass_CHR_15"
+      ]
+    },
+    {
+      "name": "NFS Lookout Point",
+      "coordinates": {
+        "X": -4932.97,
+        "Y": -990.33,
+        "Z": 489.98,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 312.41,
+      "ipls":[
+        "lookoutpoint"
+      ]
+    },
+    {
+      "name": "Kushdrift",
+      "coordinates": {
+        "X": 1525.97,
+        "Y": -3421.33,
+        "Z": 45.98,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 238.41,
+      "ipls":[
+        "kushdrift",
+        "kushdrift_bushes",
+        "kushdrift_Grass",
+        "kushdrift_trees"
+      ]
+    },
+    {
+      "name": "Karowa Streen",
+      "coordinates": {
+        "X": -1711.771,
+        "Y": 7309.294,
+        "Z": 272.870,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 32.41,
+      "ipls":[
+        "karowa",
+        "karowa_light"
+      ]
+    },
+    {
+      "name": "Kagarasan",
+      "coordinates": {
+        "X": -6748.05,
+        "Y": -2668.48,
+        "Z": 335.887,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 306.41,
+      "ipls":[
+        "kagara_v",
+        "lights"
+      ]
+    },
+    {
+      "name": "Rocky Mountain",
+      "coordinates": {
+        "X": -1708.9,
+        "Y": -1687.48,
+        "Z": 9.887,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 247.41,
+      "ipls":[
+        "rmd_load",
+        "rmd_props",
+        "rmd_lod"
+      ]
+    },
+    {
+      "name": "Haruna",
+      "coordinates": {
+        "X": 605.021606,
+        "Y": -9493.84863,
+        "Z": 1148.41382,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 247.41,
+      "ipls":[
+        "haruna"
+      ]
+    },
+    {
+      "name": "Okuibuki Motor Park",
+      "coordinates": {
+        "X": 8798.021606,
+        "Y": -5267.84863,
+        "Z": 58.41382,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 338.41,
+      "ipls":[
+        "okuibibi",
+        "okuibibi_props"
+      ]
+    },
+    {
+      "name": "Desert Drift",
+      "coordinates": {
+        "X": -1758.021606,
+        "Y": -7259.84863,
+        "Z": 36.41382,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 87.41,
+      "ipls":[
+        "ddrift"
+      ]
+    },
+    {
+      "name": "Red Dead Desert",
+      "coordinates": {
+        "X": 5850.77,
+        "Y": -47.62,
+        "Z": 346.63,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 211.41,
+      "ipls":[
+        "rdd_main"
+      ]
+    },
+    {
+      "name": "Tsubakline",
+      "coordinates": {
+        "X": 7374.96,
+        "Y": 10656.64,
+        "Z": 545.12,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 355.41,
+      "ipls":[
+        "Tsubakline"
+      ]
+    },
+    {
+      "name": "Akagi",
+      "coordinates": {
+        "X": -2731,
+        "Y": -11734,
+        "Z": 725.033142,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 355.41,
+      "ipls":[
+        "club_akagi"
+      ]
+    },
+    {
+      "name": "Arab Drift Highway Saudi",
+      "coordinates": {
+        "X": -6376.02,
+        "Y": -787.75,
+        "Z": 174.57,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 355.41,
+      "ipls":[
+        "asgar",
+        "conv3z"
+      ]
+    },
+    {
+      "name": "Shoubudani Touge",
+      "coordinates": {
+        "X": -3691.97974,
+        "Y": -3149.8916,
+        "Z": 437.36026,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 355.41,
+      "ipls":[
+        "shoubudani"
+      ]
+    },
+    {
+      "name": "Shomaru Touge",
+      "coordinates": {
+        "X": -2674.193,
+        "Y": -2499.90381,
+        "Z": 202.4278,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 355.41,
+      "ipls":[
+        "shomaru_touge"
+      ]
+    },
+    {
+      "name": "Kami Road (~b~New~s~)",
+      "coordinates": {
+        "X": 7310.31,
+        "Y": 4637.6,
+        "Z": 124.18,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 36.41,
+      "ipls":[
+        "kami_road"
+      ]
+    },
+    {
+      "name": "East Touge (~b~New~s~)",
+      "coordinates": {
+        "X": -4127.486,
+        "Y": -2660.27783,
+        "Z": 19.683,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 355.41,
+      "ipls":[
+        "east_touge",
+        "east_touge_tree1",
+        "ebisu_tyre",
+        "ebisu_lights",
+        "eisu_prop_wheel_02"
+      ]
+    },
+    {
+      "name": "Fukuoka (~b~New~s~)",
+      "coordinates": {
+        "X": 3430.94,
+        "Y": 9040.38,
+        "Z": 9.99,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 355.41,
+      "ipls":[
+        "fukuoka_wmmt"
+      ]
+    }
+]
+

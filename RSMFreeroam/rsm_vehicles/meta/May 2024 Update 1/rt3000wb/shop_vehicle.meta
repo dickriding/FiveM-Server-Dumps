@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ShopVehicleDataArray>
+	<Vehicles>
+		<Item>
+			<lockHash>CU_VEH_rt3000wb</lockHash>
+			<modelNameHash>rt3000wb</modelNameHash>
+			<cost value="100"/>
+			<textLabel>rt3000wb</textLabel>
+			<textLabel></textLabel>
+		</Item>
+	</Vehicles>
+</ShopVehicleDataArray>

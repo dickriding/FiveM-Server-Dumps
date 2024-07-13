@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>tartaro</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            5
+            1
+            1
+            0
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            15
+            15
+            4
+            0
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            33
+            1
+            0
+            0
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            36
+            36
+            27
+            0
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            49
+            49
+            53
+            0
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            52
+            1
+            0
+            0
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            60
+            60
+            0
+            0
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            61
+            1
+            5
+            0
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            65
+            65
+            70
+            0
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            71
+            1
+            1
+            0
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            88
+            1
+            1
+            0
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            98
+            98
+            1
+            0
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            112
+            5
+            1
+            0
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            143
+            143
+            1
+            0
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            7
+            7
+            1
+            0
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            9
+            12
+            1
+            0
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            24
+            24
+            27
+            0
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            33
+            28
+            0
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            54
+            111
+            55
+            0
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            83
+            79
+            81
+            0
+            22
+            22
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            107
+            1
+            1
+            0
+            22
+            22
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>929233_tartaro_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

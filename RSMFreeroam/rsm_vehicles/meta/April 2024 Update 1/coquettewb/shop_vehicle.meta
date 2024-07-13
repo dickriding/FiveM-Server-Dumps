@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ShopVehicleDataArray>
+	<Vehicles>
+		<Item>
+			<lockHash>CU_VEH_coquettewb</lockHash>
+			<modelNameHash>coquettewb</modelNameHash>
+			<cost value="100"/>
+			<textLabel>coquettewb</textLabel>
+			<textLabel></textLabel>
+		</Item>
+	</Vehicles>
+</ShopVehicleDataArray>

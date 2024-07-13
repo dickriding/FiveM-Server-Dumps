@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>domc</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            "64" 
+            "0" 
+            "64" 
+            "156" 
+            "8" 
+            "8" 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            "27" 
+            "0" 
+            "27" 
+            "156" 
+            "8" 
+            "8" 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            "49" 
+            "0" 
+            "49" 
+            "156" 
+            "8" 
+            "8" 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            "14"
+            "14"
+            "8"
+            "156"
+            "8"
+            "8"
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            "97"
+            "0"
+            "97"
+            "156"
+            "8"
+            "8"
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            "42"
+            "0"
+            "42"
+            "156"
+            "8"
+            "8"
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            "111"
+            "0"
+            "111"
+            "156"
+            "8"
+            "8"
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            "87"
+            "0"
+            "87"
+            "156"
+            "8"
+            "8"
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            "0"
+            "0"
+            "8"
+            "156"
+            "8"
+            "8"
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            "47"
+            "0"
+            "47"
+            "156"
+            "8"
+            "8"
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            "52"
+            "52"
+            "52"
+            "156"
+            "8"
+            "8"
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            "124"
+            "0"
+            "124"
+            "156"
+            "8"
+            "8"
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            "105"
+            "0"
+            "105"
+            "156"
+            "8"
+            "8"
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            "90"
+            "0"
+            "90"
+            "156"
+            "8"
+            "8"
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            "141"
+            "141"
+            "141"
+            "156"
+            "8"
+            "8"
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            "115"
+            "115"
+            "115"
+            "156"
+            "8"
+            "8"
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            "86"
+            "0"
+            "86"
+            "156"
+            "8"
+            "8"
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            "35"
+            "0"
+            "35"
+            "156"
+            "8"
+            "8"
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>1940_domc_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="45" />
+          </Item>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="5" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="45" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="5" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

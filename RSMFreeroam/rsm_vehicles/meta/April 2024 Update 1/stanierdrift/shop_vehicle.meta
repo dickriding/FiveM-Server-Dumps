@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShopVehicleDataArray>
+	<Vehicles>
+		<!-- Add your car here -->
+		<Item>
+			<lockHash>CU_STANIERDRIFT_VEH</lockHash>
+			<modelNameHash>stanierdrift</modelNameHash>
+			<cost value ="0"/>
+			<textLabel>STANIERDRIFT</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+	</Vehicles>
+</ShopVehicleDataArray>

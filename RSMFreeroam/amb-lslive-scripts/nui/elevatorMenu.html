@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script src="./script.js" type="text/javascript"></script>
+  <title>Elevator Floor Selection</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #935d0144;
+      display: none;
+    }
+
+    .elevator {
+      border: 5px solid #935d01;
+      border-radius: 5px;
+      padding: 20px;
+      width: 400px;
+      margin: 25vh auto;
+      background-image: url('./eleBg.png');
+      background-color: rgba(248, 147, 6, 0.432);
+      background-blend-mode: color;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    .floor-buttons {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      margin-top: 20px;
+    }
+
+    .floor-button {
+      margin: 5px;
+      padding: 10px;
+      width: 150px;
+      text-align: center;
+      background-color: rgb(155, 133, 81);
+      cursor: pointer;
+      font-size: 20px;
+      border-radius: 5px;
+    }
+
+    .close-button
+    {
+      background-color: rgb(135, 55, 55);
+    }
+
+
+    .floor-button:hover {
+      background-color: #999;
+    }
+    .close-button:hover
+    {
+      background-color: rgb(130, 102, 39);
+    }
+  </style>
+</head>
+<body  id="elevatorMenu">
+  <div class="elevator" >
+    <h1>Select Floor</h1>
+    <div class="floor-buttons">
+      <div class="floor-button" onclick="selectFloor(0)">Lobby</div>
+      <div class="floor-button" onclick="selectFloor(1)">French Restaurant</div>
+      <div class="floor-button" onclick="selectFloor(2)">Cigar Lounge</div>
+      <div class="floor-button" onclick="selectFloor(3)">Rooftop Pool 1</div>
+      <div class="floor-button" onclick="selectFloor(13)">Rooftop Pool 2</div>
+      <div class="floor-button" onclick="selectFloor(4)">Assmosphere</div>
+      <div class="floor-button" onclick="selectFloor(5)">Yusuf's Office</div>
+      <div class="floor-button" onclick="selectFloor(6)">Spa & Gym</div>
+      <div class="floor-button" onclick="selectFloor(7)">Rooms Floor 1</div>
+      <div class="floor-button" onclick="selectFloor(8)">Rooms Floor 2</div>
+      <div class="floor-button" onclick="selectFloor(9)">Rooms Floor 3</div>
+      <div class="floor-button" onclick="selectFloor(10)">Rooms Floor 4</div>
+      <div class="floor-button" onclick="selectFloor(11)">Rooms Floor 5</div>
+      <div class="floor-button" onclick="selectFloor(12)">Rooms Floor 6</div>
+      <div class="floor-button close-button" onclick="closeMenu()">Close</div>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,145 @@
+:root {
+    --arrow-offset-height: calc(calc(10 * var(--pixel-h)) * -1);
+    --arrow-offset-width: calc(12 * var(--pixel-w));
+}
+
+.introjs-tooltipReferenceLayer * {
+    font-family: 'Titillium Web', 'Open Sans', sans-serif !important;
+}
+
+.introjs-tooltip {
+    background-color: rgba(0, 0, 0, 0.9);
+    border: calc(2 * var(--pixel-h)) solid #6969ff;
+
+    min-width: calc(125 * var(--pixel-w));
+    max-width: calc(150 * var(--pixel-w));
+}
+
+.introjs-tooltip-header {
+    padding: calc(5 * var(--pixel-h)) calc(10 * var(--pixel-w));
+}
+
+.introjs-tooltiptext {
+    padding: calc(8 * var(--pixel-h)) calc(10 * var(--pixel-w));
+}
+
+.introjs-arrow {
+    display: none !important;
+    border-width: 8px;
+}
+
+.introjs-arrow.top {
+    top: var(--arrow-offset-height);
+    left: var(--arrow-offset-width);
+    border-bottom-color: #6969ff !important;
+}
+
+.introjs-arrow.bottom {
+    bottom: var(--arrow-offset-height);
+    left: var(--arrow-offset-width);
+    border-top-color: #6969ff !important;
+}
+
+.introjs-arrow.right {
+    right: var(--arrow-offset-width);
+    top: var(--arrow-offset-height);
+    border-left-color: #6969ff !important;
+}
+
+.introjs-arrow.left {
+    left: var(--arrow-offset-width);
+    top: var(--arrow-offset-height);
+    border-right-color: #6969ff !important;
+}
+
+.introjs-tooltip-title {
+    color: #fff;
+    font-size: calc(10 * var(--pixel-h));
+    line-height: calc(32 * var(--pixel-h));
+}
+
+.introjs-tooltiptext {
+    color: #ccc;
+    font-size: calc(8 * var(--pixel-h));
+}
+
+.introjs-tooltipbuttons {
+    border-top: calc(1 * var(--pixel-h)) solid rgba(255, 255, 255, 0.3);
+}
+
+.introjs-skipbutton {
+    display: none;
+
+    color: #999 !important;
+    text-decoration: none;
+
+    padding: calc(3 * var(--pixel-h)) calc(2 * var(--pixel-w));
+    line-height: calc(25 * var(--pixel-h));
+}
+
+.introjs-skipbutton:focus, .introjs-skipbutton:hover {
+    color: #fff !important;
+}
+
+.introjs-button {
+    color: #ccc !important;
+
+    border-width: calc(1.5 * var(--pixel-h));
+    border-color: #6969ff;
+    background-color: rgba(0, 0, 0, 0.6);
+    text-shadow: none;
+
+    padding: calc(4 * var(--pixel-h)) calc(10 * var(--pixel-w));
+    font-size: calc(8 * var(--pixel-h));
+}
+
+.introjs-button:hover, .introjs-button:focus {
+    color: #fff !important;
+    background-color: rgba(105, 105, 255, 0.1);
+    border-color: #6969ff;
+    border-width: calc(1.5 * var(--pixel-h));
+    box-shadow: none;
+}
+
+.introjs-disabled {
+    color: #aaa !important;
+    background-color: rgba(0, 0, 0, 0.6) !important;
+    border-color: #6969ff90 !important;
+}
+
+.introjs-bullets ul li a {
+    background: #6969ff60;
+}
+
+.introjs-bullets ul li a.active {
+    background: #6969ff;
+}
+
+.introjs-hint-pulse {
+    background-color: #69ff6990;
+}
+
+.introjs-hint:hover > .introjs-hint-pulse {
+    background-color: #69ff69;
+}
+
+@keyframes introjspulse {
+    0% {
+        -webkit-transform: scale(.95);
+        transform: scale(.95);
+        -webkit-box-shadow: 0 0 0 0 rgb(105 105 255 / 70%);
+        box-shadow: 0 0 0 0 rgb(105 105 255 / 70%);
+    }
+    70% {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+        -webkit-box-shadow: 0 0 0 10px transparent;
+        box-shadow: 0 0 0 10px transparent;
+    }
+    100% {
+        -webkit-transform: scale(.95);
+        transform: scale(.95);
+        -webkit-box-shadow: 0 0 0 0 transparent;
+        box-shadow: 0 0 0 0 transparent;
+    }
+}

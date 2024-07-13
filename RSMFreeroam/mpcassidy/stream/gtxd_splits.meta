@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CMapParentTxds>
+  <txdRelationships>
+    <Item>
+      <parent>dt1_20_build</parent>
+      <child>1_amb_dt1_20_build1_txd</child>
+    </Item>
+    <Item>
+      <parent>1_amb_dt1_20_build1_txd</parent>
+      <child>amb_dt1_20_build1_txd</child>
+    </Item>
+    <Item>
+      <parent>2_amb_dt1_20_build1_txd</parent>
+      <child>1_amb_dt1_20_build1_txd</child>
+    </Item>
+  </txdRelationships>
+</CMapParentTxds>

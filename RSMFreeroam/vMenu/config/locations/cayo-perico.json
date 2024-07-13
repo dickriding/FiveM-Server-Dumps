@@ -1,0 +1,58 @@
+[
+    {
+      "name": "Airstrip",
+      "coordinates": {
+        "X": 4498.5,
+        "Y": -4496.45,
+        "Z": 4.64,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 204.43
+    },
+    {
+      "name": "Beach Party",
+      "coordinates": {
+        "X": 4919.5,
+        "Y": -4903.45,
+        "Z": 3.64,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 137.43
+    },
+    {
+      "name": "Villa",
+      "coordinates": {
+        "X": 5009.5,
+        "Y": -5726.45,
+        "Z": 19.64,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 231.43
+    },
+    {
+      "name": "North Dock",
+      "coordinates": {
+        "X": 5129.5,
+        "Y": -4624.45,
+        "Z": 2.64,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 154.43
+    },
+    {
+      "name": "South Dock",
+      "coordinates": {
+        "X": 4907.5,
+        "Y": -5187.45,
+        "Z": 2.64,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 154.43
+    }
+]
+

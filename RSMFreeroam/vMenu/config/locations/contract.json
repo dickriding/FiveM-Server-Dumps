@@ -1,0 +1,87 @@
+[
+    {
+      "name": "Garage",
+      "coordinates": {
+        "X": -1070.000,
+        "Y": -70.000,
+        "Z": -100.000,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 180.0,
+      "ipls":[
+        "sf_int_placement_sec_interior_2_dlc_garage_sec_milo_"
+      ]
+    },
+    {
+      "name": "Record Studio",
+      "coordinates": {
+        "X": -1010.0,
+        "Y": -70.0,
+        "Z": -100,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 268.1,
+      "ipls":[
+        "sf_int_placement_sec_interior_1_dlc_studio_sec_milo_"
+      ]
+    },
+    {
+        "name": "Office Building 1",
+        "coordinates": {
+          "X": -1020.286,
+          "Y": -427.302,
+          "Z": 62.862,
+          "IsNormalized": false,
+          "IsZero": false
+        },
+        "heading": 268.1,
+        "ipls":[
+          "sf_fixeroffice_bh1_05"
+        ]
+    },
+    {
+        "name": "Office Building 2",
+        "coordinates": {
+          "X": 384.814,
+          "Y": -60.727,
+          "Z": 102.363,
+          "IsNormalized": false,
+          "IsZero": false
+        },
+        "heading": 268.1,
+        "ipls":[
+          "sf_fixeroffice_hw1_08"
+        ]
+    },
+    {
+        "name": "Office Building 3",
+        "coordinates": {
+          "X": -1003.911,
+          "Y": -759.604,
+          "Z": 60.895,
+          "IsNormalized": false,
+          "IsZero": false
+        },
+        "heading": 268.1,
+        "ipls":[
+          "sf_fixeroffice_kt1_05"
+        ]
+    },
+    {
+        "name": "Office Building 4",
+        "coordinates": {
+          "X": -589.475,
+          "Y": -716.526,
+          "Z": 112.005,
+          "IsNormalized": false,
+          "IsZero": false
+        },
+        "heading": 268.1,
+        "ipls":[
+          "sf_fixeroffice_kt1_08"
+        ]
+    }
+]
+

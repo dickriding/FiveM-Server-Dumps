@@ -1,0 +1,1049 @@
+[
+    {
+      "name": "Los Santos International Airport",
+      "coordinates": {
+        "X": -1150.36438,
+        "Y": -2943.02832,
+        "Z": 13.5276651,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 240.541412
+    },
+    {
+      "name": "Tongva Hills Villa",
+      "coordinates": {
+        "X": -2602.14136,
+        "Y": 1677.12561,
+        "Z": 141.449631,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 226.351486
+    },
+    {
+      "name": "Banham Canyon Villa",
+      "coordinates": {
+        "X": -2633.053,
+        "Y": 1324.43274,
+        "Z": 143.058746,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 170.094727
+    },
+    {
+      "name": "Usui Racetrack",
+      "coordinates": {
+        "X": 7005.981,
+        "Y": -1446.71448,
+        "Z": 2059.63379,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 44.8468475
+    },
+    {
+      "name": "Up n' Atom Burger",
+      "coordinates": {
+        "X": 80.6229,
+        "Y": 264.5465,
+        "Z": 109.192436,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 322.932526
+    },
+    {
+      "name": "Ponsonby's Villa",
+      "coordinates": {
+        "X": -1521.1394,
+        "Y": 91.64996,
+        "Z": 56.44078,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 18.28959
+    },
+    {
+      "name": "Maze Bank Interior",
+      "coordinates": {
+        "X": -74.13894,
+        "Y": -820.1197,
+        "Z": 243.38588,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 340.697174
+    },
+    {
+      "name": "Terrorbyte Interior",
+      "coordinates": {
+        "X": -1419.62,
+        "Y": -3012.35,
+        "Z": -80.05,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 79.19
+    },
+    {
+      "name": "Avenger Interior",
+      "coordinates": {
+        "X": 528.26,
+        "Y": 4750.46,
+        "Z": -70.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 92.87
+    },
+    {
+      "name": "Kosatka Interior",
+      "coordinates": {
+        "X": 1561.38,
+        "Y": 390.7,
+        "Z": -50.69,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 178.53
+    },
+    {
+      "name": "MOC Interior",
+      "coordinates": {
+        "X": 1103.44,
+        "Y": -2991.13,
+        "Z": -39.99,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 178.53
+    },
+    {
+      "name": "Life Invader",
+      "coordinates": {
+        "X": 683.3306,
+        "Y": 561.006958,
+        "Z": 129.04657,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 347.116882
+    },
+    {
+      "name": "Mount Chiliad",
+      "coordinates": {
+        "X": 461.020569,
+        "Y": 5575.182,
+        "Z": 795.26,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 89.3056
+    },
+    {
+      "name": "MC Club",
+      "coordinates": {
+        "X": 1103.1012,
+        "Y": -3154.843,
+        "Z": -37.523,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 314.027985
+    },
+    {
+      "name": "Weed Interior",
+      "coordinates": {
+        "X": 1058.39807,
+        "Y": -3193.08618,
+        "Z": -39.1613235,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 139.577866
+    },
+    {
+      "name": "Meth Table",
+      "coordinates": {
+        "X": 1088.11011,
+        "Y": -3190.005,
+        "Z": -38.99347,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 204.582367
+    },
+    {
+      "name": "Cargo Warehouse Interior",
+      "coordinates": {
+        "X": 1002.644,
+        "Y": -3100.57178,
+        "Z": -38.9998779,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 259.827759
+    },
+    {
+      "name": "Biker Interior",
+      "coordinates": {
+        "X": 1000.56818,
+        "Y": -3159.15479,
+        "Z": -38.9073639,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 185.48082
+    },
+    {
+      "name": "Photo Shoot Garage",
+      "coordinates": {
+        "X": 728.789856,
+        "Y": -2982.87646,
+        "Z": -38.40483,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 177.3305
+    },
+    {
+      "name": "Bunker",
+      "coordinates": {
+        "X": 885.93866,
+        "Y": -3244.00562,
+        "Z": -98.2713547,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 72.71229
+    },
+    {
+      "name": "Police Mug Shot Room",
+      "coordinates": {
+        "X": 403.216248,
+        "Y": -1001.14893,
+        "Z": -99.00411,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 359.72467
+    },
+    {
+      "name": "Comedy Club Interior",
+      "coordinates": {
+        "X": 377.095123,
+        "Y": -1001.46576,
+        "Z": -99.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 359.074524
+    },
+    {
+      "name": "GTA Online Luxury Apartment",
+      "coordinates": {
+        "X": -781.81,
+        "Y": 318.45,
+        "Z": 187.91,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 358.41
+    },
+    {
+      "name": "GTA Online Garage",
+      "coordinates": {
+        "X": 225.278015,
+        "Y": -992.0178,
+        "Z": -98.99996,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 274.010437
+    },
+    {
+      "name": "GTA Online Garage 2",
+      "coordinates": {
+        "X": 200.111908,
+        "Y": -1002.45117,
+        "Z": -98.99991,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 279.04422
+    },
+    {
+      "name": "GTA Online Small Apartment",
+      "coordinates": {
+        "X": 340.8547,
+        "Y": -997.841064,
+        "Z": -99.19625,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 240.069977
+    },
+    {
+      "name": "GTA Online Plane Hangar",
+      "coordinates": {
+        "X": -1268.51123,
+        "Y": -3010.47534,
+        "Z": -48.49021,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 166.052826
+    },
+    {
+      "name": "Aircraft Carrier",
+      "coordinates": {
+        "X": 3043.82617,
+        "Y": -4675.389,
+        "Z": 15.2614107,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 201.590424
+    },
+    {
+      "name": "North Yankton Teleport",
+      "coordinates": {
+        "X": 3595.39673,
+        "Y": -4893.727,
+        "Z": 115.838394,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 142.030991,
+      "ipls":[
+        "prologue01",
+        "Prologue01c",
+        "Prologue01d",
+        "Prologue01e",
+        "Prologue01f",
+        "Prologue01g",
+        "prologue01h",
+        "prologue01i",
+        "prologue01j",
+        "prologue01k",
+        "prologue01z",
+        "prologue02",
+        "prologue03",
+        "prologue03b",
+        "prologue03_grv_cov",
+        "prologue03_grv_dug",
+        "prologue03_grv_fun",
+        "prologue04",
+        "prologue04b",
+        "prologue04_cover",
+        "prologue05",
+        "prologue05b",
+        "prologue06",
+        "prologue06b",
+        "prologue06_int",
+        "prologuerd",
+        "prologuerdb",
+        "prologue_DistantLights",
+        "prologue_grv_torch",
+        "prologue_m2_door",
+        "prologue_LODLights",
+        "DES_ProTree_start"
+      ]
+    },
+    {
+      "name": "Garage",
+      "coordinates": {
+        "X": 724.4124,
+        "Y": -2992.81226,
+        "Z": -38.999897,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 211.020691
+    },
+    {
+      "name": "Pool",
+      "coordinates": {
+        "X": -3041.08716,
+        "Y": 35.4914932,
+        "Z": 10.118103,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 12.2142458
+    },
+    {
+      "name": "Morgue Interior",
+      "coordinates": {
+        "X": 274.9237,
+        "Y": -1360.88049,
+        "Z": 24.5378017,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 45.1000824
+    },
+    {
+      "name": "Mount Gordo Ghost/Spirit",
+      "coordinates": {
+        "X": 3116.66431,
+        "Y": 5544.58936,
+        "Z": 190.423065,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 316.196869
+    },
+    {
+      "name": "Olive Garden",
+      "coordinates": {
+        "X": -1897.3158,
+        "Y": 2032.08362,
+        "Z": 140.741074,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 328.979858
+    },
+    {
+      "name": "Te-Qui-La-La",
+      "coordinates": {
+        "X": -563.213867,
+        "Y": 270.3246,
+        "Z": 83.01964,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 30.2388859
+    },
+    {
+      "name": "Final Fantasy Pier",
+      "coordinates": {
+        "X": -2035.08313,
+        "Y": -462.392365,
+        "Z": 10.9664354,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 140.531784
+    },
+    {
+      "name": "Underwater UFO",
+      "coordinates": {
+        "X": 758.938354,
+        "Y": 7394.00049,
+        "Z": 0.283411741,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 347.275024
+    },
+    {
+      "name": "Cargo Warehouse 2",
+      "coordinates": {
+        "X": 1058.63635,
+        "Y": -3097.845,
+        "Z": -38.9999466,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 259.486664
+    },
+    {
+      "name": "Playboy Mansion",
+      "coordinates": {
+        "X": -1519.50439,
+        "Y": 89.48463,
+        "Z": 55.87579,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 55.4038277
+    },
+    {
+      "name": "Meth Factory",
+      "coordinates": {
+        "X": 999.3148,
+        "Y": -3199.36768,
+        "Z": -36.39358,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 278.985229
+    },
+    {
+      "name": "Submarine",
+      "coordinates": {
+        "X": 514.786133,
+        "Y": 4844.599,
+        "Z": -68.99047,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 330.259125
+    },
+    {
+      "name": "GTA Online Facility",
+      "coordinates": {
+        "X": 1286.50562,
+        "Y": 2849.457,
+        "Z": 49.36315,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 200.4131
+    },
+    {
+      "name": "Cinema",
+      "coordinates": {
+        "X": -1422.71777,
+        "Y": -245.85733,
+        "Z": 16.8016739,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 199.555252
+    },
+    {
+      "name": "Dr Phil's Ranch",
+      "coordinates": {
+        "X": 1398.89624,
+        "Y": 1139.26147,
+        "Z": 114.333595,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 3.047837
+    },
+    {
+      "name": "Trevor's Meth Lab",
+      "coordinates": {
+        "X": 1396.935,
+        "Y": 3608.99268,
+        "Z": 38.941925,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 166.717667
+    },
+    {
+      "name": "Nightclub",
+      "coordinates": {
+        "X": -1569.73291,
+        "Y": -3013.44434,
+        "Z": -74.40614,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 352.772217
+    },
+    {
+      "name": "Nightclub Warehouse",
+      "coordinates": {
+        "X": -1504.37927,
+        "Y": -2992.439,
+        "Z": -82.20727,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 15.3607512
+    },
+    {
+      "name": "IAA Office",
+      "coordinates": {
+        "X": 118.110451,
+        "Y": -626.2352,
+        "Z": 206.046814,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 341.124146
+    },
+    {
+      "name": "Underwater Hatch",
+      "coordinates": {
+        "X": 4278.378,
+        "Y": 2974.193,
+        "Z": -175.973053,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 217.312454
+    },
+    {
+      "name": "Foundry",
+      "coordinates": {
+        "X": 1079.49768,
+        "Y": -1990.33655,
+        "Z": 30.87876,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 137.27742
+    },
+    {
+      "name": "FIB Office",
+      "coordinates": {
+        "X": 134.3171,
+        "Y": -748.9873,
+        "Z": 258.151825,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 250.884445
+    },
+    {
+      "name": "Floyd's Apartment",
+      "coordinates": {
+        "X": -1158.65649,
+        "Y": -1512.77686,
+        "Z": 4.195555,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 19.4418716
+    },
+    {
+      "name": "Solomon's Office",
+      "coordinates": {
+        "X": -1005.79187,
+        "Y": -479.160339,
+        "Z": 50.02718,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 39.0478973
+    },
+    {
+      "name": "Mines",
+      "coordinates": {
+        "X": -594.83844,
+        "Y": 2084.32471,
+        "Z": 131.4065,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 195.139954
+    },
+    {
+      "name": "Playboy Mansion Interior",
+      "coordinates": {
+        "X": -1516.79041,
+        "Y": 126.044594,
+        "Z": 55.6680679,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 139.853287
+    },
+    {
+      "name": "Monaco Top",
+      "coordinates": {
+        "X": 9186.718,
+        "Y": -2432.80542,
+        "Z": 388.098358,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 105.748611
+    },
+    {
+      "name": "Legion Square",
+      "coordinates": {
+        "X": 225.69,
+        "Y": -784.63,
+        "Z": 30.74,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 53.833
+    },
+    {
+      "name": "Mission Row Station",
+      "coordinates": {
+        "X": 394.312469,
+        "Y": -981.7468,
+        "Z": 28.8864174,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 177.050186
+    },
+    {
+      "name": "Fort Zancudo",
+      "coordinates": {
+        "X": -2270.3313,
+        "Y": 3199.96338,
+        "Z": 32.80998,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 239.796814
+    },
+    {
+      "name": "Prison - Point A",
+      "coordinates": {
+        "X": 1770.56116,
+        "Y": 2653.86987,
+        "Z": 45.5648766,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 43.6327324
+    },
+    {
+      "name": "Prison - Point B",
+      "coordinates": {
+        "X": 1780.27026,
+        "Y": 2493.64233,
+        "Z": 55.1433067,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 51.2875443
+    },
+    {
+      "name": "Slaughterhouse - Point A",
+      "coordinates": {
+        "X": -71.35082,
+        "Y": 6263.014,
+        "Z": 31.09019,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 166.366959
+    },
+    {
+      "name": "Slaughterhouse - Point B",
+      "coordinates": {
+        "X": -177.459946,
+        "Y": 6154.902,
+        "Z": 31.20638,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 232.7731
+    },
+    {
+      "name": "Morgue Interior - Point A",
+      "coordinates": {
+        "X": 289.108063,
+        "Y": -1348.08569,
+        "Z": 24.5378075,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 44.16278
+    },
+    {
+      "name": "Morgue Interior - Point B",
+      "coordinates": {
+        "X": 251.707275,
+        "Y": -1387.06921,
+        "Z": 39.53437,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 335.449951
+    },
+    {
+      "name": "Submarine - Point A",
+      "coordinates": {
+        "X": 514.1927,
+        "Y": 4901.151,
+        "Z": -65.7728043,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 175.489777
+    },
+    {
+      "name": "Submarine - Point B",
+      "coordinates": {
+        "X": 513.837036,
+        "Y": 4838.775,
+        "Z": -62.58789,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 220.061661
+    },
+    {
+      "name": "Foundry - Point A",
+      "coordinates": {
+        "X": 1067.50732,
+        "Y": -2006.57239,
+        "Z": 32.0822525,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 256.034027
+    },
+    {
+      "name": "Foundry - Point B",
+      "coordinates": {
+        "X": 1083.34888,
+        "Y": -2017.76831,
+        "Z": 41.48031,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 49.536972
+    },
+    {
+      "name": "FIB Building - Point A",
+      "coordinates": {
+        "X": 139.301788,
+        "Y": -760.697754,
+        "Z": 258.151825,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 43.7238922
+    },
+    {
+      "name": "FIB Building - Point B",
+      "coordinates": {
+        "X": 151.84993,
+        "Y": -740.51416,
+        "Z": 254.152145,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 149.179153
+    },
+    {
+      "name": "IAA Database - Point A",
+      "coordinates": {
+        "X": 1978.89441,
+        "Y": 2939.195,
+        "Z": -84.80006,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 348.633484
+    },
+    {
+      "name": "IAA Database - Point B",
+      "coordinates": {
+        "X": 2357.53052,
+        "Y": 2902.63525,
+        "Z": -84.80007,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 97.04384
+    },
+    {
+      "name": "Chiliad Bunker - Point A",
+      "coordinates": {
+        "X": 562.550842,
+        "Y": 5962.282,
+        "Z": -157.86586,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 142.573654
+    },
+    {
+      "name": "Chiliad Bunker - Point B",
+      "coordinates": {
+        "X": 366.305237,
+        "Y": 6305.861,
+        "Z": -159.958054,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 88.92543
+    },
+    {
+      "name": "IAA Facility - Point A",
+      "coordinates": {
+        "X": 2021.93555,
+        "Y": 3021.40479,
+        "Z": -72.69174,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 234.0711
+    },
+    {
+      "name": "IAA Facility - Point B",
+      "coordinates": {
+        "X": 2130.64038,
+        "Y": 2925.54248,
+        "Z": -61.9018936,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 107.676315
+    },
+    {
+      "name": "Arcade Garage",
+      "coordinates": {
+        "X": 2712.69238,
+        "Y": -354.265137,
+        "Z": -55.1866951,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 169.083908
+    },
+    {
+      "name": "Mile High Club - Point A",
+      "coordinates": {
+        "X": -137.889587,
+        "Y": -942.046265,
+        "Z": 114.246574,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 121.2172
+    },
+    {
+      "name": "Mile High Club - Point B",
+      "coordinates": {
+        "X": -168.879684,
+        "Y": -1009.25171,
+        "Z": 114.136108,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 173.5725
+    },
+    {
+      "name": "Casino",
+      "coordinates": {
+        "X": 919.914,
+        "Y": 57.7601547,
+        "Z": 80.34603,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 329.049561
+    },
+    {
+      "name": "Casino Rooftop",
+      "coordinates": {
+        "X": 914.847839,
+        "Y": 53.5366974,
+        "Z": 111.661186,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 113.049164
+    },
+    {
+      "name": "Casino Heist - Point A",
+      "coordinates": {
+        "X": 2516.372,
+        "Y": -254.859543,
+        "Z": -24.1149731,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 20.0699635
+    },
+    {
+      "name": "Casino Heist - Point B",
+      "coordinates": {
+        "X": 2467.37354,
+        "Y": -276.217926,
+        "Z": -58.4681473,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 227.22171
+    },
+    {
+      "name": "Casino Heist - Point C",
+      "coordinates": {
+        "X": 2488.61255,
+        "Y": -254.817276,
+        "Z": -70.69423,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 185.444382
+    },
+    {
+      "name": "Casino Vault",
+      "coordinates": {
+        "X": 2498.32715,
+        "Y": -238.564911,
+        "Z": -70.73822,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 269.102356
+    },
+    {
+      "name": "Casino Security Tunnel",
+      "coordinates": {
+        "X": 2521.46,
+        "Y": -279.04,
+        "Z": -65.72,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 269.59
+    },
+    {
+      "name": "Casino Penthouse",
+      "coordinates": {
+        "X": 982.98,
+        "Y": 65.93,
+        "Z": 115.16,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 147.34
+    },
+    {
+      "name": "Casino Garage",
+      "coordinates": {
+        "X": 1257.1,
+        "Y": 222.65,
+        "Z": -49.08,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 271.11
+    },
+    {
+      "name": "Casino Car Park",
+      "coordinates": {
+        "X": 1339.0,
+        "Y": 183.64,
+        "Z": -48.88,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 269.9
+    },
+    {
+      "name": "Casino Interior",
+      "coordinates": {
+        "X": 1088.85,
+        "Y": 207.44,
+        "Z": -50.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 317.02
+    },
+    {
+      "name": "Casino Interior (Destroyed)",
+      "coordinates": {
+        "X": 2468.77,
+        "Y": -287.59,
+        "Z": -59.27,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 321.61
+    }
+]
+

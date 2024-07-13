@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapParentTxds>
+ <txdRelationships>
+  <Item>
+   <parent>Transfagarasan_1</parent>
+   <child>Transfagarasan</child>
+  </Item>
+  <Item>
+   <parent>Transfagarasan_2</parent>
+   <child>Transfagarasan_1</child>
+  </Item>
+  <Item>
+   <parent>Transfagarasan_3</parent>
+   <child>Transfagarasan_2</child>
+  </Item>
+  <Item>
+   <parent>Transfagarasan_4</parent>
+   <child>Transfagarasan_3</child>
+  </Item>
+  <Item>
+   <parent>Transfagarasan_5</parent>
+   <child>Transfagarasan_4</child>
+  </Item>
+  <Item>
+   <parent>Transfagarasan_6</parent>
+   <child>Transfagarasan_5</child>
+  </Item>
+  <Item>
+   <parent>Transfagarasan_7</parent>
+   <child>Transfagarasan_6</child>
+  </Item>
+  <Item>
+   <parent>Transfagarasan_8</parent>
+   <child>Transfagarasan_7</child>
+  </Item>
+  <Item>
+   <parent>Transfagarasan_9</parent>
+   <child>Transfagarasan_8</child>
+  </Item>
+  <Item>
+   <parent>Transfagarasan_10</parent>
+   <child>Transfagarasan_9</child>
+  </Item>
+ </txdRelationships>
+</CMapParentTxds>
